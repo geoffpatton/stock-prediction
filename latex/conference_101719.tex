@@ -11,14 +11,11 @@
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \begin{document}
 
-\title{Stock Price Prediction using Machine Learning Models \\
-{\footnotesize \textsuperscript{*}Note: Sub-titles are not captured in Xplore and
-should not be used}
-\thanks{Identify applicable funding agency here. If none, delete this.}
-}
+\title{Stock Price Prediction using Machine Learning Models }
 
 \author{\IEEEauthorblockN{1\textsuperscript{st}Geoff Patton, 2\textsuperscript{nd}Rohit Bhattacharya, 3\textsuperscript{rd}Fengtian Lu, 4\textsuperscript{th}Ananda Mahalingam }
-\IEEEauthorblockA{\textit{dept. name of organization (of Aff.)} \\
+\IEEEauthorblockA{
+\textit{College of Computing \& Informatics}\\
 \textit{Drexel University}\\
 Philadelphia, United States \\
 gp495@drexel.edu, rb689@drexel.edu, fl373@drexel.edu, asm465@drexel.edu}
@@ -55,219 +52,213 @@ In this paper, we shall use the machine learning models to predict the stock pri
 The predicted price can then be compared with the actual stock price to arrive at an accuracy score. Regression is a key element of predictive modelling and is a perfect fit for predicting financial stock prices.
 We will be using various regression models for our study here.
 
-\section{Ease of Use}
+\section{Related Work}
 
-\subsection{Maintaining the Integrity of the Specifications}
+Mehar Vijh, Deeksha Chandola, Vinay Anand Tikkiwal, and Arun Kumar tested Random Forest along with neural networks using 4 features (Open, High, Low, and Close) using RMSE and MAPE as indicators and found that they were effective in predicting the stock prices [3].
+Mehtabhorn Obthong, Nongnuch Tantisantiwong, Watthanasak Jeamwatthanachai and Gary Wills used various ML techniques partially focused on regression to predict stock prices including KNN, Neural Networks and Random Forest [4].
+Ramkrishna Patel, Vikas Choudhary, Deepika Saxena, and Ashutosh Kumar Singh discussed feature reduction in data pre-processing in application of different approaches including Naïve Bayes, KNN, and Linear Regression to predict stock prices [5].
 
-The IEEEtran class file is used to format your paper and style the text. All margins,
-column widths, line spaces, and text fonts are prescribed; please do not
-alter them. You may note peculiarities. For example, the head margin
-measures proportionately more than is customary. This measurement
-and others are deliberate, using specifications that anticipate your paper
-as one part of the entire proceedings, and not as an independent document.
-Please do not revise any of the current designations.
+\section{Methodology}
 
-\section{Prepare Your Paper Before Styling}
-Before you begin to format your paper, first write and save the content as a
-separate text file. Complete all content and organizational editing before
-formatting. Please note sections \ref{AA}--\ref{SCM} below for more information on
-proofreading, spelling and grammar.
+\subsection{Data Collection using Finnhub}\label{AA}
 
-Keep your text and graphic files separate until after the text has been
-formatted and styled. Do not number text heads---{\LaTeX} will do that
-for you.
+Over the last few years, several new market data providers have come online. They tend to have modern websites, broad coverage, and well-documented RESTful APIs.
+Their services are often priced very competitively - especially for personal use - and usually have generous free tiers.
+One such newcomer is finnhub.io. Its offering includes stock, bond, crypto, and FX historical price data and real time trades and quotes.
+Their fundamental data offering is noticeably broad and includes current values and point-in-time snapshots for numerous metrics.
+There are also some interesting alternative data sets including measures of social media sentiment, insider transactions and insider sentiment, senate lobbying, government spending, and others.
+In addition, there is a real-time newsfeed delivered over web-sockets.
+Our dataset for this research activity has been prepared using FinnHub free tier.
+The free tier is quite generous and offers more than enough for doing proof of concept work and testing ideas.
+It contains quite a few Rest API endpoints and allows 60 calls per minute.
+However, some of the data is limited when using the free tier.
+For example, the candlestick data that provides the daily stock price only contains 1 year of historical data.
+For this analysis, we are using the financial data for Comcast (CMCSA) and a few of its competitors from various segments such as internet/broadband, media, mobile, gaming, etc.
+The competitors included in this paper include Verizon (VZ), AT&T (T), and Dish Network (DISH).
 
-\subsection{Abbreviations and Acronyms}\label{AA}
-Define abbreviations and acronyms the first time they are used in the text,
-even after they have been defined in the abstract. Abbreviations such as
-IEEE, SI, MKS, CGS, ac, dc, and rms do not have to be defined. Do not use
-abbreviations in the title or heads unless they are unavoidable.
+\subsection{Data Preprocessing }\label{AA}
+Data preprocessing is a step in the data mining and data analysis process that takes raw data and transforms it into a format that can be understood and analyzed by computers and machine learning.
+Good, preprocessed data is even more important than the most powerful algorithms, to the point that machine learning models trained with bad data could be harmful to the analysis.
 
-\subsection{Units}
-\begin{itemize}
-\item Use either SI (MKS) or CGS as primary units. (SI units are encouraged.) English units may be used as secondary units (in parentheses). An exception would be the use of English units as identifiers in trade, such as ``3.5-inch disk drive''.
-\item Avoid combining SI and CGS units, such as current in amperes and magnetic field in oersteds. This often leads to confusion because equations do not balance dimensionally. If you must use mixed units, clearly state the units for each quantity that you use in an equation.
-\item Do not mix complete spellings and abbreviations of units: ``Wb/m\textsuperscript{2}'' or ``webers per square meter'', not ``webers/m\textsuperscript{2}''. Spell out units when they appear in text: ``. . . a few henries'', not ``. . . a few H''.
-\item Use a zero before decimal points: ``0.25'', not ``.25''. Use ``cm\textsuperscript{3}'', not ``cc''.)
-\end{itemize}
+\subsubsection{Handling Missing Data}\\
 
-\subsection{Equations}
-Number equations consecutively. To make your
-equations more compact, you may use the solidus (~/~), the exp function, or
-appropriate exponents. Italicize Roman symbols for quantities and variables,
-but not Greek symbols. Use a long dash rather than a hyphen for a minus
-sign. Punctuate equations with commas or periods when they are part of a
-sentence, as in:
+Missing values are one of the common issues in machine learning models, and their causes are related to human errors, interruptions in the data flow, and incorrect measurements, among others.
+Most of the algorithms in machine learning do not accept missing values and through errors if a dataset has missing values.
+Therefore, it is necessary to solve this issue utilizing some mechanism to deal with or remove them.
+Removing rows or columns with missing data can affect the performance of the model, as the size of the data decreases.
+
+\subsubsection{Handling Outliers}\\
+
+Outliers can be detected by plotting the distribution of the returns and observing if the distribution has extreme fat tails, which is a hint of some anomaly in the data.
+Also, outliers can be detected by using the percentiles of the data.
+Researchers can define a certain percentage threshold in the upper bottom of the distribution where values beyond these limits are considered outliers.
+
+\subsubsection{Scaling}\\
+
+After scaling a dataset, all the continuous variables become identical in terms of the range.
+It is required to scale all the inputs to have values that can be compared.
+Some techniques to scale values on a dataset are Normalization and Standardization.
+
+\subsubsection{Normalization}\\
+
+Normalization scales all values in the range 0 and 1.
+Each value of the variable is subtracted by the min value and divided by the difference between the max value and the min value.
+The procedure does not change the distribution of the feature.
+Before normalization, outliers should be handled.
+
 \begin{equation}
-a+b=\gamma\label{eq}
+Xnorm = \frac{X - X\min_}{X\max_ - X\min_}
 \end{equation}
 
-Be sure that the
-symbols in your equation have been defined before or immediately following
-the equation. Use ``\eqref{eq}'', not ``Eq.~\eqref{eq}'' or ``equation \eqref{eq}'', except at
-the beginning of a sentence: ``Equation \eqref{eq} is . . .''
+\begin{equation}
+Xnorm = \frac{X - \min_{X}}{\max_{X} - \min_{X}}
+\end{equation}
 
-\subsection{\LaTeX-Specific Advice}
+\subsubsection{Standardization}\\
 
-Please use ``soft'' (e.g., \verb|\eqref{Eq}|) cross references instead
-of ``hard'' references (e.g., \verb|(1)|). That will make it possible
-to combine sections, add equations, or change the order of figures or
-citations without having to go through the file line by line.
+This method is also called the z-score and scale each of the values of a column by removing from them the mean of the column and divided by the standard deviation.
+This technique decreases the effect of outliers in each feature.
 
-Please don't use the \verb|{eqnarray}| equation environment. Use
-\verb|{align}| or \verb|{IEEEeqnarray}| instead. The \verb|{eqnarray}|
-environment leaves unsightly spaces around relation symbols.
+\begin{equation}
+\sigma = \sqrt\frac{\sum{(X-\mu)^2}}{N}
+\end{equation}
 
-Please note that the \verb|{subequations}| environment in {\LaTeX}
-will increment the main equation counter even when there are no
-equation numbers displayed. If you forget that, you might write an
-article in which the equation numbers skip from (17) to (20), causing
-the copy editors to wonder if you've discovered a new method of
-counting.
 
-{\BibTeX} does not work by magic. It doesn't get the bibliographic
-data from thin air but from .bib files. If you use {\BibTeX} to produce a
-bibliography you must send the .bib files.
+\begin{equation}
+s = \sqrt\frac{\sum{(x_i-\bar{x})^2}}{n-1}
+\end{equation}
 
-{\LaTeX} can't read your mind. If you assign the same label to a
-subsubsection and a table, you might find that Table I has been cross
-referenced as Table IV-B3.
 
-{\LaTeX} does not have precognitive abilities. If you put a
-\verb|\label| command before the command that updates the counter it's
-supposed to be using, the label will pick up the last counter to be
-cross referenced instead. In particular, a \verb|\label| command
-should not go before the caption of a figure or a table.
+\subsection{Data Analysis}
 
-Do not use \verb|\nonumber| inside the \verb|{array}| environment. It
-will not stop equation numbers inside \verb|{array}| (there won't be
-any anyway) and it might stop a wanted equation number in the
-surrounding equation.
+The FinnHub Free tier APIs provides one year of candlestick data for stocks.
+This data set contains the daily open, high, low, close, and volume values (OHLCV) of a stock over time.
 
-\subsection{Some Common Mistakes}\label{SCM}
-\begin{itemize}
-\item The word ``data'' is plural, not singular.
-\item The subscript for the permeability of vacuum $\mu_{0}$, and other common scientific constants, is zero with subscript formatting, not a lowercase letter ``o''.
-\item In American English, commas, semicolons, periods, question and exclamation marks are located within quotation marks only when a complete thought or name is cited, such as a title or full quotation. When quotation marks are used, instead of a bold or italic typeface, to highlight a word or phrase, punctuation should appear outside of the quotation marks. A parenthetical phrase or statement at the end of a sentence is punctuated outside of the closing parenthesis (like this). (A parenthetical sentence is punctuated within the parentheses.)
-\item A graph within a graph is an ``inset'', not an ``insert''. The word alternatively is preferred to the word ``alternately'' (unless you really mean something that alternates).
-\item Do not use the word ``essentially'' to mean ``approximately'' or ``effectively''.
-\item In your paper title, if the words ``that uses'' can accurately replace the word ``using'', capitalize the ``u''; if not, keep using lower-cased.
-\item Be aware of the different meanings of the homophones ``affect'' and ``effect'', ``complement'' and ``compliment'', ``discreet'' and ``discrete'', ``principal'' and ``principle''.
-\item Do not confuse ``imply'' and ``infer''.
-\item The prefix ``non'' is not a word; it should be joined to the word it modifies, usually without a hyphen.
-\item There is no period after the ``et'' in the Latin abbreviation ``et al.''.
-\item The abbreviation ``i.e.'' means ``that is'', and the abbreviation ``e.g.'' means ``for example''.
-\end{itemize}
-An excellent style manual for science writers is \cite{b7}.
+\subsubsection{Stock Chart}\\
+The chart below shows the closing price for Comcast and its competitors for the last year and a half.
+----- Add Stock chart ----
 
-\subsection{Authors and Affiliations}
-\textbf{The class file is designed for, but not limited to, six authors.} A
-minimum of one author is required for all conference articles. Author names
-should be listed starting from left to right and then moving down to the
-next line. This is the author sequence that will be used in future citations
-and by indexing services. Names should not be listed in columns nor group by
-affiliation. Please keep your affiliations as succinct as possible (for
-example, do not differentiate among departments of the same organization).
+\subsubsection{Distribution of Dataset}\\
+The following chart shows the distribution of the candlestick data for the CMCSA ticker symbol
+----- Add EDA ----
 
-\subsection{Identify the Headings}
-Headings, or heads, are organizational devices that guide the reader through
-your paper. There are two types: component heads and text heads.
+\subsection{Machine Learning Models}
 
-Component heads identify the different components of your paper and are not
-topically subordinate to each other. Examples include Acknowledgments and
-References and, for these, the correct style to use is ``Heading 5''. Use
-``figure caption'' for your Figure captions, and ``table head'' for your
-table title. Run-in heads, such as ``Abstract'', will require you to apply a
-style (in this case, italic) in addition to the style provided by the drop
-down menu to differentiate the head from the text.
+\subsubsection{Linear Regression}\\
 
-Text heads organize the topics on a relational, hierarchical basis. For
-example, the paper title is the primary text head because all subsequent
-material relates and elaborates on this one topic. If there are two or more
-sub-topics, the next level head (uppercase Roman numerals) should be used
-and, conversely, if there are not at least two sub-topics, then no subheads
-should be introduced.
+Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data.
+One variable is considered an explanatory variable, and the other a dependent variable.
+It must be determined if there is a relationship between the variables of interest.
+A scatterplot can be a helpful tool in determining the strength of the relationship between two variables.
+If there appears to be no association between the proposed explanatory and dependent variables, then fitting a linear regression model to the data will not provide a useful model.
+A linear regression line has an equation of the form:
+\begin{equation}
+\hat{y} = \hat{\beta_{0}} + \hat{\beta_{1}}x  \\ \label{eq:1}
+\end{equation}
+where X is the explanatory variable and Y is the dependent variable.
+The slope of the line is b, and a is the intercept (the value of y when x = 0).
 
-\subsection{Figures and Tables}
-\paragraph{Positioning Figures and Tables} Place figures and tables at the top and
-bottom of columns. Avoid placing them in the middle of columns. Large
-figures and tables may span across both columns. Figure captions should be
-below the figures; table heads should appear above the tables. Insert
-figures and tables after they are cited in the text. Use the abbreviation
-``Fig.~\ref{fig}'', even at the beginning of a sentence.
+\subsubsection{Locally Weighted Linear Regression}\\
 
-\begin{table}[htbp]
-\caption{Table Type Styles}
-\begin{center}
-\begin{tabular}{|c|c|c|c|}
-\hline
-\textbf{Table}&\multicolumn{3}{|c|}{\textbf{Table Column Head}} \\
-\cline{2-4}
-\textbf{Head} & \textbf{\textit{Table column subhead}}& \textbf{\textit{Subhead}}& \textbf{\textit{Subhead}} \\
-\hline
-copy& More table copy$^{\mathrm{a}}$& &  \\
-\hline
-\multicolumn{4}{l}{$^{\mathrm{a}}$Sample of a Table footnote.}
-\end{tabular}
-\label{tab1}
-\end{center}
-\end{table}
+LWLR is a non-parametric regression technique that fits a linear regression model to a dataset by giving more weight to nearby data points.
+LWLR fits a separate linear regression model for each query point based on the weights assigned to the training data points.
+The weights assigned to each training data point are inversely proportional to their distance from the query point.
+Training data points that are closer to the query point will have a higher weight and contribute more to the linear regression model.
+LWLR is useful when a global linear model does not capture the relationship between the input and output variables.
+The goal is to capture local patterns in the data.
 
-\begin{figure}[htbp]
-\centerline{\includegraphics{fig1.png}}
-\caption{Example of a figure caption.}
-\label{fig}
-\end{figure}
+\subsubsection{Decision Tree Regressor}\\
 
-Figure Labels: Use 8 point Times New Roman for Figure labels. Use words
-rather than symbols or abbreviations when writing Figure axis labels to
-avoid confusing the reader. As an example, write the quantity
-``Magnetization'', or ``Magnetization, M'', not just ``M''. If including
-units in the label, present them within parentheses. Do not label axes only
-with units. In the example, write ``Magnetization (A/m)'' or ``Magnetization
-\{A[m(1)]\}'', not just ``A/m''. Do not label axes with a ratio of
-quantities and units. For example, write ``Temperature (K)'', not
-``Temperature/K''.
+Decision trees build regression or classification models in the form of a tree structure.
+It breaks down a dataset into smaller subsets while an associated decision tree is incrementally developed.
+The result is a tree with decision and leaf nodes.
+A decision node has two or more branches, each representing values for the attribute tested.
+The leaf node represents a decision on the numerical target.
+The topmost decision node in a tree which corresponds to the best predictor is called root node.
+Decision trees can handle both categorical and numerical data.
+The Accuracy of the model can be calculated using Mean Squared Error formula:
 
-\section*{Acknowledgment}
+--- Add Formula --- MSE...
 
-The preferred spelling of the word ``acknowledgment'' in America is without
-an ``e'' after the ``g''. Avoid the stilted expression ``one of us (R. B.
-G.) thanks $\ldots$''. Instead, try ``R. B. G. thanks$\ldots$''. Put sponsor
-acknowledgments in the unnumbered footnote on the first page.
+\subsubsection{Random Forest Regressor}\\
 
-\section*{References}
+Random Forest is a ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and Aggregation, commonly known as bagging.
+The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees.
+Random Forest has multiple decision trees as base learning models.
+We randomly perform row sampling and feature sampling from the dataset forming sample datasets for every model.
+This part is called Bootstrap.
 
-Please number citations consecutively within brackets \cite{b1}. The
-sentence punctuation follows the bracket \cite{b2}. Refer simply to the reference
-number, as in \cite{b3}---do not use ``Ref. \cite{b3}'' or ``reference \cite{b3}'' except at
-the beginning of a sentence: ``Reference \cite{b3} was the first $\ldots$''
+\subsubsection{K-Folds Cross Validation}\\
 
-Number footnotes separately in superscripts. Place the actual footnote at
-the bottom of the column in which it was cited. Do not put footnotes in the
-abstract or reference list. Use letters for table footnotes.
+Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
+The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation.
+When a specific value for k is chosen, it may be used in place of k in reference to the model, such as k=20 becoming 20-fold cross-validation.
+Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data.
+That is, to use a limited sample to estimate how the model is expected to perform in general when used to make predictions on data not used during the training of the model.
 
-Unless there are six authors or more give all authors' names; do not use
-``et al.''. Papers that have not been published, even if they have been
-submitted for publication, should be cited as ``unpublished'' \cite{b4}. Papers
-that have been accepted for publication should be cited as ``in press'' \cite{b5}.
-Capitalize only the first word in a paper title, except for proper nouns and
-element symbols.
+\subsubsection{Gradient Boosting}\\
 
-For papers published in translation journals, please give the English
-citation first, followed by the original foreign-language citation \cite{b6}.
+Gradient boosting is a machine learning technique used in regression and classification tasks, among others.
+It gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees.
+When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest.
+A gradient-boosted trees model is built in a stage-wise fashion as in other boosting methods, but it generalizes the other methods by allowing optimization of an arbitrary differentiable loss function.
+
+\subsubsection{Bayesian Ridge}\\
+
+Bayesian regression is a type of linear regression that uses Bayesian statistics to estimate the unknown parameters of a model.
+It uses Bayes theorem to estimate the likelihood of a set of parameters given observed data.
+The goal of Bayesian regression is to find the best estimate of the parameters of a linear model that describes the relationship between the independent and the dependent variables.
+The main difference between traditional linear regression and Bayesian regression is the underlying assumption regarding the data-generating process.
+Traditional linear regression assumes that data follows a Gaussian or normal distribution, while Bayesian regression has stronger assumptions about the nature of the data and puts a prior probability distribution on the parameters.
+
+
+\subsection{Experiment and Results}
+
+The predicted and actual stock prices comparison for the last 8 months has been shown below for the various regression models.
+The regression models perform well for the most part apart from minor variations at certain points.
+
+---- Add Graphs ---
+
+Below are the metrics for each of the models that we implemented.
+The metrics include the R-squared score, Mean Squared Error (MSE), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE).
+
+---- Add Metrics ---
+
+
+\section{Conclusion}
+
+In this paper, we have tried to apply the machine learning models to predict the stock price of Comcast and Verizon.
+The Stock prediction is a regression problem and hence we have chosen various regression models to predict the stock price.
+For our experiment, the Data set was obtained using the Finn Hub Free tier APIs and we could only get the data for the last one year.
+With subscription, Finn Hub provides the entire data set including historical data for the last 10 years. The data set was split into 80\% training and 20\% testing set.
+The training set was used to train the model and then use the testing set to predict the stock price. The predicted results are then compared with the actual stock price to calculate the accuracy. Based on the results, all the regression models provide an accuracy of above 90\% but the linear regression models provide an accuracy of above 98\%.
+Hence, we conclude that linear regression is the most appropriate model for predicting stock prices.
+We could add additional features to the training set such as other financial data, stock market sentiment data etc., and improve the accuracy score. Despite the constraints with the limited data set, the initial results show that the linear regression can be used to accurately predict the stock prices.
+
+\section{Future Work}
+The next steps of development would be to predict the future direction of a stock.
+We can accomplish this by applying some supervised learning methods shown here and incorporating additional financial market data.
+Another approach would be to train a neural network that will predict the close price for the next day using our existing dataset. \cite{b1}
+Below are examples of the financial market data that could be included in our dataset to train the model.
+
+Social media sentiment over time for Comcast and its competitors.
+
+---- Add Sentiment plot ---
+
+The following chart shows the recommendation trends for Comcast
+
+---- Add Reccomendation plot ---
+
+
+\section*{Bibliography}
 
 \begin{thebibliography}{00}
-\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
-\bibitem{b2} J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68--73.
-\bibitem{b3} I. S. Jacobs and C. P. Bean, ``Fine particles, thin films and exchange anisotropy,'' in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271--350.
-\bibitem{b4} K. Elissa, ``Title of paper if known,'' unpublished.
-\bibitem{b5} R. Nicole, ``Title of paper with only first word capitalized,'' J. Name Stand. Abbrev., in press.
-\bibitem{b6} Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, ``Electron spectroscopy studies on magneto-optical media and plastic substrate interface,'' IEEE Transl. J. Magn. Japan, vol. 2, pp. 740--741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
-\bibitem{b7} M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
+\bibitem{b1}``Forecasting Market Price of Stock using Artificial Neural Network, International Journal of Computer Applications''  (0975 – 8887) Volume 124 – No.12, August 2015, Amod Murkute: Student, M.E. Thadomal Shahani Engineering College Mumbai, India, Tanuja Sarode, PhD Associate Professor Thadomal Shahani Engineering College Mumbai, India
+\bibitem{b2} Vargas, Manuel R., Beatriz SLP De Lima, and Alexandre G. Evsukoff.  ``Deep learning for stock market prediction from financial news articles.'' 2017 IEEE international conference on computational intelligence and virtual environments for measurement systems and applications (CIVEMSA). IEEE, 2017.
+\bibitem{b3} Vijh, Mehar, et al. ``Stock closing price prediction using machine learning techniques.'' Procedia computer science 167 (2020): 599-606.
+\bibitem{b4} Obthong, Mehtabhorn, et al.  ``A survey on machine learning for stock price prediction: Algorithms and techniques.'' (2020): 63-71.
+\bibitem{b5} Patel, Ramkrishna, et al. ``Review of stock prediction using machine learning techniques.'' 021 5th International Conference on Trends in Electronics and Informatics (ICOEI). IEEE, 2021.
 \end{thebibliography}
 \vspace{12pt}
-\color{red}
-IEEE conference templates contain guidance text for composing and formatting conference papers. Please ensure that all template text is removed from your conference paper prior to submission to the conference. Failure to remove the template text from your paper may result in your paper not being published.
 
 \end{document}

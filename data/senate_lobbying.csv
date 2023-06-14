@@ -2517,6 +2517,18 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2022,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/1c055d3a-cec0-4425-b26b-512d01c9fdf8/print/,80000.0,,,,175641,284950,284950-175641,36893.0
 2022,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/966642bd-455f-4366-9907-15bd43840152/print/,80000.0,,,,175641,284950,284950-175641,36893.0
 2022,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/be5a4f68-e791-42d7-b526-0f7e287303da/print/,80000.0,,,,175641,284950,284950-175641,36893.0
+2022,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/6cc1224a-0282-45da-9487-efff52e83e6f/print/,,1870000.0,,,113215,9000,9000-113215,30865
+2022,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/540ae91e-6fe4-46e6-b875-964643b9e156/print/,,2070000.0,,,113215,9000,9000-113215,30865
+2022,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/85f0616b-5f56-40fc-98a1-ad0c1790e28d/print/,,1450000.0,,,113215,9000,9000-113215,30865
+2022,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/3b9fdb40-2444-4fe2-9247-4830313fb9f9/print/,,1430000.0,,,113215,9000,9000-113215,30865
+2022,CVX,"CHEVRON, USA, INC.",Energy production,US,Q1,https://lda.senate.gov/filings/public/filing/effcc541-42f7-4726-8ca2-a70c94963522/print/,20000.0,,,,119046,13610,13610-119046,30647
+2022,CVX,"CHEVRON, USA, INC.",Energy production,US,Q2,https://lda.senate.gov/filings/public/filing/0d3376e4-e1ce-40d6-8b7e-343705c94c55/print/,20000.0,,,,119046,13610,13610-119046,30647
+2022,CVX,"CHEVRON, USA, INC.",Energy production,US,Q3,https://lda.senate.gov/filings/public/filing/a156db6f-6e5b-48e7-874c-832e6d9215e0/print/,20000.0,,,,119046,13610,13610-119046,30647
+2022,CVX,"CHEVRON, USA, INC.",Energy production,US,Q4,https://lda.senate.gov/filings/public/filing/ebf25c65-9723-47cf-b9fd-5df376c71e8c/print/,20000.0,,,,119046,13610,13610-119046,30647
+2022,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q1,https://lda.senate.gov/filings/public/filing/cca5fdda-fa72-4b7d-9cd1-d426b520cd29/print/,80000.0,,,,175641,284950,284950-175641,36893
+2022,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/1c055d3a-cec0-4425-b26b-512d01c9fdf8/print/,80000.0,,,,175641,284950,284950-175641,36893
+2022,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/966642bd-455f-4366-9907-15bd43840152/print/,80000.0,,,,175641,284950,284950-175641,36893
+2022,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/be5a4f68-e791-42d7-b526-0f7e287303da/print/,80000.0,,,,175641,284950,284950-175641,36893
 2021,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/2d19fa0e-8986-4ab7-92cc-e2b77f12f862/print/,40000.0,,,,106608,5357,5357-106608,31564.0
 2021,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/ea3ba59b-6c46-4f34-b769-b77dcd250b89/print/,,2170000.0,,,113215,9000,9000-113215,30865.0
 2021,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/ffc3ac0f-0794-48b2-9df2-6aeec6a36c73/print/,,1530000.0,,,113215,9000,9000-113215,30865.0
@@ -2530,6 +2542,19 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2021,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/82755cec-6892-4064-a67c-cbbfa30e10c6/print/,80000.0,,,,175641,284950,284950-175641,36893.0
 2021,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/5289c61f-8ac8-4903-88d7-ccdf4f15e0a8/print/,80000.0,,,,175641,284950,284950-175641,36893.0
 2021,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/2bbead63-51f4-451a-87d4-cbd917446bc1/print/,80000.0,,,,175641,284950,284950-175641,36893.0
+2021,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/2d19fa0e-8986-4ab7-92cc-e2b77f12f862/print/,40000.0,,,,106608,5357,5357-106608,31564
+2021,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/ea3ba59b-6c46-4f34-b769-b77dcd250b89/print/,,2170000.0,,,113215,9000,9000-113215,30865
+2021,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/ffc3ac0f-0794-48b2-9df2-6aeec6a36c73/print/,,1530000.0,,,113215,9000,9000-113215,30865
+2021,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/68b32fc8-e900-480f-b6a3-064966ae6e9b/print/,,1350000.0,,,113215,9000,9000-113215,30865
+2021,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/2bc01aef-fd58-4f8b-9952-9e2b09ff1415/print/,,1400000.0,,,113215,9000,9000-113215,30865
+2021,CVX,"CHEVRON, USA, INC.",Energy production,US,Q1,https://lda.senate.gov/filings/public/filing/f031a79d-e253-4f1a-879b-d036459806b3/print/,20000.0,,,,119046,13610,13610-119046,30647
+2021,CVX,"CHEVRON, USA, INC.",Energy production,US,Q2,https://lda.senate.gov/filings/public/filing/99b03725-3d1b-4420-b2c6-3f4e7044f2af/print/,20000.0,,,,119046,13610,13610-119046,30647
+2021,CVX,"CHEVRON, USA, INC.",Energy production,US,Q3,https://lda.senate.gov/filings/public/filing/184074f3-9dc9-4663-992f-0a5c9af05d90/print/,20000.0,,,,119046,13610,13610-119046,30647
+2021,CVX,"CHEVRON, USA, INC.",Energy production,US,Q4,https://lda.senate.gov/filings/public/filing/a62983e2-082d-4bd0-a5bc-66adfcc6c4c0/print/,20000.0,,,,119046,13610,13610-119046,30647
+2021,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q1,https://lda.senate.gov/filings/public/filing/2ec4e5e1-bf51-4dbd-8e34-a523a2338895/print/,80000.0,,,,175641,284950,284950-175641,36893
+2021,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/82755cec-6892-4064-a67c-cbbfa30e10c6/print/,80000.0,,,,175641,284950,284950-175641,36893
+2021,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/5289c61f-8ac8-4903-88d7-ccdf4f15e0a8/print/,80000.0,,,,175641,284950,284950-175641,36893
+2021,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/2bbead63-51f4-451a-87d4-cbd917446bc1/print/,80000.0,,,,175641,284950,284950-175641,36893
 2020,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/d1d1eac7-6952-485e-adb7-4136e5f1a5cf/print/,50000.0,,,,100995,682,682-100995,31784.0
 2020,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/a97045ab-f692-4ad0-97b4-6ef2c6a3e5f6/print/,80000.0,,,,106608,5357,5357-106608,31564.0
 2020,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/dae24a29-7c21-4f62-8e4a-8a421348ad3a/print/,40000.0,,,,106608,5357,5357-106608,31564.0
@@ -2562,6 +2587,38 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2020,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q1,https://lda.senate.gov/filings/public/filing/dcd9e12d-7e73-4421-8df9-c22e9084fb67/print/,50000.0,,,,193687,400635921,400635921-193687,400635921.0
 2020,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q2,https://lda.senate.gov/filings/public/filing/ffd3dd83-f8b7-4ebe-b109-ab882b65d6a6/print/,40000.0,,,,193687,400635921,400635921-193687,400635921.0
 2020,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q3,https://lda.senate.gov/filings/public/filing/598c53b1-bf8a-49e8-b5f3-3d36a78a6ac9/print/,40000.0,,,,193687,400635921,400635921-193687,400635921.0
+2020,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/d1d1eac7-6952-485e-adb7-4136e5f1a5cf/print/,50000.0,,,,100995,682,682-100995,31784
+2020,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/a97045ab-f692-4ad0-97b4-6ef2c6a3e5f6/print/,80000.0,,,,106608,5357,5357-106608,31564
+2020,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/dae24a29-7c21-4f62-8e4a-8a421348ad3a/print/,40000.0,,,,106608,5357,5357-106608,31564
+2020,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/c1a77868-5d59-4a75-8405-41f40610393a/print/,40000.0,,,,106608,5357,5357-106608,31564
+2020,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/39c17271-5af4-4e17-a30d-b3a41e32ff7e/print/,40000.0,,,,106608,5357,5357-106608,31564
+2020,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/1f10a703-9589-4223-8ba8-e77c8cf5bc54/print/,,3050000.0,,,113215,9000,9000-113215,30865
+2020,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/8bcaefad-bb5b-4414-830b-b8622d24ff84/print/,,1950000.0,,,113215,9000,9000-113215,30865
+2020,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/4d82c1f8-5c43-4077-b625-65d57478c2f3/print/,,1380000.0,,,113215,9000,9000-113215,30865
+2020,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/7c294d1a-11f0-47b5-ada7-cb2c98b940b6/print/,,1130000.0,,,113215,9000,9000-113215,30865
+2020,CVX,"CHEVRON, USA, INC.",Energy production,US,Q1,https://lda.senate.gov/filings/public/filing/f338199f-5dc2-4908-b633-4b97d18179fb/print/,10000.0,,,,119046,13610,13610-119046,30647
+2020,CVX,"CHEVRON, USA, INC.",Energy production,US,Q2,https://lda.senate.gov/filings/public/filing/cd0c4366-a5e7-46f3-a412-d916c3714dc8/print/,20000.0,,,,119046,13610,13610-119046,30647
+2020,CVX,"CHEVRON, USA, INC.",Energy production,US,Q3,https://lda.senate.gov/filings/public/filing/7b92a31a-718b-4d40-83ad-82beccdd1976/print/,20000.0,,,,119046,13610,13610-119046,30647
+2020,CVX,"CHEVRON, USA, INC.",Energy production,US,Q4,https://lda.senate.gov/filings/public/filing/7194b11d-0bb2-4ed3-ba55-66beda813c97/print/,20000.0,,,,119046,13610,13610-119046,30647
+2020,CVX,CHEVRON CORP,,US,Q1,https://lda.senate.gov/filings/public/filing/214d8fd1-f8da-4de2-ae48-9959d3a5b7b0/print/,10000.0,,,,131366,24123,24123-131366,31349
+2020,CVX,CHEVRON CORP,,US,Q4,https://lda.senate.gov/filings/public/filing/8b4fef58-f591-4558-8b65-eae78b5d28bb/print/,10000.0,,,,131366,24123,24123-131366,31349
+2020,CVX,"NOBLE ENERGY, INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/7ac834e3-6ea1-4dbc-b9df-0a5d4b3be712/print/,20000.0,,,,168203,75557,75557-168203,36051
+2020,CVX,"NOBLE ENERGY, INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/ab7c3f31-8bfa-433d-ad48-472db1bb3309/print/,20000.0,,,,168203,75557,75557-168203,36051
+2020,CVX,"NOBLE ENERGY, INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/45f1dfca-339b-4221-9d61-ea57bf058053/print/,20000.0,,,,168203,75557,75557-168203,36051
+2020,CVX,NOBLE ENERGY,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/28d663c5-094b-4630-bfc2-64498a2e7d31/print/,75000.0,,,,169777,76992,76992-169777,36118
+2020,CVX,NOBLE ENERGY,Energy,US,Q2,https://lda.senate.gov/filings/public/filing/36bedd37-6ded-4e54-b7a9-c592c7911491/print/,70000.0,,,,169777,76992,76992-169777,36118
+2020,CVX,NOBLE ENERGY,Energy,US,Q3,https://lda.senate.gov/filings/public/filing/f18c664f-c637-401e-997f-c0b56059ab7d/print/,52500.0,,,,169777,76992,76992-169777,36118
+2020,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q1,https://lda.senate.gov/filings/public/filing/4f1ba016-fb0a-45dc-ab20-5f8eff72ec43/print/,60000.0,,,,175641,284950,284950-175641,36893
+2020,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/6e12130b-b627-4daa-a5f8-b8ee522cbd3f/print/,60000.0,,,,175641,284950,284950-175641,36893
+2020,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/54cbdf8b-f053-4c1d-83c9-94b8f62fbc8b/print/,60000.0,,,,175641,284950,284950-175641,36893
+2020,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/1920b437-21e6-4a02-a82b-c6c216b272e3/print/,60000.0,,,,175641,284950,284950-175641,36893
+2020,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/0ec9470e-473d-48c4-acba-4e75ba931216/print/,60000.0,,,,184477,313715,313715-184477,39384
+2020,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/626ade2d-b621-43fb-9d7b-648bc329bff2/print/,,420000.0,,,190082,400393847,400393847-190082,400393847
+2020,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/4e9b21c7-88b9-42e4-9795-e283f229a70a/print/,,310000.0,,,190082,400393847,400393847-190082,400393847
+2020,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/2d26ff92-b7a9-4bb0-9965-4718c2f71b4f/print/,,610000.0,,,190082,400393847,400393847-190082,400393847
+2020,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q1,https://lda.senate.gov/filings/public/filing/dcd9e12d-7e73-4421-8df9-c22e9084fb67/print/,50000.0,,,,193687,400635921,400635921-193687,400635921
+2020,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q2,https://lda.senate.gov/filings/public/filing/ffd3dd83-f8b7-4ebe-b109-ab882b65d6a6/print/,40000.0,,,,193687,400635921,400635921-193687,400635921
+2020,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q3,https://lda.senate.gov/filings/public/filing/598c53b1-bf8a-49e8-b5f3-3d36a78a6ac9/print/,40000.0,,,,193687,400635921,400635921-193687,400635921
 2019,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/2e3f7437-3437-4e84-9884-5f1f190c0796/print/,50000.0,,,,100995,682,682-100995,31784.0
 2019,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/b5dd881b-01b2-41d6-ab19-27c3e0680638/print/,50000.0,,,,100995,682,682-100995,31784.0
 2019,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/f226afd6-c65f-4ffb-aa65-4d04736142ad/print/,50000.0,,,,100995,682,682-100995,31784.0
@@ -2599,6 +2656,43 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2019,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q2,https://lda.senate.gov/filings/public/filing/f7e3b686-1ffe-42f1-8573-023efa3f3fbd/print/,30000.0,,,,193687,400635921,400635921-193687,400635921.0
 2019,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q3,https://lda.senate.gov/filings/public/filing/bfb3a434-55ef-46c6-8073-8886c31c3e51/print/,40000.0,,,,193687,400635921,400635921-193687,400635921.0
 2019,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q4,https://lda.senate.gov/filings/public/filing/6c1cb27c-fee3-475f-9284-3f3b88905fcf/print/,50000.0,,,,193687,400635921,400635921-193687,400635921.0
+2019,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/2e3f7437-3437-4e84-9884-5f1f190c0796/print/,50000.0,,,,100995,682,682-100995,31784
+2019,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/b5dd881b-01b2-41d6-ab19-27c3e0680638/print/,50000.0,,,,100995,682,682-100995,31784
+2019,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/f226afd6-c65f-4ffb-aa65-4d04736142ad/print/,50000.0,,,,100995,682,682-100995,31784
+2019,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/da6dcfe7-fff9-43f6-8d46-323b92f489fa/print/,50000.0,,,,100995,682,682-100995,31784
+2019,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/b0398622-253d-4eef-802d-f3deb04d38d2/print/,80000.0,,,,106608,5357,5357-106608,31564
+2019,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/f10a32d8-8ae6-4d0b-977d-79445b6c4368/print/,80000.0,,,,106608,5357,5357-106608,31564
+2019,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/8f078940-82d7-4de9-aecf-fe527ff813cc/print/,80000.0,,,,106608,5357,5357-106608,31564
+2019,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/2ed37f20-592d-4cf5-80f1-b23a2c3d2d55/print/,80000.0,,,,106608,5357,5357-106608,31564
+2019,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/ebdab5a3-cb52-4f96-a7c5-4e3b5e9dbf70/print/,,2830000.0,,,113215,9000,9000-113215,30865
+2019,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/1e379bae-5ef3-46b3-97f5-bd35b6be2144/print/,,2380000.0,,,113215,9000,9000-113215,30865
+2019,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/ecf6cb25-3ae9-471e-b086-e00e4d6b55d8/print/,,2250000.0,,,113215,9000,9000-113215,30865
+2019,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/a6a42a8b-8341-49bd-8807-87612beebea3/print/,,1810000.0,,,113215,9000,9000-113215,30865
+2019,CVX,CHEVRON CORP,,US,Q2,https://lda.senate.gov/filings/public/filing/b6bffd18-9c39-4d6c-ad61-04f79d32dbee/print/,10000.0,,,,131366,24123,24123-131366,31349
+2019,CVX,"NOBLE ENERGY, INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/9bb293c9-2808-45e0-ae85-42e5952fa0ac/print/,20000.0,,,,168203,75557,75557-168203,36051
+2019,CVX,"NOBLE ENERGY, INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/f87a16e8-7712-4180-a73f-3b6f87764383/print/,20000.0,,,,168203,75557,75557-168203,36051
+2019,CVX,"NOBLE ENERGY, INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/ce7b98a1-2b06-43f3-b2d9-98b2322636cb/print/,20000.0,,,,168203,75557,75557-168203,36051
+2019,CVX,"NOBLE ENERGY, INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/8b5028a9-22b2-424a-b12d-3621f093cdcb/print/,20000.0,,,,168203,75557,75557-168203,36051
+2019,CVX,NOBLE ENERGY,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/0bcacc9d-6f33-4170-ae28-b2fd4127eb61/print/,75000.0,,,,169777,76992,76992-169777,36118
+2019,CVX,NOBLE ENERGY,Energy,US,Q2,https://lda.senate.gov/filings/public/filing/8d62c99d-95cf-4764-92d9-63a054b8e509/print/,75000.0,,,,169777,76992,76992-169777,36118
+2019,CVX,NOBLE ENERGY,Energy,US,Q3,https://lda.senate.gov/filings/public/filing/05eebedd-526a-4da2-a451-0caa40c86ff3/print/,75000.0,,,,169777,76992,76992-169777,36118
+2019,CVX,NOBLE ENERGY,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/44282b8d-e9b9-403b-b701-a1682b154fcb/print/,75000.0,,,,169777,76992,76992-169777,36118
+2019,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q1,https://lda.senate.gov/filings/public/filing/5ff8189c-93ba-4b22-863b-c5669a4ba49c/print/,50000.0,,,,175641,284950,284950-175641,36893
+2019,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/b12be923-63c9-41c2-b547-a2c3fe2e6690/print/,60000.0,,,,175641,284950,284950-175641,36893
+2019,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/a86f3221-afba-4c47-b2e2-ecbc47553c6e/print/,60000.0,,,,175641,284950,284950-175641,36893
+2019,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/aeaa20c6-b39d-4e6d-8180-d5751c90d9ca/print/,60000.0,,,,175641,284950,284950-175641,36893
+2019,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/df927c04-9527-484b-a690-0201a32f70f6/print/,80000.0,,,,184477,313715,313715-184477,39384
+2019,CVX,CHEVRON CORP.,Integrated energy industry,US,Q2,https://lda.senate.gov/filings/public/filing/44e98079-fe01-47b0-b893-b8c08f58f1cb/print/,80000.0,,,,184477,313715,313715-184477,39384
+2019,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/d7a81669-ff47-4200-aba3-74b95d0a7436/print/,80000.0,,,,184477,313715,313715-184477,39384
+2019,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/8d4fc226-472d-472a-ad02-3c7132638558/print/,80000.0,,,,184477,313715,313715-184477,39384
+2019,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/b4f24563-29e9-4643-871e-5587005facb7/print/,,320000.0,,,190082,400393847,400393847-190082,400393847
+2019,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/9b2aa61c-b354-42ee-ad59-0450041c61e8/print/,,980000.0,,,190082,400393847,400393847-190082,400393847
+2019,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/9a2244d5-7330-4017-94e1-ee8ea771c273/print/,,520000.0,,,190082,400393847,400393847-190082,400393847
+2019,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/abd2e36f-49c3-416b-9225-013f6c17722c/print/,,560000.0,,,190082,400393847,400393847-190082,400393847
+2019,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q1,https://lda.senate.gov/filings/public/filing/71bf4db0-f09d-4ab7-8164-f93e1bb8e1d5/print/,30000.0,,,,193687,400635921,400635921-193687,400635921
+2019,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q2,https://lda.senate.gov/filings/public/filing/f7e3b686-1ffe-42f1-8573-023efa3f3fbd/print/,30000.0,,,,193687,400635921,400635921-193687,400635921
+2019,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q3,https://lda.senate.gov/filings/public/filing/bfb3a434-55ef-46c6-8073-8886c31c3e51/print/,40000.0,,,,193687,400635921,400635921-193687,400635921
+2019,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q4,https://lda.senate.gov/filings/public/filing/6c1cb27c-fee3-475f-9284-3f3b88905fcf/print/,50000.0,,,,193687,400635921,400635921-193687,400635921
 2018,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/e027be36-0d0b-4e67-97c1-c153ae0d6b1e/print/,50000.0,,,,100995,682,682-100995,31784.0
 2018,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/4afd32fa-33f6-4dbb-bfe3-4076f05b1407/print/,50000.0,,,,100995,682,682-100995,31784.0
 2018,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/670cd230-ffe6-4e11-99c1-7a1da48c043f/print/,50000.0,,,,100995,682,682-100995,31784.0
@@ -2632,6 +2726,39 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2018,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q2,https://lda.senate.gov/filings/public/filing/b55c8ced-7ca6-4514-aeb3-7304bf165657/print/,30000.0,,,,193687,400635921,400635921-193687,400635921.0
 2018,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q3,https://lda.senate.gov/filings/public/filing/8bc5e74f-f2fe-4aaa-bf9a-68c71483c337/print/,30000.0,,,,193687,400635921,400635921-193687,400635921.0
 2018,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q4,https://lda.senate.gov/filings/public/filing/10850a4d-67b7-44e0-b5ef-d1b8a2be0c25/print/,30000.0,,,,193687,400635921,400635921-193687,400635921.0
+2018,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/e027be36-0d0b-4e67-97c1-c153ae0d6b1e/print/,50000.0,,,,100995,682,682-100995,31784
+2018,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/4afd32fa-33f6-4dbb-bfe3-4076f05b1407/print/,50000.0,,,,100995,682,682-100995,31784
+2018,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/670cd230-ffe6-4e11-99c1-7a1da48c043f/print/,50000.0,,,,100995,682,682-100995,31784
+2018,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/21940447-569c-4ae3-8790-57e35d4243e8/print/,50000.0,,,,100995,682,682-100995,31784
+2018,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/ec914c4f-48e5-4fd2-8f0e-bce5c606cfb1/print/,80000.0,,,,106608,5357,5357-106608,31564
+2018,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/e06cb558-fded-4751-90b6-6baccf246bbf/print/,80000.0,,,,106608,5357,5357-106608,31564
+2018,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/864f4afb-f7ec-43e1-815f-4b7ef51ad792/print/,80000.0,,,,106608,5357,5357-106608,31564
+2018,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/02684aae-d59d-415f-8c27-cc8f278893cc/print/,80000.0,,,,106608,5357,5357-106608,31564
+2018,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/5e068c72-ce4c-4916-8b51-3d883fe546ef/print/,,3090000.0,,,113215,9000,9000-113215,30865
+2018,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/263da0f7-e5b1-415c-831a-49da54d2104c/print/,,2550000.0,,,113215,9000,9000-113215,30865
+2018,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/78159d23-518b-46bc-82f1-0bfe5bb5a913/print/,,2020000.0,,,113215,9000,9000-113215,30865
+2018,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/c4f0c2c1-64c9-4e56-b168-608394e121ae/print/,,1940000.0,,,113215,9000,9000-113215,30865
+2018,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q1,https://lda.senate.gov/filings/public/filing/7b330d34-4e51-4f3c-a9eb-822bf05a5af3/print/,10000.0,,,,147573,39815,39815-147573,30171
+2018,CVX,NOBLE ENERGY,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/9d6d777c-0af0-4064-9e4e-6065bb6b7107/print/,70000.0,,,,169777,76992,76992-169777,36118
+2018,CVX,NOBLE ENERGY,Energy,US,Q2,https://lda.senate.gov/filings/public/filing/93b30042-626c-4579-8e7a-d142d95b6314/print/,75000.0,,,,169777,76992,76992-169777,36118
+2018,CVX,NOBLE ENERGY,Energy,US,Q3,https://lda.senate.gov/filings/public/filing/185d2531-6748-490a-ad17-948a3abd1398/print/,75000.0,,,,169777,76992,76992-169777,36118
+2018,CVX,NOBLE ENERGY,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/41b1f50b-3c69-403c-ac7b-961f8126a063/print/,75000.0,,,,169777,76992,76992-169777,36118
+2018,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q1,https://lda.senate.gov/filings/public/filing/6eca7b5c-dc20-4195-97ea-997cb674aee4/print/,50000.0,,,,175641,284950,284950-175641,36893
+2018,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/06891624-14c1-48e5-b5b1-568a795a5c03/print/,50000.0,,,,175641,284950,284950-175641,36893
+2018,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/d79516d3-382d-4877-86ca-dde4080547e7/print/,50000.0,,,,175641,284950,284950-175641,36893
+2018,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/f9e860c4-abfc-4a3a-877d-74e3bb63e81d/print/,50000.0,,,,175641,284950,284950-175641,36893
+2018,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/8cd2e9d1-4e65-4e04-9098-9b6b898199de/print/,90000.0,,,,184477,313715,313715-184477,39384
+2018,CVX,CHEVRON CORP.,Integrated energy industry,US,Q2,https://lda.senate.gov/filings/public/filing/d006b3e6-e921-402d-9e0e-d3f0b6215638/print/,90000.0,,,,184477,313715,313715-184477,39384
+2018,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/5a004d16-9632-4622-9fbd-e50fca23a854/print/,90000.0,,,,184477,313715,313715-184477,39384
+2018,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/e1f26ba6-0d54-47e7-8e2d-790696179e0c/print/,90000.0,,,,184477,313715,313715-184477,39384
+2018,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/1eba4340-395d-4805-b3ec-00caf8546ca1/print/,,700000.0,,,190082,400393847,400393847-190082,400393847
+2018,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/72968b26-adc7-4f41-b6cd-8d032667200f/print/,,450000.0,,,190082,400393847,400393847-190082,400393847
+2018,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/de187f41-e919-46cd-bd14-f91e9877eef5/print/,,490000.0,,,190082,400393847,400393847-190082,400393847
+2018,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/8e088753-b15c-4338-afdd-06a8b4f5f75e/print/,,420000.0,,,190082,400393847,400393847-190082,400393847
+2018,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q1,https://lda.senate.gov/filings/public/filing/dfdf660c-8d85-4818-a8a6-e039456c6a8a/print/,20000.0,,,,193687,400635921,400635921-193687,400635921
+2018,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q2,https://lda.senate.gov/filings/public/filing/b55c8ced-7ca6-4514-aeb3-7304bf165657/print/,30000.0,,,,193687,400635921,400635921-193687,400635921
+2018,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q3,https://lda.senate.gov/filings/public/filing/8bc5e74f-f2fe-4aaa-bf9a-68c71483c337/print/,30000.0,,,,193687,400635921,400635921-193687,400635921
+2018,CVX,"NOBLE ENERGY, INC.",independent oil and natural gas exploration and production company,US,Q4,https://lda.senate.gov/filings/public/filing/10850a4d-67b7-44e0-b5ef-d1b8a2be0c25/print/,30000.0,,,,193687,400635921,400635921-193687,400635921
 2017,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/491c09e3-b86d-44c0-898d-c763071176cd/print/,80000.0,,,,106608,5357,5357-106608,31564.0
 2017,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/fef91289-0763-4525-a829-d87cd1c11176/print/,80000.0,,,,106608,5357,5357-106608,31564.0
 2017,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/bb1ae5bf-dd54-4b0a-9aef-01abab0a72b5/print/,80000.0,,,,106608,5357,5357-106608,31564.0
@@ -2668,6 +2795,42 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2017,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/3ea9265a-924a-4f98-96e9-2b42e2d50702/print/,,440000.0,,,190082,400393847,400393847-190082,400393847.0
 2017,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/1fe0b49b-ddaa-44e6-88b6-86f8cf91ec06/print/,,360000.0,,,190082,400393847,400393847-190082,400393847.0
 2017,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/21deaec6-1b4b-4986-805e-a3b978b830c8/print/,,430000.0,,,190082,400393847,400393847-190082,400393847.0
+2017,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/491c09e3-b86d-44c0-898d-c763071176cd/print/,80000.0,,,,106608,5357,5357-106608,31564
+2017,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/fef91289-0763-4525-a829-d87cd1c11176/print/,80000.0,,,,106608,5357,5357-106608,31564
+2017,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/bb1ae5bf-dd54-4b0a-9aef-01abab0a72b5/print/,80000.0,,,,106608,5357,5357-106608,31564
+2017,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/71779579-38b1-49ab-9552-420686dba01f/print/,80000.0,,,,106608,5357,5357-106608,31564
+2017,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/4c11992e-778d-4070-b9f0-802d7fb1aa08/print/,,3270000.0,,,113215,9000,9000-113215,30865
+2017,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/7867eab0-37bb-4ec2-a2eb-cab1aaf1ecb7/print/,,1870000.0,,,113215,9000,9000-113215,30865
+2017,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/77e005af-af39-42f9-8166-0f2871a30385/print/,,2050000.0,,,113215,9000,9000-113215,30865
+2017,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/55d3d7f4-85a0-48be-a203-7b01e45254fb/print/,,2100000.0,,,113215,9000,9000-113215,30865
+2017,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/5790313c-7969-4587-a75d-198c720fba20/print/,30000.0,,,,124688,18433,18433-124688,31383
+2017,CVX,NOBLE ENERGY,,,Q1,https://lda.senate.gov/filings/public/filing/b6a5d988-857d-4706-b86f-eff668330286/print/,10000.0,,,,134429,27775,27775-134429,31212
+2017,CVX,NOBLE ENERGY,,,Q2,https://lda.senate.gov/filings/public/filing/f7e33519-5c23-4cae-a533-d8ff3e4df1b8/print/,10000.0,,,,134429,27775,27775-134429,31212
+2017,CVX,NOBLE ENERGY,,,Q3,https://lda.senate.gov/filings/public/filing/4d18c8e2-7bf0-466a-a1d6-3321cc7cd071/print/,15000.0,,,,134429,27775,27775-134429,31212
+2017,CVX,NOBLE ENERGY,,,Q4,https://lda.senate.gov/filings/public/filing/e6ae745b-731b-4134-a13e-36360ffdb157/print/,10000.0,,,,134429,27775,27775-134429,31212
+2017,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q1,https://lda.senate.gov/filings/public/filing/702b4af6-f698-423d-b6dc-cc1ee2ee7826/print/,20000.0,,,,147573,39815,39815-147573,30171
+2017,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q2,https://lda.senate.gov/filings/public/filing/d1e7dd5e-7e0c-43f9-acc9-d09ed26e6fd2/print/,10000.0,,,,147573,39815,39815-147573,30171
+2017,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q3,https://lda.senate.gov/filings/public/filing/9b46caaa-7120-48c0-9e91-0d84b9b8fd51/print/,10000.0,,,,147573,39815,39815-147573,30171
+2017,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q4,https://lda.senate.gov/filings/public/filing/be7ec277-ba5e-4d47-a9b9-51be307a61eb/print/,10000.0,,,,147573,39815,39815-147573,30171
+2017,CVX,NOBLE ENERGY,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/f8a59572-2e3a-4056-b33c-542790354101/print/,67500.0,,,,169777,76992,76992-169777,36118
+2017,CVX,NOBLE ENERGY,Energy,US,Q2,https://lda.senate.gov/filings/public/filing/f81e9d5f-682d-4b9e-b514-a4a42db8dde1/print/,67500.0,,,,169777,76992,76992-169777,36118
+2017,CVX,NOBLE ENERGY,Energy,US,Q3,https://lda.senate.gov/filings/public/filing/d20d9080-986f-479d-bed6-ba071d092cae/print/,67500.0,,,,169777,76992,76992-169777,36118
+2017,CVX,NOBLE ENERGY,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/db49f7aa-a334-4b8a-971f-e125281baf59/print/,45000.0,,,,169777,76992,76992-169777,36118
+2017,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q1,https://lda.senate.gov/filings/public/filing/15491c88-3f4f-4be8-b0c0-27541e038382/print/,40000.0,,,,175641,284950,284950-175641,36893
+2017,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q2,https://lda.senate.gov/filings/public/filing/be06b753-e0bb-4ce2-9625-b82059322b61/print/,40000.0,,,,175641,284950,284950-175641,36893
+2017,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q3,https://lda.senate.gov/filings/public/filing/c5799eef-f832-43c9-8103-044025c08f91/print/,40000.0,,,,175641,284950,284950-175641,36893
+2017,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/11bfb3ae-6e80-4778-8c24-7155b51ab071/print/,50000.0,,,,175641,284950,284950-175641,36893
+2017,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/e6ee6d3c-18e9-45a9-94ac-c9af60b19255/print/,90000.0,,,,184477,313715,313715-184477,39384
+2017,CVX,CHEVRON CORP.,Integrated energy industry,US,Q2,https://lda.senate.gov/filings/public/filing/6339aaf3-ee48-4daf-8d8f-e6d307e2f9e8/print/,90000.0,,,,184477,313715,313715-184477,39384
+2017,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/f22ca103-9299-4b8d-af3b-bb85be23bb31/print/,90000.0,,,,184477,313715,313715-184477,39384
+2017,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/2be41dcc-56f0-458e-bbb0-6b459d9acf8b/print/,90000.0,,,,184477,313715,313715-184477,39384
+2017,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q1,https://lda.senate.gov/filings/public/filing/d497ae2a-3131-419c-8e53-b6acd3847373/print/,20000.0,,,,187347,323557,323557-187347,39700
+2017,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q1,https://lda.senate.gov/filings/public/filing/b4c8d78c-bed9-4a60-aa49-e3c488ba14e7/print/,10000.0,,,,189578,400359670,400359670-189578,
+2017,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q2,https://lda.senate.gov/filings/public/filing/8458bf4f-db91-4a30-a6cd-31412eadbac9/print/,10000.0,,,,189578,400359670,400359670-189578,
+2017,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/01d35fb2-a8d3-47b0-91ff-8dfe82e9c97c/print/,,630000.0,,,190082,400393847,400393847-190082,400393847
+2017,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/3ea9265a-924a-4f98-96e9-2b42e2d50702/print/,,440000.0,,,190082,400393847,400393847-190082,400393847
+2017,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/1fe0b49b-ddaa-44e6-88b6-86f8cf91ec06/print/,,360000.0,,,190082,400393847,400393847-190082,400393847
+2017,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/21deaec6-1b4b-4986-805e-a3b978b830c8/print/,,430000.0,,,190082,400393847,400393847-190082,400393847
 2016,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/37f1d587-d17c-4aac-a053-e668d5d65ad2/print/,90000.0,,,,100995,682,682-100995,31784.0
 2016,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/f1df7a47-69e8-4bc4-aa4e-a82a36542ed7/print/,90000.0,,,,100995,682,682-100995,31784.0
 2016,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/1807513d-5e74-4628-b31b-d1f5a89f647a/print/,90000.0,,,,100995,682,682-100995,31784.0
@@ -2711,6 +2874,49 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2016,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/5c48b48b-05f2-49b5-90c1-45301db2705a/print/,,560000.0,,,190082,400393847,400393847-190082,400393847.0
 2016,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/f6f845a6-ae3a-4225-92b3-71cb43261a92/print/,,580000.0,,,190082,400393847,400393847-190082,400393847.0
 2016,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/12f262ff-1e02-4d49-a088-ef7c0e490119/print/,,510000.0,,,190082,400393847,400393847-190082,400393847.0
+2016,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/37f1d587-d17c-4aac-a053-e668d5d65ad2/print/,90000.0,,,,100995,682,682-100995,31784
+2016,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/f1df7a47-69e8-4bc4-aa4e-a82a36542ed7/print/,90000.0,,,,100995,682,682-100995,31784
+2016,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/1807513d-5e74-4628-b31b-d1f5a89f647a/print/,90000.0,,,,100995,682,682-100995,31784
+2016,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/92a9c456-e20b-467f-99e7-d5e3b10e6154/print/,90000.0,,,,100995,682,682-100995,31784
+2016,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/8ff1dbd0-9c68-4122-8062-bbba85b1bfcb/print/,80000.0,,,,106608,5357,5357-106608,31564
+2016,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/94f7f19f-87d7-44b6-b932-e0bcfe765a5a/print/,80000.0,,,,106608,5357,5357-106608,31564
+2016,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/f021496b-5762-4d5b-9d33-111d6944fae0/print/,80000.0,,,,106608,5357,5357-106608,31564
+2016,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/acf0fab7-fdfe-4941-ba47-e73db009314f/print/,80000.0,,,,106608,5357,5357-106608,31564
+2016,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/a15f5025-d088-4c8b-88b4-8bd20dc5ce8c/print/,,1850000.0,,,113215,9000,9000-113215,30865
+2016,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/41cd1253-9e92-4898-bc8b-7fb691ac8b32/print/,,2260000.0,,,113215,9000,9000-113215,30865
+2016,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/4352b666-f93f-4f93-848f-f82fc863df21/print/,,1680000.0,,,113215,9000,9000-113215,30865
+2016,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/8596fe82-793e-44e3-92e6-2eb34ad20fb3/print/,,1680000.0,,,113215,9000,9000-113215,30865
+2016,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/5c9db389-7211-41eb-9f33-e5519b57db53/print/,39400.0,,,,124688,18433,18433-124688,31383
+2016,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/050b15ac-8e84-4363-a3dc-e875aa68a004/print/,37000.0,,,,124688,18433,18433-124688,31383
+2016,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/da67e8b2-8d74-4ce1-8546-5d684be2d66f/print/,35000.0,,,,124688,18433,18433-124688,31383
+2016,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/711b5f0c-766c-483e-b00d-3a962900b332/print/,35000.0,,,,124688,18433,18433-124688,31383
+2016,CVX,CHEVRON,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/06776d82-0b71-440e-9fcc-839ca24a5ae7/print/,40000.0,,,,143813,35230,35230-143813,31204
+2016,CVX,CHEVRON,Energy,US,Q2,https://lda.senate.gov/filings/public/filing/85f66e8f-c1f2-4552-88dc-489d0cbd50f5/print/,50000.0,,,,143813,35230,35230-143813,31204
+2016,CVX,CHEVRON,Energy,US,Q3,https://lda.senate.gov/filings/public/filing/bed3db67-21b5-4e8c-86ac-2a76842ffc48/print/,50000.0,,,,143813,35230,35230-143813,31204
+2016,CVX,CHEVRON,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/e87f5f66-1cb3-4e04-aa23-0e11cd359b2e/print/,50000.0,,,,143813,35230,35230-143813,31204
+2016,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q1,https://lda.senate.gov/filings/public/filing/3cb6223e-0a48-4766-a90d-7ba0ec5bce0a/print/,20000.0,,,,147573,39815,39815-147573,30171
+2016,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q2,https://lda.senate.gov/filings/public/filing/c2b8189a-3318-4437-bd74-ca84d44c4bad/print/,20000.0,,,,147573,39815,39815-147573,30171
+2016,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q3,https://lda.senate.gov/filings/public/filing/ef059919-c563-4e5a-88df-08ea70fe7394/print/,20000.0,,,,147573,39815,39815-147573,30171
+2016,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q4,https://lda.senate.gov/filings/public/filing/a0fcf428-1473-4615-866a-fafa87692c74/print/,10000.0,,,,147573,39815,39815-147573,30171
+2016,CVX,NOBLE ENERGY,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/915d5028-c0ab-421c-b56f-2eed7c1aad1c/print/,67500.0,,,,169777,76992,76992-169777,36118
+2016,CVX,NOBLE ENERGY,Energy,US,Q2,https://lda.senate.gov/filings/public/filing/3b8d7176-dd81-4098-bea3-efc3d65a74e6/print/,67500.0,,,,169777,76992,76992-169777,36118
+2016,CVX,NOBLE ENERGY,Energy,US,Q3,https://lda.senate.gov/filings/public/filing/3b7216ef-f7fa-4a55-b9a8-ecd4edd7bea2/print/,67500.0,,,,169777,76992,76992-169777,36118
+2016,CVX,NOBLE ENERGY,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/2581059c-ff66-46a7-8d46-996b1483ee2b/print/,67500.0,,,,169777,76992,76992-169777,36118
+2016,CVX,"CHEVRON U.S.A., INC.",Energy company,US,Q4,https://lda.senate.gov/filings/public/filing/e795d870-187a-458c-b349-87809a44c9a5/print/,40000.0,,,,175641,284950,284950-175641,36893
+2016,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/75f4cfdb-0b04-4cbc-8c8f-ae691cb42435/print/,90000.0,,,,184477,313715,313715-184477,39384
+2016,CVX,CHEVRON CORP.,Integrated energy industry,US,Q2,https://lda.senate.gov/filings/public/filing/2c3dd2f2-7416-4b6a-a0b8-23f4e08036b6/print/,90000.0,,,,184477,313715,313715-184477,39384
+2016,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/95e2a0e5-e105-450f-aa3d-2bb8c7036258/print/,90000.0,,,,184477,313715,313715-184477,39384
+2016,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/da380b2c-ff85-454f-86ba-77d357ab6bde/print/,90000.0,,,,184477,313715,313715-184477,39384
+2016,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q1,https://lda.senate.gov/filings/public/filing/6f8e8da7-17a5-4eb7-a2ef-9c9579d60de0/print/,40000.0,,,,187347,323557,323557-187347,39700
+2016,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q2,https://lda.senate.gov/filings/public/filing/66339a11-5bfb-482f-a492-29669e00f9b6/print/,30000.0,,,,187347,323557,323557-187347,39700
+2016,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q3,https://lda.senate.gov/filings/public/filing/f316a796-01cf-4300-940c-57e6af0cbec9/print/,30000.0,,,,187347,323557,323557-187347,39700
+2016,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q4,https://lda.senate.gov/filings/public/filing/7c79fa6d-11d3-4e53-bf3b-f2bf06d1163a/print/,30000.0,,,,187347,323557,323557-187347,39700
+2016,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q3,https://lda.senate.gov/filings/public/filing/fb6a78f5-2df6-43e7-bce2-7daf302d7a64/print/,5000.0,,,,189578,400359670,400359670-189578,
+2016,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q4,https://lda.senate.gov/filings/public/filing/7f8f2c3f-8618-46f9-aec3-ff0cd31960af/print/,10000.0,,,,189578,400359670,400359670-189578,
+2016,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/a13632f6-697c-41aa-bca6-b332b05f93db/print/,,430000.0,,,190082,400393847,400393847-190082,400393847
+2016,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/5c48b48b-05f2-49b5-90c1-45301db2705a/print/,,560000.0,,,190082,400393847,400393847-190082,400393847
+2016,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/f6f845a6-ae3a-4225-92b3-71cb43261a92/print/,,580000.0,,,190082,400393847,400393847-190082,400393847
+2016,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/12f262ff-1e02-4d49-a088-ef7c0e490119/print/,,510000.0,,,190082,400393847,400393847-190082,400393847
 2015,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/8659ff09-37de-45c0-92fe-8fda4312b0f6/print/,90000.0,,,,100995,682,682-100995,31784.0
 2015,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/c3fc346e-3e67-4914-9e05-5544cfd488b8/print/,90000.0,,,,100995,682,682-100995,31784.0
 2015,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/38980684-54d0-4ee5-9ab9-529281c3e08d/print/,90000.0,,,,100995,682,682-100995,31784.0
@@ -2753,6 +2959,48 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2015,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/6b0ea7e3-5e6e-4ad0-8dfd-9916a740699e/print/,,440000.0,,,190082,400393847,400393847-190082,400393847.0
 2015,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/d222736d-447d-48c8-a070-c208117f564c/print/,,510000.0,,,190082,400393847,400393847-190082,400393847.0
 2015,CVX,NOBLE ENERGY,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/3bea4ae0-4aa9-4c3d-98e0-4d148532161a/print/,30000.0,,,,199245,401103515,401103515-199245,401103515.0
+2015,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/8659ff09-37de-45c0-92fe-8fda4312b0f6/print/,90000.0,,,,100995,682,682-100995,31784
+2015,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/c3fc346e-3e67-4914-9e05-5544cfd488b8/print/,90000.0,,,,100995,682,682-100995,31784
+2015,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/38980684-54d0-4ee5-9ab9-529281c3e08d/print/,90000.0,,,,100995,682,682-100995,31784
+2015,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/53f71597-2930-4c1d-aeb1-6bcd54d60075/print/,90000.0,,,,100995,682,682-100995,31784
+2015,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/bf61a0e1-e96c-457f-b76f-d9ef3a207fab/print/,120000.0,,,,106608,5357,5357-106608,31564
+2015,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/a18ea4fa-2468-4c69-976a-6ad33d781410/print/,80000.0,,,,106608,5357,5357-106608,31564
+2015,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/64d3fc90-4ef1-4885-aae5-7a793123ee5e/print/,80000.0,,,,106608,5357,5357-106608,31564
+2015,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/438efae7-be18-446f-9f9b-0ab91b964b67/print/,80000.0,,,,106608,5357,5357-106608,31564
+2015,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q1,https://lda.senate.gov/filings/public/filing/0e5c2c3f-eaa4-44a4-a357-ec8dd8f37b51/print/,30000.0,,,,112521,8453,8453-112521,30223
+2015,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q2,https://lda.senate.gov/filings/public/filing/5362c289-b2e4-41fa-aed9-d2d97bbeecb6/print/,30000.0,,,,112521,8453,8453-112521,30223
+2015,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q3,https://lda.senate.gov/filings/public/filing/0b0add4c-fdc6-4faf-b8b6-b37472210c2d/print/,30000.0,,,,112521,8453,8453-112521,30223
+2015,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/d32fb513-3c25-4fe2-aabf-62a19abda2d2/print/,,2020000.0,,,113215,9000,9000-113215,30865
+2015,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/0b9a7d2f-1ece-41f6-bec9-c998030758b2/print/,,2200000.0,,,113215,9000,9000-113215,30865
+2015,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/e19465d8-e096-40ea-b812-ef1424f7ac58/print/,,1470000.0,,,113215,9000,9000-113215,30865
+2015,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/7ca7398a-dfd1-49f8-ba2e-69b9f43715c8/print/,,1510000.0,,,113215,9000,9000-113215,30865
+2015,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/b69832d2-f2d5-404b-b884-7e4efe30ca17/print/,38000.0,,,,124688,18433,18433-124688,31383
+2015,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/28d450ab-9ffc-4e0a-85b3-1dbe10928e8d/print/,35000.0,,,,124688,18433,18433-124688,31383
+2015,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/15ce17f1-8bc2-4502-8ab3-de5b089df827/print/,37500.0,,,,124688,18433,18433-124688,31383
+2015,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/015b7634-e976-4c2f-b942-e5c7672e600d/print/,37500.0,,,,124688,18433,18433-124688,31383
+2015,CVX,CHEVRON,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/492cd5d1-95fc-4539-a82c-89fd146b6860/print/,40000.0,,,,143813,35230,35230-143813,31204
+2015,CVX,NOBLE ENERGY,Production of oil and natural gas,US,Q4,https://lda.senate.gov/filings/public/filing/a69927bd-4ca0-4161-bfbc-ffbe97564479/print/,20000.0,,,,147573,39815,39815-147573,30171
+2015,CVX,NOBLE ENERGY,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/70e93e3f-acc5-4c75-94ee-7f29f3a731bb/print/,75000.0,,,,169777,76992,76992-169777,36118
+2015,CVX,CHEVRON USA INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil and gas company,US,Q1,https://lda.senate.gov/filings/public/filing/ecbb4c40-578e-4367-9479-d0d364cc3691/print/,80000.0,,,,180747,301994,301994-180747,37793
+2015,CVX,CHEVRON USA INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil and gas company,US,Q2,https://lda.senate.gov/filings/public/filing/713c6a9f-069c-45ba-b235-4eb216ee4277/print/,80000.0,,,,180747,301994,301994-180747,37793
+2015,CVX,CHEVRON USA INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil and gas company,US,Q3,https://lda.senate.gov/filings/public/filing/ca69e5c4-0bbd-4562-a2c3-53bb3ef5f5e2/print/,80000.0,,,,180747,301994,301994-180747,37793
+2015,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/bb2aa5bc-a9ca-4dfe-b440-34c66724eb8f/print/,90000.0,,,,184477,313715,313715-184477,39384
+2015,CVX,CHEVRON CORP.,Integrated energy industry,US,Q2,https://lda.senate.gov/filings/public/filing/2bb45bd0-f43a-4066-ae35-f6cd054250f2/print/,90000.0,,,,184477,313715,313715-184477,39384
+2015,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/f20296c5-8bd1-4b6c-8570-4659bc62f14c/print/,90000.0,,,,184477,313715,313715-184477,39384
+2015,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/5f476da5-ac38-4d41-8a33-ea41a83c4efa/print/,90000.0,,,,184477,313715,313715-184477,39384
+2015,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q1,https://lda.senate.gov/filings/public/filing/047b443d-41cd-4cda-8027-6c4f16d89ae1/print/,40000.0,,,,187347,323557,323557-187347,39700
+2015,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q2,https://lda.senate.gov/filings/public/filing/ea60e06b-e62b-4659-a239-341fd5cc22bf/print/,40000.0,,,,187347,323557,323557-187347,39700
+2015,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q3,https://lda.senate.gov/filings/public/filing/f8929a8c-0bf1-4606-8840-a16fd5dd2df0/print/,40000.0,,,,187347,323557,323557-187347,39700
+2015,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q4,https://lda.senate.gov/filings/public/filing/114b5a4b-e0cc-468f-b9aa-659a3319186a/print/,40000.0,,,,187347,323557,323557-187347,39700
+2015,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q1,https://lda.senate.gov/filings/public/filing/5485316f-5d10-4135-8f87-a4c56a44c7c4/print/,10000.0,,,,189578,400359670,400359670-189578,
+2015,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q2,https://lda.senate.gov/filings/public/filing/631fc725-91bd-4f20-bba1-633e07a55cfc/print/,10000.0,,,,189578,400359670,400359670-189578,
+2015,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q3,https://lda.senate.gov/filings/public/filing/f5e026b0-23ba-4fff-b17a-bfa834c5cb98/print/,10000.0,,,,189578,400359670,400359670-189578,
+2015,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q4,https://lda.senate.gov/filings/public/filing/ae8f36df-119c-4aac-beb5-4ecc35da4685/print/,10000.0,,,,189578,400359670,400359670-189578,
+2015,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/1a1248f1-7182-4f31-a797-b00d9a5963f9/print/,,720000.0,,,190082,400393847,400393847-190082,400393847
+2015,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/6ef3f729-ae37-4566-ae16-646419399206/print/,,440000.0,,,190082,400393847,400393847-190082,400393847
+2015,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/6b0ea7e3-5e6e-4ad0-8dfd-9916a740699e/print/,,440000.0,,,190082,400393847,400393847-190082,400393847
+2015,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/d222736d-447d-48c8-a070-c208117f564c/print/,,510000.0,,,190082,400393847,400393847-190082,400393847
+2015,CVX,NOBLE ENERGY,Energy,US,Q1,https://lda.senate.gov/filings/public/filing/3bea4ae0-4aa9-4c3d-98e0-4d148532161a/print/,30000.0,,,,199245,401103515,401103515-199245,401103515
 2014,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/72aacb97-ae30-41d5-8870-6410b06570ba/print/,90000.0,,,,100995,682,682-100995,31784.0
 2014,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/8e688756-fae6-4f77-8d20-448786409a2e/print/,90000.0,,,,100995,682,682-100995,31784.0
 2014,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/f2120774-19f6-4b4c-9ede-b1e6db84070f/print/,90000.0,,,,100995,682,682-100995,31784.0
@@ -2806,6 +3054,59 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2014,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q3,https://lda.senate.gov/filings/public/filing/d1b80147-3ec3-4bf3-83b2-0a0ed9d73225/print/,22500.0,,,,193703,400637923,400637923-193703,400637923.0
 2014,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q4,https://lda.senate.gov/filings/public/filing/070f7fba-96b8-4da1-9977-1e3233829010/print/,22500.0,,,,193703,400637923,400637923-193703,400637923.0
 2014,CVX,NOBLE ENERGY,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/7fdf3aa6-02d7-418e-9734-ac4573a74eab/print/,20000.0,,,,199245,401103515,401103515-199245,401103515.0
+2014,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/72aacb97-ae30-41d5-8870-6410b06570ba/print/,90000.0,,,,100995,682,682-100995,31784
+2014,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/8e688756-fae6-4f77-8d20-448786409a2e/print/,90000.0,,,,100995,682,682-100995,31784
+2014,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/f2120774-19f6-4b4c-9ede-b1e6db84070f/print/,90000.0,,,,100995,682,682-100995,31784
+2014,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/70085161-8a68-4164-a385-f723eda0eb15/print/,90000.0,,,,100995,682,682-100995,31784
+2014,CVX,"NOBLE ENERGY, INC.",Production of oil and natural gas,US,Q1,https://lda.senate.gov/filings/public/filing/47d43df9-8f4d-4638-8ff2-7e995f4281f1/print/,10000.0,,,,104332,4208,4208-104332,30861
+2014,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/c748a30c-ee8e-482b-933f-0df2e36e51fa/print/,120000.0,,,,106608,5357,5357-106608,31564
+2014,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/318f27e9-aaa0-4585-a8e3-463e310d8b5d/print/,120000.0,,,,106608,5357,5357-106608,31564
+2014,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/d41fa65d-6634-45b2-b926-5e027997e63c/print/,120000.0,,,,106608,5357,5357-106608,31564
+2014,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/ed1224ef-87d0-4c64-a6c2-cb76f9dd2c0b/print/,120000.0,,,,106608,5357,5357-106608,31564
+2014,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q1,https://lda.senate.gov/filings/public/filing/08ff7325-643c-4da9-8d8d-b89a56e3d7a4/print/,50000.0,,,,112521,8453,8453-112521,30223
+2014,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q2,https://lda.senate.gov/filings/public/filing/416a2973-23c5-41f2-bb49-c6b3dccb3138/print/,50000.0,,,,112521,8453,8453-112521,30223
+2014,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q3,https://lda.senate.gov/filings/public/filing/9636cf7e-7059-4731-824d-5725d8286f34/print/,50000.0,,,,112521,8453,8453-112521,30223
+2014,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q4,https://lda.senate.gov/filings/public/filing/74377d23-5ed0-483f-860b-66e4dffa000f/print/,50000.0,,,,112521,8453,8453-112521,30223
+2014,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/9985eb6b-ecd8-4aee-ab24-280baf411182/print/,,2240000.0,,,113215,9000,9000-113215,30865
+2014,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/f90d0bfb-3cb2-41ac-a4e4-222e80054dd9/print/,,2800000.0,,,113215,9000,9000-113215,30865
+2014,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/1da2f459-236c-4f06-acbc-2856c84e15fd/print/,,1600000.0,,,113215,9000,9000-113215,30865
+2014,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/883f6a45-5501-4960-b048-11cb0eb881ed/print/,,1640000.0,,,113215,9000,9000-113215,30865
+2014,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/0c5e6efd-7a72-42f7-a690-f49abca028a2/print/,43500.0,,,,124688,18433,18433-124688,31383
+2014,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/17bf49d0-80b9-4f15-b069-590b067177be/print/,45000.0,,,,124688,18433,18433-124688,31383
+2014,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/fed5ee01-607f-4f6e-9d05-10737f46872c/print/,40000.0,,,,124688,18433,18433-124688,31383
+2014,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/879eed83-8457-47fd-8f0f-7594802d722b/print/,40000.0,,,,124688,18433,18433-124688,31383
+2014,CVX,CHEVRON CORP,,US,Q1,https://lda.senate.gov/filings/public/filing/058b21b1-7b33-4aef-8c65-eb8566555c49/print/,5000.0,,,,131366,24123,24123-131366,31349
+2014,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/122f230f-70d5-4d11-9ea4-b1d5a43197b2/print/,40000.0,,,,148935,39941,39941-148935,31958
+2014,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/33834e92-b864-4dea-ad20-331967785bfa/print/,20000.0,,,,148935,39941,39941-148935,31958
+2014,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q3,https://lda.senate.gov/filings/public/filing/9ff33fca-b009-48da-a972-34d9c05c8ee1/print/,10000.0,,,,148935,39941,39941-148935,31958
+2014,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/a8838226-a12d-4397-95e6-d42743c35d59/print/,10000.0,,,,148935,39941,39941-148935,31958
+2014,CVX,NOBLE ENERGY,"The exploration, development and production of crude oil and natural gas.",US,Q1,https://lda.senate.gov/filings/public/filing/e3df4922-aa76-416c-92ce-355bcc961f4a/print/,60000.0,,,,153430,44812,44812-153430,31507
+2014,CVX,NOBLE ENERGY,"The exploration, development and production of crude oil and natural gas.",US,Q3,https://lda.senate.gov/filings/public/filing/c90d94c1-e426-449d-8724-205a6fba5641/print/,60000.0,,,,153430,44812,44812-153430,31507
+2014,CVX,CHEVRON USA INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil and gas company,US,Q1,https://lda.senate.gov/filings/public/filing/f079112f-b5e6-455f-a0fa-de193a5f30c4/print/,50000.0,,,,180747,301994,301994-180747,37793
+2014,CVX,CHEVRON USA INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil and gas company,US,Q2,https://lda.senate.gov/filings/public/filing/0298e7f5-c763-4a6c-a525-c27f81282519/print/,80000.0,,,,180747,301994,301994-180747,37793
+2014,CVX,CHEVRON USA INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil and gas company,US,Q3,https://lda.senate.gov/filings/public/filing/5edfc3c3-0b0b-43b6-b081-b2a80c880ad9/print/,80000.0,,,,180747,301994,301994-180747,37793
+2014,CVX,CHEVRON USA INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil and gas company,US,Q4,https://lda.senate.gov/filings/public/filing/df9ab6e3-e68d-419a-becb-26b7b88b406f/print/,80000.0,,,,180747,301994,301994-180747,37793
+2014,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/d5f06137-378d-4ac2-8d66-208e8478d853/print/,90000.0,,,,184477,313715,313715-184477,39384
+2014,CVX,CHEVRON CORP.,Integrated energy industry,US,Q2,https://lda.senate.gov/filings/public/filing/e04cd7a7-82b0-4113-b6dc-340309ff41e0/print/,90000.0,,,,184477,313715,313715-184477,39384
+2014,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/82985750-6dde-4927-9916-9ed559ca04ea/print/,90000.0,,,,184477,313715,313715-184477,39384
+2014,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/851797d9-1c70-491c-9743-675d2f36b4f3/print/,90000.0,,,,184477,313715,313715-184477,39384
+2014,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q1,https://lda.senate.gov/filings/public/filing/f6f70c4d-3993-4271-a77c-47c382257ae0/print/,50000.0,,,,187347,323557,323557-187347,39700
+2014,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q2,https://lda.senate.gov/filings/public/filing/9dcc1101-9798-4e6a-9c37-91bb39d5102e/print/,50000.0,,,,187347,323557,323557-187347,39700
+2014,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q3,https://lda.senate.gov/filings/public/filing/8e55cf44-26a6-4534-af47-7f8d9111a210/print/,50000.0,,,,187347,323557,323557-187347,39700
+2014,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q4,https://lda.senate.gov/filings/public/filing/a1b99ffd-3313-4007-931c-d42f2447b164/print/,50000.0,,,,187347,323557,323557-187347,39700
+2014,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q2,https://lda.senate.gov/filings/public/filing/246453dd-6743-427d-950a-fb0718d915ec/print/,10000.0,,,,189578,400359670,400359670-189578,
+2014,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q1,https://lda.senate.gov/filings/public/filing/377969ff-199d-4f2d-b70a-bcf1f4ea8740/print/,10000.0,,,,189578,400359670,400359670-189578,
+2014,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q3,https://lda.senate.gov/filings/public/filing/4fdc92e2-57be-47d7-8e67-ab119c445a27/print/,10000.0,,,,189578,400359670,400359670-189578,
+2014,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q4,https://lda.senate.gov/filings/public/filing/c3939290-204a-4e7c-a6c0-a9a1f24ba833/print/,10000.0,,,,189578,400359670,400359670-189578,
+2014,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/393c37f0-a2db-466d-a797-ef2e28a5305b/print/,,380000.0,,,190082,400393847,400393847-190082,400393847
+2014,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/18010032-7460-4d8e-8ec7-e02d8785a840/print/,,360000.0,,,190082,400393847,400393847-190082,400393847
+2014,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/d300790d-7526-4295-83bc-9c972c1ddd58/print/,,540000.0,,,190082,400393847,400393847-190082,400393847
+2014,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/dee89599-fbf7-4f47-8238-9af0974f68b8/print/,,770000.0,,,190082,400393847,400393847-190082,400393847
+2014,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q1,https://lda.senate.gov/filings/public/filing/bf510884-6781-46cb-80fe-1515077d1e6d/print/,22500.0,,,,193703,400637923,400637923-193703,400637923
+2014,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q2,https://lda.senate.gov/filings/public/filing/670d9b15-1715-4b0f-8fa3-4cf8e556bde0/print/,22500.0,,,,193703,400637923,400637923-193703,400637923
+2014,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q3,https://lda.senate.gov/filings/public/filing/d1b80147-3ec3-4bf3-83b2-0a0ed9d73225/print/,22500.0,,,,193703,400637923,400637923-193703,400637923
+2014,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q4,https://lda.senate.gov/filings/public/filing/070f7fba-96b8-4da1-9977-1e3233829010/print/,22500.0,,,,193703,400637923,400637923-193703,400637923
+2014,CVX,NOBLE ENERGY,Energy,US,Q4,https://lda.senate.gov/filings/public/filing/7fdf3aa6-02d7-418e-9734-ac4573a74eab/print/,20000.0,,,,199245,401103515,401103515-199245,401103515
 2013,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/e80d298c-56a7-4b82-b7b4-0f399cdb8e27/print/,90000.0,,,,100995,682,682-100995,31784.0
 2013,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/bc5245af-d759-4081-9e57-fc99e6334f70/print/,90000.0,,,,100995,682,682-100995,31784.0
 2013,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/63fab678-69ee-41d8-beeb-7ecf78c2d9c6/print/,90000.0,,,,100995,682,682-100995,31784.0
@@ -2866,6 +3167,66 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2013,CVX,CHEVRON,Oil and gas energy company,US,Q4,https://lda.senate.gov/filings/public/filing/c169cd7a-ace1-4a9f-8353-3b453e1ea199/print/,40000.0,,,,191753,400493431,400493431-191753,
 2013,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q3,https://lda.senate.gov/filings/public/filing/1e19c496-30b8-4623-8d66-9eaea8513531/print/,15000.0,,,,193703,400637923,400637923-193703,400637923.0
 2013,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q4,https://lda.senate.gov/filings/public/filing/5fbc01e7-08d9-46be-9c98-93fcb7da01eb/print/,22500.0,,,,193703,400637923,400637923-193703,400637923.0
+2013,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/e80d298c-56a7-4b82-b7b4-0f399cdb8e27/print/,90000.0,,,,100995,682,682-100995,31784
+2013,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/bc5245af-d759-4081-9e57-fc99e6334f70/print/,90000.0,,,,100995,682,682-100995,31784
+2013,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/63fab678-69ee-41d8-beeb-7ecf78c2d9c6/print/,90000.0,,,,100995,682,682-100995,31784
+2013,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/93e58113-d2a0-4833-9a42-9fca5e4ebca4/print/,90000.0,,,,100995,682,682-100995,31784
+2013,CVX,"NOBLE ENERGY, INC.",Production of oil and natural gas,US,Q1,https://lda.senate.gov/filings/public/filing/64543485-2059-44dd-ab6e-add3f273387e/print/,50000.0,,,,104332,4208,4208-104332,30861
+2013,CVX,"NOBLE ENERGY, INC.",Production of oil and natural gas,US,Q2,https://lda.senate.gov/filings/public/filing/dffaca14-8b47-403c-9283-795d719715a3/print/,30000.0,,,,104332,4208,4208-104332,30861
+2013,CVX,"NOBLE ENERGY, INC.",Production of oil and natural gas,US,Q3,https://lda.senate.gov/filings/public/filing/349ba5af-3570-41ab-9851-d77ccd022d14/print/,20000.0,,,,104332,4208,4208-104332,30861
+2013,CVX,"NOBLE ENERGY, INC.",Production of oil and natural gas,US,Q4,https://lda.senate.gov/filings/public/filing/e71616cb-9b8c-474d-87a2-3f66c9ac2bc9/print/,20000.0,,,,104332,4208,4208-104332,30861
+2013,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/9b7955a0-d32a-4265-b46c-4a2bed7cbfa3/print/,150000.0,,,,106608,5357,5357-106608,31564
+2013,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/831f8e39-c204-452a-b2e1-305acf45c2ec/print/,140000.0,,,,106608,5357,5357-106608,31564
+2013,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/cae4ddd9-d9b5-45ed-8556-13ebc3efccee/print/,150000.0,,,,106608,5357,5357-106608,31564
+2013,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/6e1ecb5a-00f5-49c4-a9a9-f5b2fca3d38a/print/,150000.0,,,,106608,5357,5357-106608,31564
+2013,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q1,https://lda.senate.gov/filings/public/filing/a682020a-d266-4d22-940b-f40534a77917/print/,20000.0,,,,112521,8453,8453-112521,30223
+2013,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q1,https://lda.senate.gov/filings/public/filing/8f9a507b-b58b-4e94-abcc-17f1d64d042e/print/,20000.0,,,,112521,8453,8453-112521,30223
+2013,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q2,https://lda.senate.gov/filings/public/filing/d65be9d4-646c-42fa-95cf-1c42428426e9/print/,50000.0,,,,112521,8453,8453-112521,30223
+2013,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q3,https://lda.senate.gov/filings/public/filing/3b95ac2b-8c4d-45c0-84c5-194e3e896f34/print/,50000.0,,,,112521,8453,8453-112521,30223
+2013,CVX,NOBLE ENERGY INC.,Energy  production and distribution,US,Q4,https://lda.senate.gov/filings/public/filing/b689d0bb-9d79-4483-a275-332be618a001/print/,50000.0,,,,112521,8453,8453-112521,30223
+2013,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/993156dd-7de3-4f90-8b7e-7cd7d698d9a1/print/,,3660000.0,,,113215,9000,9000-113215,30865
+2013,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/480cd759-a2b7-4b67-92f7-e95178b9a8ad/print/,,1840000.0,,,113215,9000,9000-113215,30865
+2013,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/1c88fc00-856e-4fe7-acc5-ea16893cf1f6/print/,,2030000.0,,,113215,9000,9000-113215,30865
+2013,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/68e0f612-952a-456d-9357-52dc69961311/print/,,3000000.0,,,113215,9000,9000-113215,30865
+2013,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/225fe83c-f308-44f1-9680-93f68082afcc/print/,25000.0,,,,124688,18433,18433-124688,31383
+2013,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/8f0a6038-5db0-4378-b9dd-9b303061a944/print/,40000.0,,,,124688,18433,18433-124688,31383
+2013,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/03c95a65-5da2-4377-9968-f46cf23516c1/print/,40000.0,,,,124688,18433,18433-124688,31383
+2013,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/51a23056-5157-4998-87b9-3109af70effc/print/,37500.0,,,,124688,18433,18433-124688,31383
+2013,CVX,NOBLE ENERGY,,,Q1,https://lda.senate.gov/filings/public/filing/506b1437-a038-4e27-90ed-932642830c61/print/,30000.0,,,,134429,27775,27775-134429,31212
+2013,CVX,NOBLE ENERGY,,,Q2,https://lda.senate.gov/filings/public/filing/e6831509-a665-40d8-b2f7-153897d3dc81/print/,20000.0,,,,134429,27775,27775-134429,31212
+2013,CVX,NOBLE ENERGY,,,Q3,https://lda.senate.gov/filings/public/filing/c3939602-10fc-42f7-b884-85ec8aa3a009/print/,10000.0,,,,134429,27775,27775-134429,31212
+2013,CVX,NOBLE ENERGY,,,Q4,https://lda.senate.gov/filings/public/filing/502ec347-74c4-4225-847a-94052e7d7050/print/,20000.0,,,,134429,27775,27775-134429,31212
+2013,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/300f12ea-a835-4fd3-b414-a88ef59ec374/print/,170000.0,,,,148935,39941,39941-148935,31958
+2013,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/b3ac5ddc-f7d2-44a8-80e6-35878fd2eb4f/print/,90000.0,,,,148935,39941,39941-148935,31958
+2013,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q3,https://lda.senate.gov/filings/public/filing/24fa3d71-856b-4793-a826-d488438bf6b3/print/,70000.0,,,,148935,39941,39941-148935,31958
+2013,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/6c2595d6-c62e-4d8a-b978-c797d0ff82c2/print/,40000.0,,,,148935,39941,39941-148935,31958
+2013,CVX,NOBLE ENERGY,"The exploration, development and production of crude oil and natural gas.",US,Q2,https://lda.senate.gov/filings/public/filing/0dcab480-562a-4d6a-bcfe-cc7eff42765d/print/,70000.0,,,,153430,44812,44812-153430,31507
+2013,CVX,NOBLE ENERGY,"The exploration, development and production of crude oil and natural gas.",US,Q3,https://lda.senate.gov/filings/public/filing/b9d7d17f-07f3-404e-9b86-7b8f1e7d870e/print/,60000.0,,,,153430,44812,44812-153430,31507
+2013,CVX,NOBLE ENERGY,"The exploration, development and production of crude oil and natural gas.",US,Q4,https://lda.senate.gov/filings/public/filing/2a88e7ea-17f2-4e60-abee-0b568606bd3c/print/,60000.0,,,,153430,44812,44812-153430,31507
+2013,CVX,CHEVRON CORP.,Integrated energy industry,US,Q1,https://lda.senate.gov/filings/public/filing/611c5ab0-e398-448f-b239-ad7eabc2579c/print/,90000.0,,,,184477,313715,313715-184477,39384
+2013,CVX,CHEVRON CORP.,Integrated energy industry,US,Q2,https://lda.senate.gov/filings/public/filing/364551b9-f1c0-42ad-be9f-a089a686505e/print/,90000.0,,,,184477,313715,313715-184477,39384
+2013,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/b1a3e984-926e-43a2-974c-367cd5777956/print/,90000.0,,,,184477,313715,313715-184477,39384
+2013,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/743c271a-f284-4e36-9c28-86f2a7f8031f/print/,90000.0,,,,184477,313715,313715-184477,39384
+2013,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q1,https://lda.senate.gov/filings/public/filing/8bc3af43-e96b-45f5-b343-aec72dd32d8b/print/,80000.0,,,,185620,316013,316013-185620,39250
+2013,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q2,https://lda.senate.gov/filings/public/filing/5ffc904b-674e-4cfb-8c23-7b5bb292ab95/print/,80000.0,,,,185620,316013,316013-185620,39250
+2013,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q3,https://lda.senate.gov/filings/public/filing/32e8987d-3170-4d97-a1db-1a85e108ecdd/print/,80000.0,,,,185620,316013,316013-185620,39250
+2013,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q1,https://lda.senate.gov/filings/public/filing/d45d8907-12e7-4f0e-899e-28ebfcb6802a/print/,50000.0,,,,187347,323557,323557-187347,39700
+2013,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q2,https://lda.senate.gov/filings/public/filing/7ba3998d-f2a1-4e59-92f0-a0819d076e9a/print/,50000.0,,,,187347,323557,323557-187347,39700
+2013,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q3,https://lda.senate.gov/filings/public/filing/fb75f60d-097d-49aa-baea-e13bd3511f76/print/,50000.0,,,,187347,323557,323557-187347,39700
+2013,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q4,https://lda.senate.gov/filings/public/filing/82a4bf02-e33f-4421-ab1a-e031fff34297/print/,50000.0,,,,187347,323557,323557-187347,39700
+2013,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q1,https://lda.senate.gov/filings/public/filing/228a9760-b998-4341-8b9f-6d4905bfa0f8/print/,20000.0,,,,189578,400359670,400359670-189578,
+2013,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q3,https://lda.senate.gov/filings/public/filing/96d901c9-9b37-4253-bc6d-50d2f85b46cf/print/,10000.0,,,,189578,400359670,400359670-189578,
+2013,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q4,https://lda.senate.gov/filings/public/filing/729e4552-545e-4ffd-bf03-6e5ae34d33fa/print/,10000.0,,,,189578,400359670,400359670-189578,
+2013,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/7ec0448f-369f-48d1-bd80-59519c1829a1/print/,,620000.0,,,190082,400393847,400393847-190082,400393847
+2013,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/eb11fd36-49f4-447c-b23c-0e8bc4de84d7/print/,,520000.0,,,190082,400393847,400393847-190082,400393847
+2013,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/7e8784bb-488a-431d-95d6-3e7af9b5cf08/print/,,630000.0,,,190082,400393847,400393847-190082,400393847
+2013,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/f2b8c84b-b117-464e-ade8-b84bfd6abe9c/print/,,430000.0,,,190082,400393847,400393847-190082,400393847
+2013,CVX,CHEVRON,Oil and gas energy company,US,Q1,https://lda.senate.gov/filings/public/filing/b0fc4096-e72e-4d27-bcc8-516fc699d496/print/,40000.0,,,,191753,400493431,400493431-191753,
+2013,CVX,CHEVRON,Oil and gas energy company,US,Q2,https://lda.senate.gov/filings/public/filing/af78bef9-f161-4ea7-8ed8-32b10126b3c1/print/,40000.0,,,,191753,400493431,400493431-191753,
+2013,CVX,CHEVRON,Oil and gas energy company,US,Q3,https://lda.senate.gov/filings/public/filing/46f6950d-937a-4bef-a50c-71fdcff5e3de/print/,40000.0,,,,191753,400493431,400493431-191753,
+2013,CVX,CHEVRON,Oil and gas energy company,US,Q4,https://lda.senate.gov/filings/public/filing/c169cd7a-ace1-4a9f-8353-3b453e1ea199/print/,40000.0,,,,191753,400493431,400493431-191753,
+2013,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q3,https://lda.senate.gov/filings/public/filing/1e19c496-30b8-4623-8d66-9eaea8513531/print/,15000.0,,,,193703,400637923,400637923-193703,400637923
+2013,CVX,NOBLE ENERGY,Independent oil and gas company,US,Q4,https://lda.senate.gov/filings/public/filing/5fbc01e7-08d9-46be-9c98-93fcb7da01eb/print/,22500.0,,,,193703,400637923,400637923-193703,400637923
 2012,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/36188bad-5611-4454-bd9e-86741cc49366/print/,90000.0,,,,100995,682,682-100995,31784.0
 2012,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/0bda543d-f14f-4bc9-8d26-affaec6a2350/print/,90000.0,,,,100995,682,682-100995,31784.0
 2012,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/92c1f6ca-f5ad-4638-99ae-3a3127481999/print/,90000.0,,,,100995,682,682-100995,31784.0
@@ -2911,6 +3272,51 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2012,CVX,CHEVRON,Oil and gas energy company,US,Q4,https://lda.senate.gov/filings/public/filing/a1b96c18-2b66-4d53-aafe-82b7b53599d8/print/,40000.0,,,,191753,400493431,400493431-191753,
 2012,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/479fe6d6-9ffc-4598-b2ab-c8729ebc92bf/print/,45000.0,,,,192719,400541619,400541619-192719,400541619.0
 2012,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/0001e896-194b-419a-89d8-312d0e740309/print/,45000.0,,,,192719,400541619,400541619-192719,400541619.0
+2012,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/36188bad-5611-4454-bd9e-86741cc49366/print/,90000.0,,,,100995,682,682-100995,31784
+2012,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/0bda543d-f14f-4bc9-8d26-affaec6a2350/print/,90000.0,,,,100995,682,682-100995,31784
+2012,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/92c1f6ca-f5ad-4638-99ae-3a3127481999/print/,90000.0,,,,100995,682,682-100995,31784
+2012,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/4120f584-9c8a-43f9-b116-85a17a9aae0b/print/,90000.0,,,,100995,682,682-100995,31784
+2012,CVX,"NOBLE ENERGY, INC.",Production of oil and natural gas,US,Q3,https://lda.senate.gov/filings/public/filing/8d0a211f-d2a1-4558-b047-d577130f6c45/print/,30000.0,,,,104332,4208,4208-104332,30861
+2012,CVX,"NOBLE ENERGY, INC.",Production of oil and natural gas,US,Q4,https://lda.senate.gov/filings/public/filing/5bae9c91-39e1-4ec6-a694-fd97b77599ab/print/,50000.0,,,,104332,4208,4208-104332,30861
+2012,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/c0bd81a1-38e0-4ea6-bd09-51102d19dc4b/print/,150000.0,,,,106608,5357,5357-106608,31564
+2012,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/aa11dd4d-b74b-448d-a838-e0178c05a10d/print/,150000.0,,,,106608,5357,5357-106608,31564
+2012,CVX,"CHEVRON U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/5438b6f3-7990-45d6-b870-84c53fff1057/print/,150000.0,,,,106608,5357,5357-106608,31564
+2012,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/ddf6ce83-62b3-4738-8dd7-efa8e2c6d68f/print/,,3240000.0,,,113215,9000,9000-113215,30865
+2012,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/d9e589f9-51a0-439e-b9d5-7b857963fb05/print/,,2060000.0,,,113215,9000,9000-113215,30865
+2012,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/8a34993b-891e-4363-bc4c-2a56a6548ae6/print/,,1780000.0,,,113215,9000,9000-113215,30865
+2012,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/fcda3a45-2f94-4dd4-973e-ac4856e6d8fd/print/,,2470000.0,,,113215,9000,9000-113215,30865
+2012,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/a18a2341-fb92-4c23-aced-7a1e7b7d0331/print/,47000.0,,,,124688,18433,18433-124688,31383
+2012,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/ea130586-bd26-4738-8d48-cb4f285cea91/print/,47000.0,,,,124688,18433,18433-124688,31383
+2012,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/da6e68a6-14cd-416e-a439-3a067f1b2a9f/print/,39500.0,,,,124688,18433,18433-124688,31383
+2012,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/e52d0732-18f4-46a9-8483-3a882f5b6927/print/,25000.0,,,,124688,18433,18433-124688,31383
+2012,CVX,NOBLE ENERGY,,,Q1,https://lda.senate.gov/filings/public/filing/cb1cb7b8-63fe-4970-b75d-1a5b26e79fa3/print/,20000.0,,,,134429,27775,27775-134429,31212
+2012,CVX,NOBLE ENERGY,,,Q2,https://lda.senate.gov/filings/public/filing/d09ddf7d-c696-42f9-9b7c-eb23322e7d73/print/,30000.0,,,,134429,27775,27775-134429,31212
+2012,CVX,NOBLE ENERGY,,,Q3,https://lda.senate.gov/filings/public/filing/8be3c7ad-8fdf-47c7-bd96-7c94827db110/print/,30000.0,,,,134429,27775,27775-134429,31212
+2012,CVX,NOBLE ENERGY,,,Q4,https://lda.senate.gov/filings/public/filing/0c5c786f-945a-4d0d-bcbe-1845b02b7381/print/,40000.0,,,,134429,27775,27775-134429,31212
+2012,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/6453b476-91d8-45d5-85fd-a8359c1494da/print/,190000.0,,,,148935,39941,39941-148935,31958
+2012,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/dbd8f24c-a06a-462d-8218-9afbf0fa5afc/print/,180000.0,,,,148935,39941,39941-148935,31958
+2012,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q3,https://lda.senate.gov/filings/public/filing/95a653dd-6011-4d1b-8b4d-0e508c97d79d/print/,190000.0,,,,148935,39941,39941-148935,31958
+2012,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/497fa8a4-37f5-4cf6-a119-2f01624adaa1/print/,130000.0,,,,148935,39941,39941-148935,31958
+2012,CVX,CHEVRON CORPORATION,,US,Q1,https://lda.senate.gov/filings/public/filing/35ad0379-3015-47b5-9429-da323a788459/print/,150000.0,,,,155737,48827,48827-155737,34528
+2012,CVX,CHEVRON CORP.,Integrated energy industry,US,Q3,https://lda.senate.gov/filings/public/filing/f2aef626-1ff0-47c5-abc8-9af250233762/print/,30000.0,,,,184477,313715,313715-184477,39384
+2012,CVX,CHEVRON CORP.,Integrated energy industry,US,Q4,https://lda.senate.gov/filings/public/filing/0f82fa13-a0d6-4489-b0c5-2e92e6ed1164/print/,90000.0,,,,184477,313715,313715-184477,39384
+2012,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q1,https://lda.senate.gov/filings/public/filing/4acdb0a7-d58f-4462-8ae1-538e9bba6520/print/,80000.0,,,,185620,316013,316013-185620,39250
+2012,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q2,https://lda.senate.gov/filings/public/filing/1cc34426-f4ef-4b1a-a44d-8516bf30f3c2/print/,80000.0,,,,185620,316013,316013-185620,39250
+2012,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q3,https://lda.senate.gov/filings/public/filing/8399d1cc-52d4-42c7-87bf-0e75909e49c8/print/,80000.0,,,,185620,316013,316013-185620,39250
+2012,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q4,https://lda.senate.gov/filings/public/filing/00b5be69-632d-43ba-9ff3-dd6d75c7af00/print/,80000.0,,,,185620,316013,316013-185620,39250
+2012,CVX,"NOBLE ENERGY, INC.","Independent energy co with operations that include exploration, development and production",US,Q4,https://lda.senate.gov/filings/public/filing/3364f693-6a8e-489d-809a-d1c84d061ae1/print/,40000.0,,,,187347,323557,323557-187347,39700
+2012,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q3,https://lda.senate.gov/filings/public/filing/32d178f3-de8b-47f5-88c0-eeb06c07a005/print/,20000.0,,,,189578,400359670,400359670-189578,
+2012,CVX,NOBLE ENERGY,Oil and natural gas producer,US,Q4,https://lda.senate.gov/filings/public/filing/04e3bda5-1862-4e9b-b551-99a191d5770b/print/,20000.0,,,,189578,400359670,400359670-189578,
+2012,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/6458ef2c-301c-4f69-8a57-98639abc2da6/print/,,240000.0,,,190082,400393847,400393847-190082,400393847
+2012,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/a438aa12-af27-4515-8dde-d7b2447be42e/print/,,500000.0,,,190082,400393847,400393847-190082,400393847
+2012,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/21dda443-6179-4858-8609-b0954799d0f9/print/,,660000.0,,,190082,400393847,400393847-190082,400393847
+2012,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/a0d40499-1400-41d5-a9d5-d4605c88aba5/print/,,440000.0,,,190082,400393847,400393847-190082,400393847
+2012,CVX,CHEVRON,Oil and gas energy company,US,Q1,https://lda.senate.gov/filings/public/filing/c1cee7ca-f577-447d-bcae-6d83ff760683/print/,40000.0,,,,191753,400493431,400493431-191753,
+2012,CVX,CHEVRON,Oil and gas energy company,US,Q2,https://lda.senate.gov/filings/public/filing/e42a1a3c-65b8-41c3-bd77-f0e8105997ce/print/,40000.0,,,,191753,400493431,400493431-191753,
+2012,CVX,CHEVRON,Oil and gas energy company,US,Q3,https://lda.senate.gov/filings/public/filing/bcb84906-b653-45fe-bb95-1efe2a0ca6e5/print/,40000.0,,,,191753,400493431,400493431-191753,
+2012,CVX,CHEVRON,Oil and gas energy company,US,Q4,https://lda.senate.gov/filings/public/filing/a1b96c18-2b66-4d53-aafe-82b7b53599d8/print/,40000.0,,,,191753,400493431,400493431-191753,
+2012,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/479fe6d6-9ffc-4598-b2ab-c8729ebc92bf/print/,45000.0,,,,192719,400541619,400541619-192719,400541619
+2012,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/0001e896-194b-419a-89d8-312d0e740309/print/,45000.0,,,,192719,400541619,400541619-192719,400541619
 2011,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/9249d9f5-49e3-4911-baca-00f8dcc3e9df/print/,90000.0,,,,100995,682,682-100995,31784.0
 2011,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/885cf25b-8037-4114-9cc6-6a3fb1163d07/print/,90000.0,,,,100995,682,682-100995,31784.0
 2011,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/774db12e-b943-4ab5-baa1-dff6265a2e06/print/,90000.0,,,,100995,682,682-100995,31784.0
@@ -2954,6 +3360,49 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2011,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/9039ea43-08f2-42b4-b1c8-9ef3c33ad2ef/print/,45000.0,,,,192719,400541619,400541619-192719,400541619.0
 2011,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q3,https://lda.senate.gov/filings/public/filing/cc8c2911-858b-45aa-9277-db2d651f1205/print/,45000.0,,,,192719,400541619,400541619-192719,400541619.0
 2011,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/6c29c5c5-b05a-4c19-a243-0a44162bfa7a/print/,45000.0,,,,192719,400541619,400541619-192719,400541619.0
+2011,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q1,https://lda.senate.gov/filings/public/filing/9249d9f5-49e3-4911-baca-00f8dcc3e9df/print/,90000.0,,,,100995,682,682-100995,31784
+2011,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/885cf25b-8037-4114-9cc6-6a3fb1163d07/print/,90000.0,,,,100995,682,682-100995,31784
+2011,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/774db12e-b943-4ab5-baa1-dff6265a2e06/print/,90000.0,,,,100995,682,682-100995,31784
+2011,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/e9c80ec8-f607-47d2-8bb2-70c274f8f8e0/print/,90000.0,,,,100995,682,682-100995,31784
+2011,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/92328be1-b415-4ad2-b99e-4fb16b3ec187/print/,,2800000.0,,,113215,9000,9000-113215,30865
+2011,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/198dd465-793a-44c6-bbfe-a763b465ca40/print/,,2060000.0,,,113215,9000,9000-113215,30865
+2011,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/6fd8aa39-176a-4996-b383-07b05a235219/print/,,2130000.0,,,113215,9000,9000-113215,30865
+2011,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/2709552f-56e3-4a5a-9c6b-03679597fc7d/print/,,2520000.0,,,113215,9000,9000-113215,30865
+2011,CVX,"NOBLE ENERGY, INC.",Energy - Natural Gas,US,Q1,https://lda.senate.gov/filings/public/filing/007c8582-8d88-44b4-ac10-6dfabfccde36/print/,40000.0,,,,115197,11195,11195-115197,31827
+2011,CVX,"NOBLE ENERGY, INC.",Energy - Natural Gas,US,Q2,https://lda.senate.gov/filings/public/filing/c8e6c9e6-3b12-46d8-af50-b1a5cf6ba711/print/,20000.0,,,,115197,11195,11195-115197,31827
+2011,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/03075fe3-522a-41f1-a3a5-c792856ee765/print/,42000.0,,,,124688,18433,18433-124688,31383
+2011,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/3c1f1252-8943-43d6-a3fd-429ee6029135/print/,40000.0,,,,124688,18433,18433-124688,31383
+2011,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/f500ee0b-72f9-4066-89ae-6a3e38372b28/print/,45000.0,,,,124688,18433,18433-124688,31383
+2011,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/ff8174c1-780f-48cf-8636-40b288378ae9/print/,45000.0,,,,124688,18433,18433-124688,31383
+2011,CVX,CHEVRON CORP,,US,Q2,https://lda.senate.gov/filings/public/filing/33c5b853-c3fb-4f7b-bf35-53b445569375/print/,10000.0,,,,131366,24123,24123-131366,31349
+2011,CVX,NOBLE ENERGY,,,Q1,https://lda.senate.gov/filings/public/filing/045b7a4f-96c5-47fb-90c4-a9dac17a6d59/print/,20000.0,,,,134429,27775,27775-134429,31212
+2011,CVX,NOBLE ENERGY,,,Q2,https://lda.senate.gov/filings/public/filing/c198b18a-58d8-4bda-82d3-5b2eda53f7a7/print/,30000.0,,,,134429,27775,27775-134429,31212
+2011,CVX,NOBLE ENERGY,,,Q3,https://lda.senate.gov/filings/public/filing/95c873e3-fa39-42ba-a8f0-909b05234586/print/,40000.0,,,,134429,27775,27775-134429,31212
+2011,CVX,NOBLE ENERGY,,,Q4,https://lda.senate.gov/filings/public/filing/a6f82c0c-6baf-463d-8877-0ffaef3af3b5/print/,30000.0,,,,134429,27775,27775-134429,31212
+2011,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/80eb525f-e458-4de3-9177-aa60e6884215/print/,140000.0,,,,148935,39941,39941-148935,31958
+2011,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/f1202b8d-0a8f-49bc-be57-a311671c2617/print/,190000.0,,,,148935,39941,39941-148935,31958
+2011,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q3,https://lda.senate.gov/filings/public/filing/dad3cab2-74e6-4050-b3ef-b40ab7879fbd/print/,190000.0,,,,148935,39941,39941-148935,31958
+2011,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/143c1300-af0d-453a-8284-871fe0cce497/print/,130000.0,,,,148935,39941,39941-148935,31958
+2011,CVX,CHEVRON CORPORATION,,US,Q1,https://lda.senate.gov/filings/public/filing/443d20df-b687-498d-b9d2-454abdacfed1/print/,150000.0,,,,155737,48827,48827-155737,34528
+2011,CVX,CHEVRON CORPORATION,,US,Q2,https://lda.senate.gov/filings/public/filing/61edf7f5-eb99-4e06-b016-70b795caa9d4/print/,150000.0,,,,155737,48827,48827-155737,34528
+2011,CVX,CHEVRON CORPORATION,,US,Q3,https://lda.senate.gov/filings/public/filing/ba5ee2b9-6364-448c-ac6c-f79b7231a9ea/print/,150000.0,,,,155737,48827,48827-155737,34528
+2011,CVX,CHEVRON CORPORATION,,US,Q4,https://lda.senate.gov/filings/public/filing/6eb2fc77-133c-4eb6-b0e6-b72f32484232/print/,150000.0,,,,155737,48827,48827-155737,34528
+2011,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q1,https://lda.senate.gov/filings/public/filing/fe34665d-8dd1-4085-ad32-e600b5de6a40/print/,80000.0,,,,185620,316013,316013-185620,39250
+2011,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q2,https://lda.senate.gov/filings/public/filing/67ba74fa-dd04-4075-92db-964b582ddcb4/print/,80000.0,,,,185620,316013,316013-185620,39250
+2011,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q3,https://lda.senate.gov/filings/public/filing/6e6f68fe-448f-4ff5-acdb-79a94ff22507/print/,80000.0,,,,185620,316013,316013-185620,39250
+2011,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q4,https://lda.senate.gov/filings/public/filing/10fd9de7-33e4-43ba-8d5e-af60b1958654/print/,80000.0,,,,185620,316013,316013-185620,39250
+2011,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/a9b7d95d-c5d8-4396-a43b-fbb8bb1835c7/print/,,410000.0,,,190082,400393847,400393847-190082,400393847
+2011,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/f7bf5649-ec61-4044-be1f-b90084d12720/print/,,520000.0,,,190082,400393847,400393847-190082,400393847
+2011,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/bfc72d34-ee1b-4db6-b7f8-660ed46731d1/print/,,480000.0,,,190082,400393847,400393847-190082,400393847
+2011,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/76d22f4a-6e6d-4623-970c-fa65d6aa3966/print/,,440000.0,,,190082,400393847,400393847-190082,400393847
+2011,CVX,CHEVRON,Oil and gas energy company,US,Q1,https://lda.senate.gov/filings/public/filing/cd045b62-06b3-4556-9be6-1e6e48b01ac9/print/,40000.0,,,,191753,400493431,400493431-191753,
+2011,CVX,CHEVRON,Oil and gas energy company,US,Q2,https://lda.senate.gov/filings/public/filing/50f818e0-405d-4051-b7d4-35cfcf0ac9c9/print/,40000.0,,,,191753,400493431,400493431-191753,
+2011,CVX,CHEVRON,Oil and gas energy company,US,Q3,https://lda.senate.gov/filings/public/filing/bcb806da-b90f-4651-89f7-90c912e18825/print/,40000.0,,,,191753,400493431,400493431-191753,
+2011,CVX,CHEVRON,Oil and gas energy company,US,Q4,https://lda.senate.gov/filings/public/filing/595f9d08-d58a-4ac2-8d9c-20f13f8952ea/print/,40000.0,,,,191753,400493431,400493431-191753,
+2011,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/c45b1a95-ddfe-420d-9d08-b9851c14a76b/print/,30000.0,,,,192719,400541619,400541619-192719,400541619
+2011,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/9039ea43-08f2-42b4-b1c8-9ef3c33ad2ef/print/,45000.0,,,,192719,400541619,400541619-192719,400541619
+2011,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q3,https://lda.senate.gov/filings/public/filing/cc8c2911-858b-45aa-9277-db2d651f1205/print/,45000.0,,,,192719,400541619,400541619-192719,400541619
+2011,CVX,"NOBLE ENERGY, INC.",Onshore and offshore oil and gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/6c29c5c5-b05a-4c19-a243-0a44162bfa7a/print/,45000.0,,,,192719,400541619,400541619-192719,400541619
 2010,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/a9d94b95-2d19-41c1-ae99-a0cc892c46ff/print/,90000.0,,,,100995,682,682-100995,31784.0
 2010,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/d275d97a-a3ed-4def-b660-5247e105dd1d/print/,90000.0,,,,100995,682,682-100995,31784.0
 2010,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/cbbffa75-95ea-4f39-9132-bc83e339cf5b/print/,90000.0,,,,100995,682,682-100995,31784.0
@@ -2992,6 +3441,47 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2010,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/63257fcd-1668-42f6-a0b1-68f930931937/print/,,340000.0,,,190082,400393847,400393847-190082,400393847.0
 2010,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/f0a6112c-74e6-4562-a8a6-3ff1fc9bfe96/print/,,340000.0,,,190082,400393847,400393847-190082,400393847.0
 2010,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/feaaea0b-3beb-47a8-825a-420d5fccba76/print/,,480000.0,,,190082,400393847,400393847-190082,400393847.0
+2010,CVX,CHEVRON,Oil and gas energy company,US,Q2,https://lda.senate.gov/filings/public/filing/ff7d11a4-e5b7-46f7-84fc-88f472298849/print/,62500.0,,,,191753,400493431,400493431-191753,
+2010,CVX,CHEVRON,Oil and gas energy company,US,Q3,https://lda.senate.gov/filings/public/filing/f199d31c-ffc4-4068-b24b-13036aeee5a6/print/,37500.0,,,,191753,400493431,400493431-191753,
+2010,CVX,CHEVRON,Oil and gas energy company,US,Q4,https://lda.senate.gov/filings/public/filing/23c30c04-81dd-4f2f-8231-5be7cd94a3e3/print/,40000.0,,,,191753,400493431,400493431-191753,
+2010,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q2,https://lda.senate.gov/filings/public/filing/a9d94b95-2d19-41c1-ae99-a0cc892c46ff/print/,90000.0,,,,100995,682,682-100995,31784
+2010,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q3,https://lda.senate.gov/filings/public/filing/d275d97a-a3ed-4def-b660-5247e105dd1d/print/,90000.0,,,,100995,682,682-100995,31784
+2010,CVX,"CHEVRON, U.S.A., INC.",Energy,US,Q4,https://lda.senate.gov/filings/public/filing/cbbffa75-95ea-4f39-9132-bc83e339cf5b/print/,90000.0,,,,100995,682,682-100995,31784
+2010,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/6ff48cc3-18c3-495a-a2ce-5f77db0606ad/print/,,3090000.0,,,113215,9000,9000-113215,30865
+2010,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/979cf75f-0579-45a4-995a-7a7505291666/print/,,3920000.0,,,113215,9000,9000-113215,30865
+2010,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/1268f9fc-d702-41df-b457-aa36728ddfcb/print/,,2990000.0,,,113215,9000,9000-113215,30865
+2010,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/78cf3042-3ace-49f3-8726-aeae5df3ac92/print/,,2890000.0,,,113215,9000,9000-113215,30865
+2010,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/e9f9118f-afca-4e41-817a-1e2da182956c/print/,52000.0,,,,124688,18433,18433-124688,31383
+2010,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/923af40d-b0d2-4ae4-900f-74cc4812ce9e/print/,45000.0,,,,124688,18433,18433-124688,31383
+2010,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/a037203d-93d1-41b5-9bc2-550986b889fe/print/,45000.0,,,,124688,18433,18433-124688,31383
+2010,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/469e81a6-db0d-4710-bfbd-5dda0922064b/print/,40000.0,,,,124688,18433,18433-124688,31383
+2010,CVX,CHEVRON CORP,,US,Q4,https://lda.senate.gov/filings/public/filing/99af5f9f-1827-4276-a424-1769eae546d0/print/,10000.0,,,,131366,24123,24123-131366,31349
+2010,CVX,NOBLE ENERGY,,,Q1,https://lda.senate.gov/filings/public/filing/cb353373-d61d-4d40-bbc3-e215c3422172/print/,40000.0,,,,134429,27775,27775-134429,31212
+2010,CVX,NOBLE ENERGY,,,Q2,https://lda.senate.gov/filings/public/filing/9eeabbb4-f912-44dd-b0b4-ab545891d182/print/,30000.0,,,,134429,27775,27775-134429,31212
+2010,CVX,NOBLE ENERGY,,,Q3,https://lda.senate.gov/filings/public/filing/d0e7ccd8-6877-4d28-9474-7e5a872db4b6/print/,30000.0,,,,134429,27775,27775-134429,31212
+2010,CVX,NOBLE ENERGY,,,Q4,https://lda.senate.gov/filings/public/filing/8be830cb-61a6-485b-966c-f96e8d2613db/print/,30000.0,,,,134429,27775,27775-134429,31212
+2010,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/6fdf1799-b4de-4474-9b54-8dda394b8546/print/,90000.0,,,,148935,39941,39941-148935,31958
+2010,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/6fe7f0b3-e4e0-44f6-b3ce-40055253bc1b/print/,140000.0,,,,148935,39941,39941-148935,31958
+2010,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q3,https://lda.senate.gov/filings/public/filing/82bc176d-0074-4c51-9933-ac156d9e17dc/print/,190000.0,,,,148935,39941,39941-148935,31958
+2010,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/b8b45f75-0721-4ff6-9da8-6f61dd4edef1/print/,150000.0,,,,148935,39941,39941-148935,31958
+2010,CVX,CHEVRON CORPORATION,,US,Q1,https://lda.senate.gov/filings/public/filing/14e7794c-cb26-49a8-a68b-9a9443fab7e2/print/,140000.0,,,,155737,48827,48827-155737,34528
+2010,CVX,CHEVRON CORPORATION,,US,Q2,https://lda.senate.gov/filings/public/filing/a9550d77-c54e-481c-be28-c32f07cfe0a3/print/,140000.0,,,,155737,48827,48827-155737,34528
+2010,CVX,CHEVRON CORPORATION,,US,Q3,https://lda.senate.gov/filings/public/filing/40776bf3-e9d8-4068-a7cc-ea4bf919010f/print/,140000.0,,,,155737,48827,48827-155737,34528
+2010,CVX,CHEVRON CORPORATION,,US,Q4,https://lda.senate.gov/filings/public/filing/e210ebe2-63f0-45e3-9390-23c25c7bcfaa/print/,140000.0,,,,155737,48827,48827-155737,34528
+2010,CVX,"ATLAS ENERGY, INC.",Energy production,US,Q1,https://lda.senate.gov/filings/public/filing/a120f2ab-77a1-4092-bde8-a1bb4e16cf14/print/,30000.0,,,,184436,313715,313715-184436,39384
+2010,CVX,"ATLAS ENERGY, INC.",Energy production,US,Q2,https://lda.senate.gov/filings/public/filing/1c481a3c-dd15-4d68-8b72-567e1198d1a3/print/,50000.0,,,,184436,313715,313715-184436,39384
+2010,CVX,"ATLAS ENERGY, INC.",Energy production,US,Q3,https://lda.senate.gov/filings/public/filing/2a9aa469-c9e7-439e-9e7d-65b57a6cd87a/print/,50000.0,,,,184436,313715,313715-184436,39384
+2010,CVX,"ATLAS ENERGY, INC.",Energy production,US,Q4,https://lda.senate.gov/filings/public/filing/b242a346-8f4a-4358-bb30-6fef0171617f/print/,110000.0,,,,184436,313715,313715-184436,39384
+2010,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q1,https://lda.senate.gov/filings/public/filing/2c685cad-921f-491f-8b3d-dc1903ace7c3/print/,80000.0,,,,185620,316013,316013-185620,39250
+2010,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q2,https://lda.senate.gov/filings/public/filing/00a45476-159a-48f5-b5cb-c0ef6a965c2d/print/,80000.0,,,,185620,316013,316013-185620,39250
+2010,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q3,https://lda.senate.gov/filings/public/filing/b5b2a55b-f3de-4651-bd70-6249e1a71aaf/print/,80000.0,,,,185620,316013,316013-185620,39250
+2010,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q4,https://lda.senate.gov/filings/public/filing/4691620b-f44a-428f-97b1-a3d2b8f536e8/print/,80000.0,,,,185620,316013,316013-185620,39250
+2010,CVX,CHEVRON USA INC,Energy Company,US,Q1,https://lda.senate.gov/filings/public/filing/1f5c9654-f441-4c23-a840-2667921067a2/print/,130000.0,,,,187864,40020141,40020141-187864,39836
+2010,CVX,CHEVRON USA INC,Energy Company,US,Q2,https://lda.senate.gov/filings/public/filing/eff191cd-45af-41ab-8b48-8d064870b1ae/print/,135000.0,,,,187864,40020141,40020141-187864,39836
+2010,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/9da836e1-c538-469f-95ce-f023b68f8888/print/,,130000.0,,,190082,400393847,400393847-190082,400393847
+2010,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/63257fcd-1668-42f6-a0b1-68f930931937/print/,,340000.0,,,190082,400393847,400393847-190082,400393847
+2010,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/f0a6112c-74e6-4562-a8a6-3ff1fc9bfe96/print/,,340000.0,,,190082,400393847,400393847-190082,400393847
+2010,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/feaaea0b-3beb-47a8-825a-420d5fccba76/print/,,480000.0,,,190082,400393847,400393847-190082,400393847
 2010,CVX,CHEVRON,Oil and gas energy company,US,Q2,https://lda.senate.gov/filings/public/filing/ff7d11a4-e5b7-46f7-84fc-88f472298849/print/,62500.0,,,,191753,400493431,400493431-191753,
 2010,CVX,CHEVRON,Oil and gas energy company,US,Q3,https://lda.senate.gov/filings/public/filing/f199d31c-ffc4-4068-b24b-13036aeee5a6/print/,37500.0,,,,191753,400493431,400493431-191753,
 2010,CVX,CHEVRON,Oil and gas energy company,US,Q4,https://lda.senate.gov/filings/public/filing/23c30c04-81dd-4f2f-8231-5be7cd94a3e3/print/,40000.0,,,,191753,400493431,400493431-191753,
@@ -3036,6 +3526,47 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2009,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/fc6d932c-0ac3-4917-9a92-3fbc168d756b/print/,,90000.0,,,190082,400393847,400393847-190082,400393847.0
 2009,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/685f56e9-394b-4ebc-9b5b-6b050d0f6a91/print/,,90000.0,,,190082,400393847,400393847-190082,400393847.0
 2009,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/783c000d-6532-43f5-a5cd-a799ff18e521/print/,,140000.0,,,190082,400393847,400393847-190082,400393847.0
+2009,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/e4059f2e-470d-4cb3-9cae-55708ee8acac/print/,,6800000.0,,,113215,9000,9000-113215,30865
+2009,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/2ac510a8-001d-4a75-a3c9-8b03258b9dae/print/,,6015000.0,,,113215,9000,9000-113215,30865
+2009,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/84dcad64-d95a-41d7-8836-8332cb86732a/print/,,2700000.0,,,113215,9000,9000-113215,30865
+2009,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/830e3dde-628f-4161-9df4-ded3f8abaf5d/print/,,5300000.0,,,113215,9000,9000-113215,30865
+2009,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/61afa3d1-8357-466d-851c-8ab20adc3093/print/,43000.0,,,,124688,18433,18433-124688,31383
+2009,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/113d85f5-113d-4c7b-b51e-ec5c3632ee97/print/,43000.0,,,,124688,18433,18433-124688,31383
+2009,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/dfd7fd8c-3636-41c6-a787-d5c53238bf50/print/,43000.0,,,,124688,18433,18433-124688,31383
+2009,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/00c11a94-c1b7-4cae-a97a-e9c34692d499/print/,48000.0,,,,124688,18433,18433-124688,31383
+2009,CVX,NOBLE ENERGY,,,Q1,https://lda.senate.gov/filings/public/filing/ba8b11c9-a04a-45ee-8d65-ebb486060842/print/,30000.0,,,,134429,27775,27775-134429,31212
+2009,CVX,NOBLE ENERGY,,,Q2,https://lda.senate.gov/filings/public/filing/48db9799-5185-4f71-9c7b-e769bb3b7f4a/print/,30000.0,,,,134429,27775,27775-134429,31212
+2009,CVX,NOBLE ENERGY,,,Q3,https://lda.senate.gov/filings/public/filing/8f6b2ead-d5e8-4f73-91c3-db337a6f7c0f/print/,30000.0,,,,134429,27775,27775-134429,31212
+2009,CVX,NOBLE ENERGY,,,Q4,https://lda.senate.gov/filings/public/filing/6595ae71-f52a-4deb-aac6-c35c4e4dd131/print/,20000.0,,,,134429,27775,27775-134429,31212
+2009,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q1,https://lda.senate.gov/filings/public/filing/91931948-0aac-4f76-932a-973f3763ff3a/print/,7000.0,,,,148935,39941,39941-148935,31958
+2009,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q2,https://lda.senate.gov/filings/public/filing/92556f15-c61a-4b7a-94d8-f0e007e3f1ad/print/,30000.0,,,,148935,39941,39941-148935,31958
+2009,CVX,"NOBLE ENERGY, INC.",Independent oil and natural gas exploration and production,US,Q4,https://lda.senate.gov/filings/public/filing/db7d6f25-463a-4f9c-8b14-ea6ecf24d995/print/,30000.0,,,,148935,39941,39941-148935,31958
+2009,CVX,CHEVRON CORPORATION,,US,Q1,https://lda.senate.gov/filings/public/filing/fae92e53-f575-4961-ad71-221ef5ab9065/print/,140000.0,,,,155737,48827,48827-155737,34528
+2009,CVX,CHEVRON CORPORATION,,US,Q2,https://lda.senate.gov/filings/public/filing/9557c467-6135-4df0-8792-dffbfe596db5/print/,140000.0,,,,155737,48827,48827-155737,34528
+2009,CVX,CHEVRON CORPORATION,,US,Q3,https://lda.senate.gov/filings/public/filing/5740c359-cd6b-4faf-ab88-0b263bb123ee/print/,180000.0,,,,155737,48827,48827-155737,34528
+2009,CVX,CHEVRON CORPORATION,,US,Q4,https://lda.senate.gov/filings/public/filing/f4fbc3c1-2bc2-484f-af6c-e65c84960595/print/,150000.0,,,,155737,48827,48827-155737,34528
+2009,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/eaf76485-df97-4e02-aec1-be74b62b3acd/print/,30000.0,,,,174301,89975,89975-174301,36702
+2009,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/35658ad8-8835-48e1-ba68-70c90b3d7089/print/,30000.0,,,,174301,89975,89975-174301,36702
+2009,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/7dcaa22f-9c1a-4c40-b88e-48413beba230/print/,30000.0,,,,174301,89975,89975-174301,36702
+2009,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/0fa50759-82dd-43d0-b7ec-8cc545e187df/print/,30000.0,,,,174301,89975,89975-174301,36702
+2009,CVX,CHEVRON USA & SUBSIDIARIES/AFFILIATES OF CHEVRON CORP,,US,Q1,https://lda.senate.gov/filings/public/filing/ca216b34-e155-4ef1-b35a-9f3cf054c845/print/,10000.0,,,,176837,287656,287656-176837,37027
+2009,CVX,CHEVRON USA & SUBSIDIARIES/AFFILIATES OF CHEVRON CORP,,US,Q2,https://lda.senate.gov/filings/public/filing/ea500ea9-50fb-460c-9be4-a69fab48dd37/print/,10000.0,,,,176837,287656,287656-176837,37027
+2009,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/1f9cedf0-ac2f-44cf-924d-32f241ddc403/print/,120000.0,,,,184048,313054,313054-184048,39113
+2009,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/a1760d24-95a5-4220-b41b-1f1c597f8679/print/,120000.0,,,,184048,313054,313054-184048,39113
+2009,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/b8a76641-b0ff-45b3-b925-cbaf22e78a6a/print/,130000.0,,,,184048,313054,313054-184048,39113
+2009,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/3895b40a-599d-4cfd-b139-3aac72a82f7f/print/,150000.0,,,,184048,313054,313054-184048,39113
+2009,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q1,https://lda.senate.gov/filings/public/filing/65e2a521-0faa-4e9a-ab6d-21e6d2867a94/print/,50000.0,,,,185620,316013,316013-185620,39250
+2009,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q2,https://lda.senate.gov/filings/public/filing/00bfdf3b-8258-4aa8-9687-496c6ed7a740/print/,50000.0,,,,185620,316013,316013-185620,39250
+2009,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q3,https://lda.senate.gov/filings/public/filing/932ef63b-3323-471e-a011-cc54526d4457/print/,50000.0,,,,185620,316013,316013-185620,39250
+2009,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q4,https://lda.senate.gov/filings/public/filing/44b1d7b1-093b-4ad1-915d-6933c124cf6f/print/,50000.0,,,,185620,316013,316013-185620,39250
+2009,CVX,CHEVRON USA INC,Energy Company,US,Q1,https://lda.senate.gov/filings/public/filing/fb7c813d-63a4-412b-8e00-bf2a3e97ec7f/print/,140000.0,,,,187864,40020141,40020141-187864,39836
+2009,CVX,CHEVRON USA INC,Energy Company,US,Q2,https://lda.senate.gov/filings/public/filing/41069295-0518-4e95-8f26-ad9421a3d221/print/,130000.0,,,,187864,40020141,40020141-187864,39836
+2009,CVX,CHEVRON USA INC,Energy Company,US,Q3,https://lda.senate.gov/filings/public/filing/97647c8b-176b-493f-8141-a528c2003f94/print/,130000.0,,,,187864,40020141,40020141-187864,39836
+2009,CVX,CHEVRON USA INC,Energy Company,US,Q4,https://lda.senate.gov/filings/public/filing/53d9474e-81b1-4fc5-ae0c-5c49ca6cc26b/print/,130000.0,,,,187864,40020141,40020141-187864,39836
+2009,CVX,"NOBLE ENERGY, INC.",,US,Q1,https://lda.senate.gov/filings/public/filing/8a816106-e07d-4aaf-afdc-c918df015aa2/print/,,40000.0,,,190082,400393847,400393847-190082,400393847
+2009,CVX,"NOBLE ENERGY, INC.",,US,Q2,https://lda.senate.gov/filings/public/filing/fc6d932c-0ac3-4917-9a92-3fbc168d756b/print/,,90000.0,,,190082,400393847,400393847-190082,400393847
+2009,CVX,"NOBLE ENERGY, INC.",,US,Q3,https://lda.senate.gov/filings/public/filing/685f56e9-394b-4ebc-9b5b-6b050d0f6a91/print/,,90000.0,,,190082,400393847,400393847-190082,400393847
+2009,CVX,"NOBLE ENERGY, INC.",,US,Q4,https://lda.senate.gov/filings/public/filing/783c000d-6532-43f5-a5cd-a799ff18e521/print/,,140000.0,,,190082,400393847,400393847-190082,400393847
 2008,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/00d59448-a8d0-46eb-abac-d4d5caaab2e6/print/,,2960000.0,,,113215,9000,9000-113215,30865.0
 2008,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/8064505d-b663-46cf-a523-102f6516a11a/print/,,3194000.0,,,113215,9000,9000-113215,30865.0
 2008,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/e4ee889e-296f-459c-b117-f2df1da74f54/print/,,4290000.0,,,113215,9000,9000-113215,30865.0
@@ -3077,6 +3608,47 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2008,CVX,CHEVRON USA INC,Energy Company,US,Q2,https://lda.senate.gov/filings/public/filing/a50795e8-de1e-4faf-9dae-ef69f793891b/print/,150000.0,,,,187864,40020141,40020141-187864,39836.0
 2008,CVX,CHEVRON USA INC,Energy Company,US,Q3,https://lda.senate.gov/filings/public/filing/3056a7a2-74f0-46ab-b972-96555ab5c571/print/,150000.0,,,,187864,40020141,40020141-187864,39836.0
 2008,CVX,CHEVRON USA INC,Energy Company,US,Q4,https://lda.senate.gov/filings/public/filing/0dc5bf61-4070-4618-aaed-dfd2655673a8/print/,150000.0,,,,187864,40020141,40020141-187864,39836.0
+2008,CVX,CHEVRON U.S.A. INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/00d59448-a8d0-46eb-abac-d4d5caaab2e6/print/,,2960000.0,,,113215,9000,9000-113215,30865
+2008,CVX,CHEVRON U.S.A. INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/8064505d-b663-46cf-a523-102f6516a11a/print/,,3194000.0,,,113215,9000,9000-113215,30865
+2008,CVX,CHEVRON U.S.A. INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/e4ee889e-296f-459c-b117-f2df1da74f54/print/,,4290000.0,,,113215,9000,9000-113215,30865
+2008,CVX,CHEVRON U.S.A. INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/d7bf3217-ae46-4b9a-9ef4-be4e93369f88/print/,,2400000.0,,,113215,9000,9000-113215,30865
+2008,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/e11266dc-6a02-4464-bad0-c19e75b2d83f/print/,32000.0,,,,124688,18433,18433-124688,31383
+2008,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/3b5b5007-c506-4a1b-b980-440496a6a869/print/,40000.0,,,,124688,18433,18433-124688,31383
+2008,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/b4c44455-4f78-485f-9635-65d450ddefed/print/,33800.0,,,,124688,18433,18433-124688,31383
+2008,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/f0727cba-637b-433c-9e17-5ddd1082f864/print/,43000.0,,,,124688,18433,18433-124688,31383
+2008,CVX,CITY OF BATON ROUGE,,US,Q3,https://lda.senate.gov/filings/public/filing/412488ef-c73f-44dd-a0b1-6fc4dd533df5/print/,10000.0,,,,127514,20881,20881-127514,31496
+2008,CVX,CITY OF BATON ROUGE,,US,Q4,https://lda.senate.gov/filings/public/filing/04eb0b03-b174-4bf6-a877-8972d8b04184/print/,10000.0,,,,127514,20881,20881-127514,31496
+2008,CVX,CHEVRON U S A INC,,US,Q1,https://lda.senate.gov/filings/public/filing/da6ef171-94cd-4517-8940-60c3b09d8214/print/,60000.0,,,,129438,22611,22611-129438,30406
+2008,CVX,CHEVRON U S A INC,,US,Q2,https://lda.senate.gov/filings/public/filing/73dfccc8-1542-48e2-b1f5-30219b55c87d/print/,60000.0,,,,129438,22611,22611-129438,30406
+2008,CVX,NOBLE ENERGY,,,Q1,https://lda.senate.gov/filings/public/filing/08546236-9f09-499a-8141-7170ca7e9c8f/print/,30000.0,,,,134429,27775,27775-134429,31212
+2008,CVX,NOBLE ENERGY,,,Q2,https://lda.senate.gov/filings/public/filing/ef35d191-8780-4f60-8e26-e4b49941136b/print/,30000.0,,,,134429,27775,27775-134429,31212
+2008,CVX,NOBLE ENERGY,,,Q3,https://lda.senate.gov/filings/public/filing/73cd3f80-6a49-40dc-9f89-d2c8f6fd3245/print/,30000.0,,,,134429,27775,27775-134429,31212
+2008,CVX,NOBLE ENERGY,,,Q4,https://lda.senate.gov/filings/public/filing/e4796be3-f300-4a93-93cc-7c58a5092fd4/print/,30000.0,,,,134429,27775,27775-134429,31212
+2008,CVX,CHEVRON CORPORATION,,US,Q1,https://lda.senate.gov/filings/public/filing/3311b267-a95d-45dd-9446-5338eebb1bc4/print/,130000.0,,,,155737,48827,48827-155737,34528
+2008,CVX,CHEVRON CORPORATION,,US,Q2,https://lda.senate.gov/filings/public/filing/aa1b9cdf-be6a-41e5-bf74-c8738dea27e1/print/,150000.0,,,,155737,48827,48827-155737,34528
+2008,CVX,CHEVRON CORPORATION,,US,Q3,https://lda.senate.gov/filings/public/filing/380cc3c5-74ae-4bf9-b385-dfb52459692f/print/,150000.0,,,,155737,48827,48827-155737,34528
+2008,CVX,CHEVRON CORPORATION,,US,Q4,https://lda.senate.gov/filings/public/filing/ebcd254a-46d9-405b-b639-fc585138c017/print/,150000.0,,,,155737,48827,48827-155737,34528
+2008,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/13fb92bf-ace0-4800-8685-cc1fe2e0b3d7/print/,60000.0,,,,174301,89975,89975-174301,36702
+2008,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/d772d1f2-aaed-4134-9e5c-baa42eeb61f4/print/,50000.0,,,,174301,89975,89975-174301,36702
+2008,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/e5d83063-b378-4eac-ba87-a1ff55763230/print/,50000.0,,,,174301,89975,89975-174301,36702
+2008,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/50e454fe-104c-4a59-9f76-19ddd55342c2/print/,50000.0,,,,174301,89975,89975-174301,36702
+2008,CVX,CHEVRON USA & SUBSIDIARIES/AFFILIATES OF CHEVRON CORP,,US,Q3,https://lda.senate.gov/filings/public/filing/476eb70b-7225-453c-96df-0823ca1ad91f/print/,10000.0,,,,176837,287656,287656-176837,37027
+2008,CVX,CHEVRON USA & SUBSIDIARIES/AFFILIATES OF CHEVRON CORP,,US,Q4,https://lda.senate.gov/filings/public/filing/5cf755e3-1008-45c5-9028-3270750cd2e1/print/,10000.0,,,,176837,287656,287656-176837,37027
+2008,CVX,CHEVRON USA & SUBSIDIARIES/AFFILIATES OF CHEVRON CORP,,US,Q2,https://lda.senate.gov/filings/public/filing/6f5b5d9d-8c44-4544-873c-9cc008de01c2/print/,10000.0,,,,176837,287656,287656-176837,37027
+2008,CVX,CHEVRON USA & SUBSIDIARIES/AFFILIATES OF CHEVRON CORP,,US,Q1,https://lda.senate.gov/filings/public/filing/5b7c4f91-11f4-4f34-aad7-53f1fbb347f1/print/,10000.0,,,,176837,287656,287656-176837,37027
+2008,CVX,CHEVRON ENVIRONMENTAL MANAGEMENT COMPANY,,US,Q1,https://lda.senate.gov/filings/public/filing/8c1f3641-ae23-4de1-a8ee-1c69737f6982/print/,60000.0,,,,178892,294815,294815-178892,37420
+2008,CVX,CHEVRON ENVIRONMENTAL MANAGEMENT COMPANY,,US,Q2,https://lda.senate.gov/filings/public/filing/dd3547aa-146f-4b8c-9475-1322fd70e2ef/print/,60000.0,,,,178892,294815,294815-178892,37420
+2008,CVX,CHEVRON ENVIRONMENTAL MANAGEMENT COMPANY,,US,Q3,https://lda.senate.gov/filings/public/filing/281eef45-bd5b-4bd5-ba5f-25f0a424ea66/print/,30000.0,,,,178892,294815,294815-178892,37420
+2008,CVX,CHEVRON,,US,Q1,https://lda.senate.gov/filings/public/filing/a6437939-511f-447d-a7d1-7288a28f9eb4/print/,80000.0,,,,184048,313054,313054-184048,39113
+2008,CVX,CHEVRON,,US,Q2,https://lda.senate.gov/filings/public/filing/73209244-f97f-49d2-8a61-e2c1e4d27857/print/,90000.0,,,,184048,313054,313054-184048,39113
+2008,CVX,CHEVRON,,US,Q3,https://lda.senate.gov/filings/public/filing/06951e51-d3d3-491f-8efe-c5ef7117fe81/print/,130000.0,,,,184048,313054,313054-184048,39113
+2008,CVX,CHEVRON,,US,Q4,https://lda.senate.gov/filings/public/filing/ca47406b-ec78-484e-8e2e-d56620bafba4/print/,150000.0,,,,184048,313054,313054-184048,39113
+2008,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q3,https://lda.senate.gov/filings/public/filing/06e55a5c-817f-4252-9ae7-850b4d993335/print/,40000.0,,,,185620,316013,316013-185620,39250
+2008,CVX,CHEVRON U S A INC (SUBSIDIARIES AND AFFILIATES OF ITS PARENT CHEVRON CORP ),Oil Company,US,Q4,https://lda.senate.gov/filings/public/filing/d27cf633-2714-4d5c-8f63-2705c708459d/print/,60000.0,,,,185620,316013,316013-185620,39250
+2008,CVX,CHEVRON USA INC,Energy Company,US,Q1,https://lda.senate.gov/filings/public/filing/0a843f65-6fb7-4a25-a04c-bdb08212cd89/print/,75000.0,,,,187864,40020141,40020141-187864,39836
+2008,CVX,CHEVRON USA INC,Energy Company,US,Q2,https://lda.senate.gov/filings/public/filing/a50795e8-de1e-4faf-9dae-ef69f793891b/print/,150000.0,,,,187864,40020141,40020141-187864,39836
+2008,CVX,CHEVRON USA INC,Energy Company,US,Q3,https://lda.senate.gov/filings/public/filing/3056a7a2-74f0-46ab-b972-96555ab5c571/print/,150000.0,,,,187864,40020141,40020141-187864,39836
+2008,CVX,CHEVRON USA INC,Energy Company,US,Q4,https://lda.senate.gov/filings/public/filing/0dc5bf61-4070-4618-aaed-dfd2655673a8/print/,150000.0,,,,187864,40020141,40020141-187864,39836
 2012,CZR,CAESARS ENTERTAINMENT OPERATING CO INC,Casino Entertainment,US,Q1,https://lda.senate.gov/filings/public/filing/3ccba8d6-e974-497c-94c1-3a57ca71f48c/print/,120000.0,,,,138572,31680,31680-138572,31110.0
 2012,CZR,CAESARS ENTERTAINMENT OPERATING CO INC,Casino Entertainment,US,Q2,https://lda.senate.gov/filings/public/filing/32ed5b40-441c-482b-9df5-d2744182041c/print/,120000.0,,,,138572,31680,31680-138572,31110.0
 2012,CZR,CAESARS ENTERTAINMENT OPERATING CO INC,Casino Entertainment,US,Q3,https://lda.senate.gov/filings/public/filing/5c6cde6a-cdfc-416d-8c90-11f6ff8b8492/print/,90000.0,,,,138572,31680,31680-138572,31110.0
@@ -11262,15 +11834,6 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/d83201eb-bf28-4459-bb50-ee73d81ce62d/print/,50000.0,,,,194416,400703107,400703107-194416,400703107.0
 2022,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/ba764dda-5944-4a22-aa5b-74da29847e81/print/,,180000.0,,,200564,401103981,401103981-200564,401103981.0
 2022,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/e7519cb1-32bd-46a4-895e-44d04828b502/print/,,220000.0,,,200564,401103981,401103981-200564,401103981.0
-2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/939f8d1f-5a35-4434-8f90-b03009464a15/print/,60000.0,,,,127227,20744,20744-127227,31587
-2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/54de1f6c-60e3-4fd8-97bc-df4e1f37d971/print/,60000.0,,,,127227,20744,20744-127227,31587
-2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/9eea3b16-af51-45e7-86cd-b10005b5b602/print/,60000.0,,,,127227,20744,20744-127227,31587
-2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/43b44e63-3bb7-4c3d-a49b-5e607ea46775/print/,60000.0,,,,127227,20744,20744-127227,31587
-2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/5b1dbc2e-678f-4916-9201-8249e5b347ec/print/,50000.0,,,,194416,400703107,400703107-194416,400703107
-2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/53f2e81a-2bb1-4358-9f3e-15f1d681ec07/print/,50000.0,,,,194416,400703107,400703107-194416,400703107
-2022,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/d83201eb-bf28-4459-bb50-ee73d81ce62d/print/,50000.0,,,,194416,400703107,400703107-194416,400703107
-2022,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/ba764dda-5944-4a22-aa5b-74da29847e81/print/,,180000.0,,,200564,401103981,401103981-200564,401103981
-2022,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/e7519cb1-32bd-46a4-895e-44d04828b502/print/,,220000.0,,,200564,401103981,401103981-200564,401103981
 2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/45372c0a-168d-4a60-bc92-3f0cf836bd10/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/85cbd867-7610-4b9d-a78b-ce5b203135c8/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/22be2fa9-5644-4571-b38e-6a8de5e77cb8/print/,60000.0,,,,127227,20744,20744-127227,31587.0
@@ -11283,18 +11846,6 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2021,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/99682547-2248-4143-b3d6-c4e5ceb846a9/print/,,230000.0,,,200564,401103981,401103981-200564,401103981.0
 2021,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/769dca27-fac6-4618-bb1f-01da1ebb2a9d/print/,,230000.0,,,200564,401103981,401103981-200564,401103981.0
 2021,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/bbd5196a-16f0-4a5f-b9aa-a86f7c345120/print/,,210000.0,,,200564,401103981,401103981-200564,401103981.0
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/45372c0a-168d-4a60-bc92-3f0cf836bd10/print/,60000.0,,,,127227,20744,20744-127227,31587
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/85cbd867-7610-4b9d-a78b-ce5b203135c8/print/,60000.0,,,,127227,20744,20744-127227,31587
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/22be2fa9-5644-4571-b38e-6a8de5e77cb8/print/,60000.0,,,,127227,20744,20744-127227,31587
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/3198e8f4-dd07-4f06-98b7-8dc6ab9c7d4d/print/,60000.0,,,,127227,20744,20744-127227,31587
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/265ab728-5ec6-4e63-a277-78eb7965e8d9/print/,50000.0,,,,194416,400703107,400703107-194416,400703107
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/4cfa69cc-298b-4654-82bd-69410203de9d/print/,50000.0,,,,194416,400703107,400703107-194416,400703107
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/3df57e52-967f-4b5b-8586-8a2d7dcdbeb4/print/,50000.0,,,,194416,400703107,400703107-194416,400703107
-2021,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/4bb53522-ef10-4f37-b925-2e5e93054816/print/,50000.0,,,,194416,400703107,400703107-194416,400703107
-2021,SPOT,SPOTIFY USA INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/76333c9e-a6db-404e-a389-bcd14d85b77a/print/,,230000.0,,,200564,401103981,401103981-200564,401103981
-2021,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/99682547-2248-4143-b3d6-c4e5ceb846a9/print/,,230000.0,,,200564,401103981,401103981-200564,401103981
-2021,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/769dca27-fac6-4618-bb1f-01da1ebb2a9d/print/,,230000.0,,,200564,401103981,401103981-200564,401103981
-2021,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/bbd5196a-16f0-4a5f-b9aa-a86f7c345120/print/,,210000.0,,,200564,401103981,401103981-200564,401103981
 2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/95152f84-b65c-425d-80d1-e3bc50f09aa0/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/eb62378c-39ab-42d8-8f6e-683849d22a8b/print/,50000.0,,,,127227,20744,20744-127227,31587.0
 2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/381725ab-22bb-4e5f-bdf6-ffc893e6aaa4/print/,30000.0,,,,127227,20744,20744-127227,31587.0
@@ -11307,18 +11858,6 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2020,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/25fb3d6d-d9d5-4a95-a20c-308eff07c174/print/,,220000.0,,,200564,401103981,401103981-200564,
 2020,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/41a840b8-1fad-42c1-b505-b2ee3ecd626b/print/,,180000.0,,,200564,401103981,401103981-200564,401103981.0
 2020,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/d23f7bc9-ca5b-4c09-a649-018fdfd61f94/print/,,180000.0,,,200564,401103981,401103981-200564,401103981.0
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/95152f84-b65c-425d-80d1-e3bc50f09aa0/print/,60000.0,,,,127227,20744,20744-127227,31587
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/eb62378c-39ab-42d8-8f6e-683849d22a8b/print/,50000.0,,,,127227,20744,20744-127227,31587
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/381725ab-22bb-4e5f-bdf6-ffc893e6aaa4/print/,30000.0,,,,127227,20744,20744-127227,31587
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/0f0cdb0f-59f5-4348-aac9-913091336d74/print/,30000.0,,,,127227,20744,20744-127227,31587
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/2204a58f-45fd-4224-9ae6-0f9632a9e2ef/print/,50000.0,,,,194416,400703107,400703107-194416,
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/475d55b9-232e-46e0-9145-5891a4d76db5/print/,40000.0,,,,194416,400703107,400703107-194416,
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/9aa46d05-7f36-4858-abe0-0932c6c9e3ad/print/,30000.0,,,,194416,400703107,400703107-194416,400703107
-2020,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/12508534-80e2-4bf9-a79d-8e489d645b0c/print/,30000.0,,,,194416,400703107,400703107-194416,400703107
-2020,SPOT,SPOTIFY USA INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/2feb17fe-8ba8-406c-a519-575a72af94a5/print/,,240000.0,,,200564,401103981,401103981-200564,
-2020,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/25fb3d6d-d9d5-4a95-a20c-308eff07c174/print/,,220000.0,,,200564,401103981,401103981-200564,
-2020,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/41a840b8-1fad-42c1-b505-b2ee3ecd626b/print/,,180000.0,,,200564,401103981,401103981-200564,401103981
-2020,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/d23f7bc9-ca5b-4c09-a649-018fdfd61f94/print/,,180000.0,,,200564,401103981,401103981-200564,401103981
 2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/8ffa6516-3be6-4d39-ad09-ffad14049221/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/e7b69fcf-89fe-40af-a592-7626625115d5/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/5030b9de-984a-4f9c-9ca9-aa6df5d73f34/print/,60000.0,,,,127227,20744,20744-127227,31587.0
@@ -11333,40 +11872,10 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2019,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/ea61dfba-9d78-485c-87d5-2fe2623c3fae/print/,,240000.0,,,200564,401103981,401103981-200564,
 2019,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/6ce1caeb-ae2d-4799-80c3-4e20b853d2be/print/,,240000.0,,,200564,401103981,401103981-200564,
 2019,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/816aab2e-ba98-4dc6-bc13-f6a41152c37a/print/,,240000.0,,,200564,401103981,401103981-200564,
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/8ffa6516-3be6-4d39-ad09-ffad14049221/print/,60000.0,,,,127227,20744,20744-127227,31587
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/e7b69fcf-89fe-40af-a592-7626625115d5/print/,60000.0,,,,127227,20744,20744-127227,31587
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/5030b9de-984a-4f9c-9ca9-aa6df5d73f34/print/,60000.0,,,,127227,20744,20744-127227,31587
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/af2a1400-7116-4186-98ab-69f24e352024/print/,60000.0,,,,127227,20744,20744-127227,31587
-2019,SPOT,SPOTIFY USA INC.,digital music service,US,Q1,https://lda.senate.gov/filings/public/filing/74dc96e4-cc9f-4ce7-9609-9e5d47a31ff4/print/,50000.0,,,,192208,400531586,400531586-192208,
-2019,SPOT,SPOTIFY USA INC.,digital music service,US,Q2,https://lda.senate.gov/filings/public/filing/d4a8feef-ce0e-4d6c-ac56-e52bd72a55e7/print/,50000.0,,,,192208,400531586,400531586-192208,
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/bd6d75de-91d3-4f15-be30-d50472355032/print/,30000.0,,,,194416,400703107,400703107-194416,
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/cc6f18c3-683a-4e1d-bfac-60d83d4638de/print/,30000.0,,,,194416,400703107,400703107-194416,
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/5ea6067b-da00-46d5-9b70-c492e3955790/print/,40000.0,,,,194416,400703107,400703107-194416,
-2019,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/a5cc1d02-bfbe-4d27-930c-9b8f07a15c68/print/,50000.0,,,,194416,400703107,400703107-194416,
-2019,SPOT,SPOTIFY USA INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/7e2f38f2-dcca-49b4-9e7c-b3d9730f9c6c/print/,,240000.0,,,200564,401103981,401103981-200564,
-2019,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/ea61dfba-9d78-485c-87d5-2fe2623c3fae/print/,,240000.0,,,200564,401103981,401103981-200564,
-2019,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/6ce1caeb-ae2d-4799-80c3-4e20b853d2be/print/,,240000.0,,,200564,401103981,401103981-200564,
-2019,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/816aab2e-ba98-4dc6-bc13-f6a41152c37a/print/,,240000.0,,,200564,401103981,401103981-200564,
 2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/a7c4366f-dcdd-4b01-9deb-24d7bfddac85/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/3a0f06bc-22e6-4f43-946a-6d79aaf97bd9/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/3be228b1-34bc-45e0-973c-990183fb3910/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/f16a5d3d-6c0b-4f68-aeb4-d7f69daa9ea2/print/,60000.0,,,,127227,20744,20744-127227,31587.0
-2018,SPOT,SPOTIFY USA INC.,digital music service,US,Q1,https://lda.senate.gov/filings/public/filing/613cc7e8-3b3e-4029-8275-2a87717e9fdb/print/,50000.0,,,,192208,400531586,400531586-192208,
-2018,SPOT,SPOTIFY USA INC.,digital music service,US,Q2,https://lda.senate.gov/filings/public/filing/08f26431-6b67-4a7f-b0a2-b6c947b19e4a/print/,50000.0,,,,192208,400531586,400531586-192208,
-2018,SPOT,SPOTIFY USA INC.,digital music service,US,Q3,https://lda.senate.gov/filings/public/filing/1503eb9e-e6a9-4553-a6c5-47fd6f98e201/print/,50000.0,,,,192208,400531586,400531586-192208,
-2018,SPOT,SPOTIFY USA INC.,digital music service,US,Q4,https://lda.senate.gov/filings/public/filing/e148d0f4-dd23-452a-be68-094fa82cfeaf/print/,50000.0,,,,192208,400531586,400531586-192208,
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/9b8949d6-ca29-4a0a-bfba-73bae68881d3/print/,30000.0,,,,194416,400703107,400703107-194416,
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/72adee38-f4f4-4015-89dc-697b563eff35/print/,30000.0,,,,194416,400703107,400703107-194416,
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/f5e65732-67fe-408f-9ef1-91e6b3290cc7/print/,30000.0,,,,194416,400703107,400703107-194416,
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/3be6b289-3539-4ee1-a22b-7b3db2c46bfb/print/,30000.0,,,,194416,400703107,400703107-194416,
-2018,SPOT,SPOTIFY USA INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/d1c62fd9-4f3a-44d6-8929-bf1e6994061c/print/,,240000.0,,,200564,401103981,401103981-200564,
-2018,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/eccabcc0-5540-49da-b0f8-a6cfda275ed3/print/,,240000.0,,,200564,401103981,401103981-200564,
-2018,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/bfcb63f9-be58-4637-a341-4dc4291a25b7/print/,,240000.0,,,200564,401103981,401103981-200564,
-2018,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/c49da0fc-e7e1-48ec-9b71-cd65e9055441/print/,,240000.0,,,200564,401103981,401103981-200564,
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/a7c4366f-dcdd-4b01-9deb-24d7bfddac85/print/,60000.0,,,,127227,20744,20744-127227,31587
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/3a0f06bc-22e6-4f43-946a-6d79aaf97bd9/print/,60000.0,,,,127227,20744,20744-127227,31587
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/3be228b1-34bc-45e0-973c-990183fb3910/print/,60000.0,,,,127227,20744,20744-127227,31587
-2018,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/f16a5d3d-6c0b-4f68-aeb4-d7f69daa9ea2/print/,60000.0,,,,127227,20744,20744-127227,31587
 2018,SPOT,SPOTIFY USA INC.,digital music service,US,Q1,https://lda.senate.gov/filings/public/filing/613cc7e8-3b3e-4029-8275-2a87717e9fdb/print/,50000.0,,,,192208,400531586,400531586-192208,
 2018,SPOT,SPOTIFY USA INC.,digital music service,US,Q2,https://lda.senate.gov/filings/public/filing/08f26431-6b67-4a7f-b0a2-b6c947b19e4a/print/,50000.0,,,,192208,400531586,400531586-192208,
 2018,SPOT,SPOTIFY USA INC.,digital music service,US,Q3,https://lda.senate.gov/filings/public/filing/1503eb9e-e6a9-4553-a6c5-47fd6f98e201/print/,50000.0,,,,192208,400531586,400531586-192208,
@@ -11395,40 +11904,10 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2017,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/99d187cd-200b-4350-b35f-3f0abae99fa1/print/,,270000.0,,,200564,401103981,401103981-200564,
 2017,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/d624fb25-cda1-457e-a215-d7e5a2c8ddba/print/,,260000.0,,,200564,401103981,401103981-200564,
 2017,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/fbfcb596-370b-4912-8693-da4ea78737da/print/,,260000.0,,,200564,401103981,401103981-200564,
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/0679731d-52f8-4d91-8813-311c987f5e50/print/,60000.0,,,,127227,20744,20744-127227,31587
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/ef3ef06a-bad4-4db6-966f-1a3df574bcb0/print/,60000.0,,,,127227,20744,20744-127227,31587
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/40368999-daa3-43fb-806b-597002852689/print/,60000.0,,,,127227,20744,20744-127227,31587
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/6d13ade8-59d6-4b41-a213-064392b773ed/print/,60000.0,,,,127227,20744,20744-127227,31587
-2017,SPOT,SPOTIFY USA INC.,digital music service,US,Q1,https://lda.senate.gov/filings/public/filing/46380e08-b256-47f1-ba0f-c21ea9cfd1cf/print/,50000.0,,,,192208,400531586,400531586-192208,
-2017,SPOT,SPOTIFY USA INC.,digital music service,US,Q2,https://lda.senate.gov/filings/public/filing/066d54e8-1d7f-4c6f-998b-ad16075d4212/print/,50000.0,,,,192208,400531586,400531586-192208,
-2017,SPOT,SPOTIFY USA INC.,digital music service,US,Q3,https://lda.senate.gov/filings/public/filing/90fc3655-a867-451f-b64b-2fa3b6ea5dc6/print/,50000.0,,,,192208,400531586,400531586-192208,
-2017,SPOT,SPOTIFY USA INC.,digital music service,US,Q4,https://lda.senate.gov/filings/public/filing/4a2a733a-6b67-4e57-9c20-ec65d2370cf8/print/,50000.0,,,,192208,400531586,400531586-192208,
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/262b36df-2cab-4ff1-9c0a-ebd27b2b4526/print/,50000.0,,,,194416,400703107,400703107-194416,
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/f1b42740-f4b8-4e61-b619-baff3ff2d6b2/print/,50000.0,,,,194416,400703107,400703107-194416,
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/37c4aa0a-3ba3-4e90-82cb-a3b909db3a21/print/,50000.0,,,,194416,400703107,400703107-194416,
-2017,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/0663c844-9b38-4d14-8694-bd5db0629139/print/,50000.0,,,,194416,400703107,400703107-194416,
-2017,SPOT,SPOTIFY USA INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/3b56ea19-2352-4571-a917-1b074aeca704/print/,,270000.0,,,200564,401103981,401103981-200564,
-2017,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/99d187cd-200b-4350-b35f-3f0abae99fa1/print/,,270000.0,,,200564,401103981,401103981-200564,
-2017,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/d624fb25-cda1-457e-a215-d7e5a2c8ddba/print/,,260000.0,,,200564,401103981,401103981-200564,
-2017,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/fbfcb596-370b-4912-8693-da4ea78737da/print/,,260000.0,,,200564,401103981,401103981-200564,
 2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/36520b56-8966-4764-b6a2-17766d05632b/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/ac32bb61-348b-4b4a-b067-9dac465e540f/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/9e827d64-66cb-4c95-8a06-4f0d4cebd974/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/61e35067-cb6f-42d1-a901-e769a4804a83/print/,60000.0,,,,127227,20744,20744-127227,31587.0
-2016,SPOT,SPOTIFY USA INC.,digital music service,US,Q3,https://lda.senate.gov/filings/public/filing/f77cf41c-6783-41d1-812a-46283a1366c3/print/,30000.0,,,,192208,400531586,400531586-192208,
-2016,SPOT,SPOTIFY USA INC.,digital music service,US,Q4,https://lda.senate.gov/filings/public/filing/fc0a4fd9-16b5-4f09-8218-9b0c4fbb82b7/print/,50000.0,,,,192208,400531586,400531586-192208,
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/fdc80536-d202-4162-aa2e-c5fc97f0ac6e/print/,50000.0,,,,194416,400703107,400703107-194416,
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/bf96ced4-a491-4784-8cb9-915785655b66/print/,50000.0,,,,194416,400703107,400703107-194416,
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/457d58ae-3018-413e-bb49-057be948f759/print/,50000.0,,,,194416,400703107,400703107-194416,
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/30ab5602-2e0b-4414-94bf-514d9dbbdcfd/print/,50000.0,,,,194416,400703107,400703107-194416,
-2016,SPOT,SPOTIFY USA INC.,,US,Q1,https://lda.senate.gov/filings/public/filing/a16c91cb-f7ca-4d52-a443-0b9c1bd8cc49/print/,,220000.0,,,200564,401103981,401103981-200564,
-2016,SPOT,SPOTIFY USA INC.,,US,Q2,https://lda.senate.gov/filings/public/filing/048ac8c7-7fcd-473e-a7c0-21806e899d77/print/,,230000.0,,,200564,401103981,401103981-200564,
-2016,SPOT,SPOTIFY USA INC.,,US,Q3,https://lda.senate.gov/filings/public/filing/78e7ab94-3c78-4ed5-bdee-d6d5e94167fc/print/,,260000.0,,,200564,401103981,401103981-200564,
-2016,SPOT,SPOTIFY USA INC.,,US,Q4,https://lda.senate.gov/filings/public/filing/d258aa37-edb1-4ccc-8c35-5f17b7cd5278/print/,,280000.0,,,200564,401103981,401103981-200564,
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/36520b56-8966-4764-b6a2-17766d05632b/print/,60000.0,,,,127227,20744,20744-127227,31587
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/ac32bb61-348b-4b4a-b067-9dac465e540f/print/,60000.0,,,,127227,20744,20744-127227,31587
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/9e827d64-66cb-4c95-8a06-4f0d4cebd974/print/,60000.0,,,,127227,20744,20744-127227,31587
-2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/61e35067-cb6f-42d1-a901-e769a4804a83/print/,60000.0,,,,127227,20744,20744-127227,31587
 2016,SPOT,SPOTIFY USA INC.,digital music service,US,Q3,https://lda.senate.gov/filings/public/filing/f77cf41c-6783-41d1-812a-46283a1366c3/print/,30000.0,,,,192208,400531586,400531586-192208,
 2016,SPOT,SPOTIFY USA INC.,digital music service,US,Q4,https://lda.senate.gov/filings/public/filing/fc0a4fd9-16b5-4f09-8218-9b0c4fbb82b7/print/,50000.0,,,,192208,400531586,400531586-192208,
 2016,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/fdc80536-d202-4162-aa2e-c5fc97f0ac6e/print/,50000.0,,,,194416,400703107,400703107-194416,
@@ -11445,16 +11924,6 @@ year,symbol,name,description,country,period,documentUrl,income,expenses,postedNa
 2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/87e34102-5e8b-4631-ad0f-d146ada6d3f4/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/252a3ac8-e402-4b33-ac3d-e8a979bac406/print/,60000.0,,,,127227,20744,20744-127227,31587.0
 2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/7f6fdf9d-9dc9-4dd7-9d9d-fd601c036828/print/,60000.0,,,,127227,20744,20744-127227,31587.0
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/3297a5f3-c734-434c-85e2-22e3fc0a96ce/print/,10000.0,,,,194416,400703107,400703107-194416,
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/578ab05d-de3d-4f6d-8445-d2947020fea2/print/,50000.0,,,,194416,400703107,400703107-194416,
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/c8f35206-2de7-405c-9ca9-43d8130788d8/print/,50000.0,,,,194416,400703107,400703107-194416,
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/e7bb6eaf-b573-421a-b8a6-237434f05ffc/print/,50000.0,,,,194416,400703107,400703107-194416,
-2015,SPOT,SPOTIFY USA INC,digital music service,US,Q2,https://lda.senate.gov/filings/public/filing/db60f4fe-9d7c-461a-8698-f02e95d2d5c5/print/,60000.0,,,,105265,5131,5131-105265,30019
-2015,SPOT,SPOTIFY USA INC,digital music service,US,Q3,https://lda.senate.gov/filings/public/filing/ffbad1b7-b2ed-4a40-b054-ec0d80c1d8de/print/,60000.0,,,,105265,5131,5131-105265,30019
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/19110992-2160-4630-a225-f24d76a83401/print/,20000.0,,,,127227,20744,20744-127227,31587
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/87e34102-5e8b-4631-ad0f-d146ada6d3f4/print/,60000.0,,,,127227,20744,20744-127227,31587
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/252a3ac8-e402-4b33-ac3d-e8a979bac406/print/,60000.0,,,,127227,20744,20744-127227,31587
-2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q4,https://lda.senate.gov/filings/public/filing/7f6fdf9d-9dc9-4dd7-9d9d-fd601c036828/print/,60000.0,,,,127227,20744,20744-127227,31587
 2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q1,https://lda.senate.gov/filings/public/filing/3297a5f3-c734-434c-85e2-22e3fc0a96ce/print/,10000.0,,,,194416,400703107,400703107-194416,
 2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q2,https://lda.senate.gov/filings/public/filing/578ab05d-de3d-4f6d-8445-d2947020fea2/print/,50000.0,,,,194416,400703107,400703107-194416,
 2015,SPOT,SPOTIFY USA INC.,A digital music service.,US,Q3,https://lda.senate.gov/filings/public/filing/c8f35206-2de7-405c-9ca9-43d8130788d8/print/,50000.0,,,,194416,400703107,400703107-194416,
