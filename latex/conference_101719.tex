@@ -5,6 +5,7 @@
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
 \usepackage{graphicx}
+\graphicspath{ {../images/} }
 \usepackage{textcomp}
 \usepackage{xcolor}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
@@ -35,14 +36,11 @@ The following models are used for predicting the stock price among others: Linea
 This paper lays out the results from different models, provides an accuracy score for each model and provides insight into the best fit for the stock price prediction.
 \end{abstract}
 
-\begin{IEEEkeywords}
-component, formatting, style, styling, insert
-\end{IEEEkeywords}
-
 \section{Background}
+
 Comcast Corporation operates as a media and technology company worldwide.
-It operates through Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments.
-The Residential Connectivity & Platforms segment provides residential broadband and wireless connectivity services, residential and business video services, advertising sales, and Sky channels. Some of the top competitors of Comcast include Verizon, AT&T, Charter Communications, Dish Network, and Walt Disney Company.
+It operates through Residential Connectivity \& Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments.
+The Residential Connectivity \& Platforms segment provides residential broadband and wireless connectivity services, residential and business video services, advertising sales, and Sky channels. Some of the top competitors of Comcast include Verizon, AT\&T, Charter Communications, Dish Network, and Walt Disney Company.
 Comcast stock is listed in the NASDAQ stock exchange using the symbol (CMCSA).
 Machine learning is a branch of artificial intelligence that analyzes complex sets of historical data, discovers hidden relationships between data sets, makes forecasts, and learns along the way to become even more accurate.
 Such capabilities make ML-based tools well-suited for financial analysis.
@@ -54,13 +52,13 @@ We will be using various regression models for our study here.
 
 \section{Related Work}
 
-Mehar Vijh, Deeksha Chandola, Vinay Anand Tikkiwal, and Arun Kumar tested Random Forest along with neural networks using 4 features (Open, High, Low, and Close) using RMSE and MAPE as indicators and found that they were effective in predicting the stock prices [3].
-Mehtabhorn Obthong, Nongnuch Tantisantiwong, Watthanasak Jeamwatthanachai and Gary Wills used various ML techniques partially focused on regression to predict stock prices including KNN, Neural Networks and Random Forest [4].
-Ramkrishna Patel, Vikas Choudhary, Deepika Saxena, and Ashutosh Kumar Singh discussed feature reduction in data pre-processing in application of different approaches including Naïve Bayes, KNN, and Linear Regression to predict stock prices [5].
+Mehar Vijh, Deeksha Chandola , Vinay Anand Tikkiwal, and Arun Kumar tested Random Forest along with neural networks using 4 features (\,Open, High, Low, and Close)\, using RMSE and MAPE as indicators and found that they were effective in predicting the stock prices \cite{b3}.
+Mehtabhorn Obthong, Nongnuch Tantisantiwong, Watthanasak Jeamwatthanachai and Gary Wills used various ML techniques partially focused on regression to predict stock prices including KNN, Neural Networks and Random Forest \cite{b4}.
+Ramkrishna Patel, Vikas Choudhary, Deepika Saxena, and Ashutosh Kumar Singh discussed feature reduction in data pre-processing in application of different approaches including Naïve Bayes, KNN, and Linear Regression to predict stock prices \cite{b5}.
 
 \section{Methodology}
 
-\subsection{Data Collection using Finnhub}\label{AA}
+\subsection{Data Collection using Finnhub}
 
 Over the last few years, several new market data providers have come online. They tend to have modern websites, broad coverage, and well-documented RESTful APIs.
 Their services are often priced very competitively - especially for personal use - and usually have generous free tiers.
@@ -74,47 +72,43 @@ It contains quite a few Rest API endpoints and allows 60 calls per minute.
 However, some of the data is limited when using the free tier.
 For example, the candlestick data that provides the daily stock price only contains 1 year of historical data.
 For this analysis, we are using the financial data for Comcast (CMCSA) and a few of its competitors from various segments such as internet/broadband, media, mobile, gaming, etc.
-The competitors included in this paper include Verizon (VZ), AT&T (T), and Dish Network (DISH).
+The competitors included in this paper include Verizon (VZ), AT\&T (T), and Dish Network (DISH).
 
-\subsection{Data Preprocessing }\label{AA}
+\subsection{Data Preprocessing}
 Data preprocessing is a step in the data mining and data analysis process that takes raw data and transforms it into a format that can be understood and analyzed by computers and machine learning.
 Good, preprocessed data is even more important than the most powerful algorithms, to the point that machine learning models trained with bad data could be harmful to the analysis.
 
-\subsubsection{Handling Missing Data}\\
-
+\subsubsection{Handling Missing Data}
 Missing values are one of the common issues in machine learning models, and their causes are related to human errors, interruptions in the data flow, and incorrect measurements, among others.
 Most of the algorithms in machine learning do not accept missing values and through errors if a dataset has missing values.
 Therefore, it is necessary to solve this issue utilizing some mechanism to deal with or remove them.
 Removing rows or columns with missing data can affect the performance of the model, as the size of the data decreases.
 
-\subsubsection{Handling Outliers}\\
-
+\subsubsection{Handling Outliers}
 Outliers can be detected by plotting the distribution of the returns and observing if the distribution has extreme fat tails, which is a hint of some anomaly in the data.
 Also, outliers can be detected by using the percentiles of the data.
 Researchers can define a certain percentage threshold in the upper bottom of the distribution where values beyond these limits are considered outliers.
 
-\subsubsection{Scaling}\\
-
+\subsubsection{Scaling}
 After scaling a dataset, all the continuous variables become identical in terms of the range.
 It is required to scale all the inputs to have values that can be compared.
 Some techniques to scale values on a dataset are Normalization and Standardization.
 
-\subsubsection{Normalization}\\
-
+\subsubsection{Normalization}
 Normalization scales all values in the range 0 and 1.
 Each value of the variable is subtracted by the min value and divided by the difference between the max value and the min value.
 The procedure does not change the distribution of the feature.
 Before normalization, outliers should be handled.
 
-\begin{equation}
-Xnorm = \frac{X - X\min_}{X\max_ - X\min_}
-\end{equation}
+%\begin{equation}
+%Xnorm = \frac{X - X\min_}{X\max_ - X\min_}
+%\end{equation}
 
 \begin{equation}
 Xnorm = \frac{X - \min_{X}}{\max_{X} - \min_{X}}
 \end{equation}
 
-\subsubsection{Standardization}\\
+\subsubsection{Standardization}
 
 This method is also called the z-score and scale each of the values of a column by removing from them the mean of the column and divided by the standard deviation.
 This technique decreases the effect of outliers in each feature.
@@ -134,18 +128,19 @@ s = \sqrt\frac{\sum{(x_i-\bar{x})^2}}{n-1}
 The FinnHub Free tier APIs provides one year of candlestick data for stocks.
 This data set contains the daily open, high, low, close, and volume values (OHLCV) of a stock over time.
 
-\subsubsection{Stock Chart}\\
-The chart below shows the closing price for Comcast and its competitors for the last year and a half.
------ Add Stock chart ----
+\begin{figure}
+    \includegraphics[width=\columnwidth]{stock_chart}
+    \caption{This shows the stock price history for Comcast and its competitors over the last year and a half.}
+\end{figure}
 
-\subsubsection{Distribution of Dataset}\\
-The following chart shows the distribution of the candlestick data for the CMCSA ticker symbol
------ Add EDA ----
+\begin{figure}
+    \includegraphics[width=\columnwidth]{data_distribution}
+    \caption{This shows the distribution of the candlestick data for the CMCSA ticker symbol.}
+\end{figure}
 
 \subsection{Machine Learning Models}
 
-\subsubsection{Linear Regression}\\
-
+\subsubsection{Linear Regression}
 Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data.
 One variable is considered an explanatory variable, and the other a dependent variable.
 It must be determined if there is a relationship between the variables of interest.
@@ -158,8 +153,8 @@ A linear regression line has an equation of the form:
 where X is the explanatory variable and Y is the dependent variable.
 The slope of the line is b, and a is the intercept (the value of y when x = 0).
 
-\subsubsection{Locally Weighted Linear Regression}\\
 
+\subsubsection{Locally Weighted Linear Regression}
 LWLR is a non-parametric regression technique that fits a linear regression model to a dataset by giving more weight to nearby data points.
 LWLR fits a separate linear regression model for each query point based on the weights assigned to the training data points.
 The weights assigned to each training data point are inversely proportional to their distance from the query point.
@@ -167,8 +162,14 @@ Training data points that are closer to the query point will have a higher weigh
 LWLR is useful when a global linear model does not capture the relationship between the input and output variables.
 The goal is to capture local patterns in the data.
 
-\subsubsection{Decision Tree Regressor}\\
+\subsubsection{K-Folds Cross Validation}
+Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
+The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation.
+When a specific value for k is chosen, it may be used in place of k in reference to the model, such as k=20 becoming 20-fold cross-validation.
+Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data.
+That is, to use a limited sample to estimate how the model is expected to perform in general when used to make predictions on data not used during the training of the model.
 
+\subsubsection{Decision Tree Regressor}
 Decision trees build regression or classification models in the form of a tree structure.
 It breaks down a dataset into smaller subsets while an associated decision tree is incrementally developed.
 The result is a tree with decision and leaf nodes.
@@ -180,49 +181,76 @@ The Accuracy of the model can be calculated using Mean Squared Error formula:
 
 --- Add Formula --- MSE...
 
-\subsubsection{Random Forest Regressor}\\
-
+\subsubsection{Random Forest Regressor}
 Random Forest is a ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and Aggregation, commonly known as bagging.
 The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees.
 Random Forest has multiple decision trees as base learning models.
 We randomly perform row sampling and feature sampling from the dataset forming sample datasets for every model.
 This part is called Bootstrap.
 
-\subsubsection{K-Folds Cross Validation}\\
-
-Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
-The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation.
-When a specific value for k is chosen, it may be used in place of k in reference to the model, such as k=20 becoming 20-fold cross-validation.
-Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data.
-That is, to use a limited sample to estimate how the model is expected to perform in general when used to make predictions on data not used during the training of the model.
-
-\subsubsection{Gradient Boosting}\\
-
+\subsubsection{Gradient Boosting}
 Gradient boosting is a machine learning technique used in regression and classification tasks, among others.
 It gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees.
 When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest.
 A gradient-boosted trees model is built in a stage-wise fashion as in other boosting methods, but it generalizes the other methods by allowing optimization of an arbitrary differentiable loss function.
 
-\subsubsection{Bayesian Ridge}\\
-
+\subsubsection{Bayesian Ridge}
 Bayesian regression is a type of linear regression that uses Bayesian statistics to estimate the unknown parameters of a model.
 It uses Bayes theorem to estimate the likelihood of a set of parameters given observed data.
 The goal of Bayesian regression is to find the best estimate of the parameters of a linear model that describes the relationship between the independent and the dependent variables.
 The main difference between traditional linear regression and Bayesian regression is the underlying assumption regarding the data-generating process.
 Traditional linear regression assumes that data follows a Gaussian or normal distribution, while Bayesian regression has stronger assumptions about the nature of the data and puts a prior probability distribution on the parameters.
 
-
 \subsection{Experiment and Results}
 
 The predicted and actual stock prices comparison for the last 8 months has been shown below for the various regression models.
 The regression models perform well for the most part apart from minor variations at certain points.
 
----- Add Graphs ---
+\begin{figure}
+    \includegraphics[width=\columnwidth]{LinearRegression}
+    \caption{Basic LinearRegression}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=\columnwidth]{Locally-Weighted LinearRegression}
+    \caption{Locally-Weighted LinearRegression}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=\columnwidth]{K-Fold CV LinearRegression}
+    \caption{LinearRegression with K-Fold Cross Validation}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=\columnwidth]{DecisionTreeRegressor}
+    \caption{Decision Tree Regressor}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=\columnwidth]{RandomForestRegressor}
+    \caption{Random Forest Regressor}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=\columnwidth]{GradientBoostingRegressor}
+    \caption{Gradient Boosting Regressor}
+\end{figure}
+
+\begin{figure}
+    \includegraphics[width=\columnwidth]{BayesianRidge}
+    \caption{Bayesian Ridge Regressor}
+\end{figure}
 
 Below are the metrics for each of the models that we implemented.
 The metrics include the R-squared score, Mean Squared Error (MSE), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE).
 
 ---- Add Metrics ---
+
+\begin{figure}
+    \includegraphics[width=\columnwidth]{metrics}
+    \caption{Metrics for each model. Including the R-squared score, Mean Squared Error (MSE),
+    Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE)}
+\end{figure}
 
 
 \section{Conclusion}
@@ -241,23 +269,35 @@ We can accomplish this by applying some supervised learning methods shown here a
 Another approach would be to train a neural network that will predict the close price for the next day using our existing dataset. \cite{b1}
 Below are examples of the financial market data that could be included in our dataset to train the model.
 
-Social media sentiment over time for Comcast and its competitors.
 
----- Add Sentiment plot ---
+\begin{figure}
+    \includegraphics[width=\columnwidth]{social_media_sentiment}
+    \caption{Social media sentiment over time for Comcast and its competitors.}
+\end{figure}
 
-The following chart shows the recommendation trends for Comcast
+\begin{figure}
+    \includegraphics[width=\columnwidth]{trends}
+    \caption{The monthly stock analyst recommendation for Comcast.}
+\end{figure}
 
----- Add Reccomendation plot ---
+\begin{figure}
+    \includegraphics[width=\columnwidth]{earnings}
+    \caption{Quarterly Estimated and actual earnings per share for Comcast and Verizon.}
+\end{figure}
 
+\begin{figure}
+    \includegraphics[width=\columnwidth]{tech_indicators}
+    \caption{Stock Chart with Technical Indicators}
+\end{figure}
 
 \section*{Bibliography}
 
 \begin{thebibliography}{00}
-\bibitem{b1}``Forecasting Market Price of Stock using Artificial Neural Network, International Journal of Computer Applications''  (0975 – 8887) Volume 124 – No.12, August 2015, Amod Murkute: Student, M.E. Thadomal Shahani Engineering College Mumbai, India, Tanuja Sarode, PhD Associate Professor Thadomal Shahani Engineering College Mumbai, India
-\bibitem{b2} Vargas, Manuel R., Beatriz SLP De Lima, and Alexandre G. Evsukoff.  ``Deep learning for stock market prediction from financial news articles.'' 2017 IEEE international conference on computational intelligence and virtual environments for measurement systems and applications (CIVEMSA). IEEE, 2017.
-\bibitem{b3} Vijh, Mehar, et al. ``Stock closing price prediction using machine learning techniques.'' Procedia computer science 167 (2020): 599-606.
-\bibitem{b4} Obthong, Mehtabhorn, et al.  ``A survey on machine learning for stock price prediction: Algorithms and techniques.'' (2020): 63-71.
-\bibitem{b5} Patel, Ramkrishna, et al. ``Review of stock prediction using machine learning techniques.'' 021 5th International Conference on Trends in Electronics and Informatics (ICOEI). IEEE, 2021.
+\bibitem{b1} Amod Murkute, Tanuja Sarode. ``Forecasting Market Price of Stock using Artificial Neural Network'', International Journal of Computer Applications (0975 - 8887) Volume 124 - No.12, August 2015, Thadomal Shahani Engineering College Mumbai, India
+\bibitem{b2} Vargas, Manuel R., Beatriz SLP De Lima, and Alexandre G. Evsukoff.  ``Deep learning for stock market prediction from financial news articles.'', 2017 IEEE international conference on computational intelligence and virtual environments for measurement systems and applications (CIVEMSA). IEEE, 2017.
+\bibitem{b3} Vijh, Mehar, et al. ``Stock closing price prediction using machine learning techniques.'', Procedia computer science 167 (2020): 599-606.
+\bibitem{b4} Obthong, Mehtabhorn, et al.  ``A survey on machine learning for stock price prediction: Algorithms and techniques.'', (2020): 63-71.
+\bibitem{b5} Patel, Ramkrishna, et al. ``Review of stock prediction using machine learning techniques.'', 021 5th International Conference on Trends in Electronics and Informatics (ICOEI). IEEE, 2021.
 \end{thebibliography}
 \vspace{12pt}
 
