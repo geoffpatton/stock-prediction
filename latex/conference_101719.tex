@@ -10,9 +10,10 @@
 \usepackage{xcolor}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+
 \begin{document}
 
-\title{Stock Price Prediction using Machine Learning Models }
+\title{Stock Price Prediction using Machine Learning Models}
 
 \author{\IEEEauthorblockN{1\textsuperscript{st}Geoff Patton, 2\textsuperscript{nd}Rohit Bhattacharya, 3\textsuperscript{rd}Fengtian Lu, 4\textsuperscript{th}Ananda Mahalingam }
 \IEEEauthorblockA{
@@ -41,11 +42,11 @@ This paper lays out the results from different models, provides an accuracy scor
 Comcast Corporation operates as a media and technology company worldwide.
 It operates through Residential Connectivity \& Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments.
 The Residential Connectivity \& Platforms segment provides residential broadband and wireless connectivity services, residential and business video services, advertising sales, and Sky channels. Some of the top competitors of Comcast include Verizon, AT\&T, Charter Communications, Dish Network, and Walt Disney Company.
-Comcast stock is listed in the NASDAQ stock exchange using the symbol (CMCSA).
+Comcast stock is listed in the NASDAQ stock exchange using the symbol (CMCSA).\par
 Machine learning is a branch of artificial intelligence that analyzes complex sets of historical data, discovers hidden relationships between data sets, makes forecasts, and learns along the way to become even more accurate.
 Such capabilities make ML-based tools well-suited for financial analysis.
 Machine learning (ML) is playing an increasingly significant role in stock trading.
-Predicting market fluctuations, studying consumer behavior, and analyzing stock price dynamics are examples of how investment companies can use machine learning for stock trading.
+Predicting market fluctuations, studying consumer behavior, and analyzing stock price dynamics are examples of how investment companies can use machine learning for stock trading.\par
 In this paper, we shall use the machine learning models to predict the stock price of Comcast (CMCSA) and one of its prime competitors, Verizon (VZ).
 The predicted price can then be compared with the actual stock price to arrive at an accuracy score. Regression is a key element of predictive modelling and is a perfect fit for predicting financial stock prices.
 We will be using various regression models for our study here.
@@ -65,7 +66,7 @@ Their services are often priced very competitively - especially for personal use
 One such newcomer is finnhub.io. Its offering includes stock, bond, crypto, and FX historical price data and real time trades and quotes.
 Their fundamental data offering is noticeably broad and includes current values and point-in-time snapshots for numerous metrics.
 There are also some interesting alternative data sets including measures of social media sentiment, insider transactions and insider sentiment, senate lobbying, government spending, and others.
-In addition, there is a real-time newsfeed delivered over web-sockets.
+In addition, there is a real-time newsfeed delivered over web-sockets.\par
 Our dataset for this research activity has been prepared using FinnHub free tier.
 The free tier is quite generous and offers more than enough for doing proof of concept work and testing ideas.
 It contains quite a few Rest API endpoints and allows 60 calls per minute.
@@ -100,12 +101,8 @@ Each value of the variable is subtracted by the min value and divided by the dif
 The procedure does not change the distribution of the feature.
 Before normalization, outliers should be handled.
 
-%\begin{equation}
-%Xnorm = \frac{X - X\min_}{X\max_ - X\min_}
-%\end{equation}
-
 \begin{equation}
-Xnorm = \frac{X - \min_{X}}{\max_{X} - \min_{X}}
+    Xnorm = \frac{X - X_{\min}}{X_{\max} - X_{\min}}
 \end{equation}
 
 \subsubsection{Standardization}
@@ -114,12 +111,7 @@ This method is also called the z-score and scale each of the values of a column 
 This technique decreases the effect of outliers in each feature.
 
 \begin{equation}
-\sigma = \sqrt\frac{\sum{(X-\mu)^2}}{N}
-\end{equation}
-
-
-\begin{equation}
-s = \sqrt\frac{\sum{(x_i-\bar{x})^2}}{n-1}
+    Z = \frac{x - \mu}{\sigma}
 \end{equation}
 
 
@@ -138,7 +130,7 @@ This data set contains the daily open, high, low, close, and volume values (OHLC
     \caption{This shows the distribution of the candlestick data for the CMCSA ticker symbol.}
 \end{figure}
 
-\subsection{Machine Learning Models}
+\subsection{Machine Learning Models} \label{sec:models}
 
 \subsubsection{Linear Regression}
 Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data.
@@ -146,13 +138,14 @@ One variable is considered an explanatory variable, and the other a dependent va
 It must be determined if there is a relationship between the variables of interest.
 A scatterplot can be a helpful tool in determining the strength of the relationship between two variables.
 If there appears to be no association between the proposed explanatory and dependent variables, then fitting a linear regression model to the data will not provide a useful model.
-A linear regression line has an equation of the form:
-\begin{equation}
-\hat{y} = \hat{\beta_{0}} + \hat{\beta_{1}}x  \\ \label{eq:1}
-\end{equation}
-where X is the explanatory variable and Y is the dependent variable.
-The slope of the line is b, and a is the intercept (the value of y when x = 0).
+A linear regression line has an equation of the form below:
 
+\begin{equation} \label{eq:lr}
+    Y = a + bX
+\end{equation}
+
+In equation \ref{eq:lr}, X is the explanatory variable and Y is the dependent variable.
+b is the slope and a is the intercept (value of y when x = 0).
 
 \subsubsection{Locally Weighted Linear Regression}
 LWLR is a non-parametric regression technique that fits a linear regression model to a dataset by giving more weight to nearby data points.
@@ -179,8 +172,6 @@ The topmost decision node in a tree which corresponds to the best predictor is c
 Decision trees can handle both categorical and numerical data.
 The Accuracy of the model can be calculated using Mean Squared Error formula:
 
---- Add Formula --- MSE...
-
 \subsubsection{Random Forest Regressor}
 Random Forest is a ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and Aggregation, commonly known as bagging.
 The basic idea behind this is to combine multiple decision trees in determining the final output rather than relying on individual decision trees.
@@ -203,22 +194,36 @@ Traditional linear regression assumes that data follows a Gaussian or normal dis
 
 \subsection{Experiment and Results}
 
-The predicted and actual stock prices comparison for the last 8 months has been shown below for the various regression models.
+The predicted and actual stock prices comparison for the last 8 months can be viewed in Figure \ref{fig:lr}-\ref{fig:bay_ridge} for the models described in \ref{sec:models}.
+The precision for each model is displayed in the Metrics Table in Figure \ref{fig:metrics}.
+The metrics include the R-squared score, Mean Squared Error (\ref{eq:mse}), Mean Absolute Error (\ref{eq:mae}), Mean Absolute Percentage Error.
+
+\begin{equation}
+    \sum_{i=1}^{D}(x_i-y_i)^2
+    \label{eq:mse}
+\end{equation}
+
+\begin{equation}
+    \sum_{i=1}^{D}|x_i-y_i|
+    \label{eq:mae}
+\end{equation}
+
 The regression models perform well for the most part apart from minor variations at certain points.
 
-\begin{figure}
+\begin{figure}[b]
     \includegraphics[width=\columnwidth]{LinearRegression}
-    \caption{Basic LinearRegression}
+    \caption{Basic Linear Regression}
+    \label{fig:lr}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{Locally-Weighted LinearRegression}
-    \caption{Locally-Weighted LinearRegression}
+    \caption{Locally-Weighted Linear Regression}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{K-Fold CV LinearRegression}
-    \caption{LinearRegression with K-Fold Cross Validation}
+    \caption{Linear Regression with K-Fold Cross Validation}
 \end{figure}
 
 \begin{figure}
@@ -239,12 +244,14 @@ The regression models perform well for the most part apart from minor variations
 \begin{figure}
     \includegraphics[width=\columnwidth]{BayesianRidge}
     \caption{Bayesian Ridge Regressor}
+    \label{fig:bay_ridge}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{metrics}
     \caption{Metrics for each model. Including the R-squared score, Mean Squared Error (MSE),
     Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE)}
+    \label{fig:metrics}
 \end{figure}
 
 
@@ -255,7 +262,7 @@ The Stock prediction is a regression problem and hence we have chosen various re
 For our experiment, the Data set was obtained using the Finn Hub Free tier APIs and we could only get the data for the last one year.
 With subscription, Finn Hub provides the entire data set including historical data for the last 10 years. The data set was split into 80\% training and 20\% testing set.
 The training set was used to train the model and then use the testing set to predict the stock price. The predicted results are then compared with the actual stock price to calculate the accuracy. Based on the results, all the regression models provide an accuracy of above 90\% but the linear regression models provide an accuracy of above 98\%.
-Hence, we conclude that linear regression is the most appropriate model for predicting stock prices.
+Hence, we conclude that linear regression is the most appropriate model for predicting stock prices.\par
 We could add additional features to the training set such as other financial data, stock market sentiment data etc., and improve the accuracy score. Despite the constraints with the limited data set, the initial results show that the linear regression can be used to accurately predict the stock prices.
 
 \section{Future Work}
