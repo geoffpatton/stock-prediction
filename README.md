@@ -3,7 +3,7 @@ Financial Market Prediction
 
 ## Financial Market Data Prediction and Analysis
 
-### Group 1 - Members
+### Group Members
 - Geoff Patton - gp495@drexel.edu
 - Ananda Mahalingam - asm465@drexel.edu
 - Fengtian Lu - fl373@drexel.edu
@@ -14,7 +14,7 @@ This application performs a financial analysis on a company utilizing historical
 
 ### Code Overview
 This project contains two jupyter notebooks:
-1. `final_project_impl.ipynb` - Main notebook which includes the following:
+1. `stock_price_prediction.ipynb` - Main notebook which includes the following:
     - Stock Prediction using Machine Learning - Utilizing financial data to predict the price of a stock. This implements python's machine learning libraries to execute the prediction. This implementation will also plot the graphs between actual/predicted/future 'close' price for comparison.
     - Exploritory Data Analysis - Displays information related to a company including it latest analyst recommendations, historical earnings, social media sentiment, and a recent history of a stock's price along with technical indicators.
 2. `financial_data_preprocessor.ipynb` - Notebook used to gather financial data
@@ -38,14 +38,14 @@ Below is a list of the data that we gathered:
    - `social_media_sentiment.csv`
 
 ### Project Results
-The project results are available in the "Modeling and Prediction" section of the final_project_impl.ipynb project file.
+The project results are generated in the "Modeling and Prediction" section inside of `stock_price_prediction.ipynb`.
 
 ### Limitations and Challenges:
  - Our historical data is limited due to using a free version of finnhub. Which limits our API calls to 60 a minute.
  - A challenge for the future would be to predict the stock price further in the future as well as when to buy or sell a stock
 
 ## Running the Application
-1. `final_project_impl.ipynb`: this notebook will use the local CSV files to run the analysis
+1. `stock_price_prediction.ipynb`: this notebook will use the local CSV files to run the analysis
 
 
 ### Software Pre-requisites:
@@ -61,11 +61,11 @@ pip install seaborn
 
 ### Running with Visual Studio Code
 1. Install or enable the Python and Jupyter extenstions
-2. Open the `final_project_impl.ipynb` jupyter notebook
+2. Open the `stock_price_prediction.ipynb` jupyter notebook
 3. Press `Run All` Button
 
 ### Running with jupyter notebook server
-1. Run the `jupyter notebook` command in terminal from `dsci-521-project` directory
+1. Run the `jupyter notebook` command in terminal from the project directory (`stock-prediction`)
 2. The notebook should open in your browser.
 3. From the browser run all cells
 
