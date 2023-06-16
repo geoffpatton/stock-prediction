@@ -53,7 +53,7 @@ We will be using various regression models for our study here.
 
 \section{Related Work}
 
-Mehar Vijh, Deeksha Chandola , Vinay Anand Tikkiwal, and Arun Kumar tested Random Forest along with neural networks using 4 features (\,Open, High, Low, and Close)\, using RMSE and MAPE as indicators and found that they were effective in predicting the stock prices \cite{b3}.
+Mehar Vijh, Deeksha Chandola, Vinay Anand Tikkiwal, and Arun Kumar tested Random Forest along with neural networks using 4 features (\,Open, High, Low, and Close)\, using the Root Mean Squared Error (RMSE) and the Mean Absolute Percentage Error (MAPE) metrics as indicators and found that they were effective in predicting the stock prices \cite{b3}.
 Mehtabhorn Obthong, Nongnuch Tantisantiwong, Watthanasak Jeamwatthanachai and Gary Wills used various ML techniques partially focused on regression to predict stock prices including KNN, Neural Networks and Random Forest \cite{b4}.
 Ramkrishna Patel, Vikas Choudhary, Deepika Saxena, and Ashutosh Kumar Singh discussed feature reduction in data pre-processing in application of different approaches including Naïve Bayes, KNN, and Linear Regression to predict stock prices \cite{b5}.
 
@@ -148,12 +148,13 @@ In equation \ref{eq:lr}, X is the explanatory variable and Y is the dependent va
 b is the slope and a is the intercept (value of y when x = 0).
 
 \subsubsection{Locally Weighted Linear Regression}
-LWLR is a non-parametric regression technique that fits a linear regression model to a dataset by giving more weight to nearby data points.
+Locally Weighted Linear Regression (LWLR) is a non-parametric regression technique that fits a linear regression model to a dataset by giving more weight to nearby data points.
 LWLR fits a separate linear regression model for each query point based on the weights assigned to the training data points.
 The weights assigned to each training data point are inversely proportional to their distance from the query point.
 Training data points that are closer to the query point will have a higher weight and contribute more to the linear regression model.
 LWLR is useful when a global linear model does not capture the relationship between the input and output variables.
 The goal is to capture local patterns in the data.
+(Figure \ref{fig:lwlr})
 
 \subsubsection{K-Folds Cross Validation}
 Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample.
@@ -161,6 +162,7 @@ The procedure has a single parameter called k that refers to the number of group
 When a specific value for k is chosen, it may be used in place of k in reference to the model, such as k=20 becoming 20-fold cross-validation.
 Cross-validation is primarily used in applied machine learning to estimate the skill of a machine learning model on unseen data.
 That is, to use a limited sample to estimate how the model is expected to perform in general when used to make predictions on data not used during the training of the model.
+(Figure \ref{fig:kflr})
 
 \subsubsection{Decision Tree Regressor}
 Decision trees build regression or classification models in the form of a tree structure.
@@ -170,7 +172,7 @@ A decision node has two or more branches, each representing values for the attri
 The leaf node represents a decision on the numerical target.
 The topmost decision node in a tree which corresponds to the best predictor is called root node.
 Decision trees can handle both categorical and numerical data.
-The Accuracy of the model can be calculated using Mean Squared Error formula:
+(Figure \ref{fig:dt})
 
 \subsubsection{Random Forest Regressor}
 Random Forest is a ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap and Aggregation, commonly known as bagging.
@@ -178,12 +180,14 @@ The basic idea behind this is to combine multiple decision trees in determining 
 Random Forest has multiple decision trees as base learning models.
 We randomly perform row sampling and feature sampling from the dataset forming sample datasets for every model.
 This part is called Bootstrap.
+(Figure \ref{fig:rf})
 
 \subsubsection{Gradient Boosting}
 Gradient boosting is a machine learning technique used in regression and classification tasks, among others.
 It gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees.
 When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest.
 A gradient-boosted trees model is built in a stage-wise fashion as in other boosting methods, but it generalizes the other methods by allowing optimization of an arbitrary differentiable loss function.
+(Figure \ref{fig:gb})
 
 \subsubsection{Bayesian Ridge}
 Bayesian regression is a type of linear regression that uses Bayesian statistics to estimate the unknown parameters of a model.
@@ -191,12 +195,13 @@ It uses Bayes theorem to estimate the likelihood of a set of parameters given ob
 The goal of Bayesian regression is to find the best estimate of the parameters of a linear model that describes the relationship between the independent and the dependent variables.
 The main difference between traditional linear regression and Bayesian regression is the underlying assumption regarding the data-generating process.
 Traditional linear regression assumes that data follows a Gaussian or normal distribution, while Bayesian regression has stronger assumptions about the nature of the data and puts a prior probability distribution on the parameters.
+(Figure \ref{fig:bay_ridge})
 
 \subsection{Experiment and Results}
 
 The predicted and actual stock prices comparison for the last 8 months can be viewed in Figure \ref{fig:lr}-\ref{fig:bay_ridge} for the models described in \ref{sec:models}.
 The precision for each model is displayed in the Metrics Table in Figure \ref{fig:metrics}.
-The metrics include the R-squared score, Mean Squared Error (\ref{eq:mse}), Mean Absolute Error (\ref{eq:mae}), Mean Absolute Percentage Error.
+The metrics include the R-squared score, Mean Squared Error (\ref{eq:mse}), Mean Absolute Error (\ref{eq:mae}), and the Mean Absolute Percentage Error.
 
 \begin{equation}
     \sum_{i=1}^{D}(x_i-y_i)^2
@@ -219,26 +224,31 @@ The regression models perform well for the most part apart from minor variations
 \begin{figure}
     \includegraphics[width=\columnwidth]{Locally-Weighted LinearRegression}
     \caption{Locally-Weighted Linear Regression}
+    \label{fig:lwlr}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{K-Fold CV LinearRegression}
     \caption{Linear Regression with K-Fold Cross Validation}
+    \label{fig:kflr}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{DecisionTreeRegressor}
     \caption{Decision Tree Regressor}
+    \label{fig:dt}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{RandomForestRegressor}
     \caption{Random Forest Regressor}
+    \label{fig:rf}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{GradientBoostingRegressor}
     \caption{Gradient Boosting Regressor}
+    \label{fig:gb}
 \end{figure}
 
 \begin{figure}
@@ -279,12 +289,12 @@ Below are examples of the financial market data that could be included in our da
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{trends}
-    \caption{The monthly stock analyst recommendation for Comcast.}
+    \caption{Monthly stock analyst recommendation for Comcast.}
 \end{figure}
 
 \begin{figure}
     \includegraphics[width=\columnwidth]{earnings}
-    \caption{Quarterly Estimated and actual earnings per share for Comcast and Verizon.}
+    \caption{Quarterly Estimated vs Actual Earnings per Share for Comcast and Verizon.}
 \end{figure}
 
 \begin{figure}
