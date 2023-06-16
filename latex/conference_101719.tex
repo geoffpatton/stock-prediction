@@ -29,7 +29,7 @@ gp495@drexel.edu, rb689@drexel.edu, fl373@drexel.edu, asm465@drexel.edu}
 Prediction of stock prices has been a major area of research for a long time.
 While supporters of the efficient market hypothesis believe that it is impossible to predict stock prices accurately, there are formal propositions demonstrating that accurate modeling and designing of appropriate variables may lead to models using which stock prices and stock price movement patterns can be very accurately predicted.
 This paper attempts to predict stock price of few ticker symbols to prove the theory.
-We propose an approach of modeling for stock price prediction for CMCSA (Comcast) and its competitors building different machine learning and deep learning-based models.
+We propose an approach of modeling for stock price prediction for CMCSA (Comcast) and its competitors building different machine learning models.
 This paper also attempts to compare the price prediction from different models for different ticker symbols.
 The Data collected from Finn Hub using the Finn Hub APIs, preprocessed, and prepared for training the model.
 The Dataset will be split into 80\%-20\% split with 80\% of the data used for training the model.
@@ -53,9 +53,11 @@ We will be using various regression models for our study here.
 
 \section{Related Work}
 
-Mehar Vijh, Deeksha Chandola, Vinay Anand Tikkiwal, and Arun Kumar tested Random Forest along with neural networks using 4 features (\,Open, High, Low, and Close)\, using the Root Mean Squared Error (RMSE) and the Mean Absolute Percentage Error (MAPE) metrics as indicators and found that they were effective in predicting the stock prices \cite{b3}.
-Mehtabhorn Obthong, Nongnuch Tantisantiwong, Watthanasak Jeamwatthanachai and Gary Wills used various ML techniques partially focused on regression to predict stock prices including KNN, Neural Networks and Random Forest \cite{b4}.
-Ramkrishna Patel, Vikas Choudhary, Deepika Saxena, and Ashutosh Kumar Singh discussed feature reduction in data pre-processing in application of different approaches including Naïve Bayes, KNN, and Linear Regression to predict stock prices \cite{b5}.
+\begin{itemize}
+    \item Mehar Vijh, Deeksha Chandola, Vinay Anand Tikkiwal, and Arun Kumar tested Random Forest along with neural networks using 4 features (\,Open, High, Low, and Close)\, using the Root Mean Squared Error (RMSE) and the Mean Absolute Percentage Error (MAPE) metrics as indicators and found that they were effective in predicting the stock prices \cite{b3}.
+    \item Mehtabhorn Obthong, Gary Wills, Nongnuch Tantisantiwong, and Watthanasak Jeamwatthanachai used various ML techniques partially focused on regression to predict stock prices including k-nearest neighbors (KNN), Neural Networks and Random Forest \cite{b4}.
+    \item Ramkrishna Patel, Vikas Choudhary, Deepika Saxena, and Ashutosh Kumar Singh discussed feature reduction in data pre-processing in application of different approaches including Naïve Bayes, KNN, and Linear Regression to predict stock prices \cite{b5}.
+\end{itemize}
 
 \section{Methodology}
 
@@ -108,10 +110,11 @@ Before normalization, outliers should be handled.
 \subsubsection{Standardization}
 
 This method is also called the z-score and scale each of the values of a column by removing from them the mean of the column and divided by the standard deviation.
-This technique decreases the effect of outliers in each feature.
+This technique decreases the effect of outliers in each feature. The formula for Standardization is displayed in equation \ref{eq:std}.
 
 \begin{equation}
     Z = \frac{x - \mu}{\sigma}
+    \label{eq:std}
 \end{equation}
 
 
@@ -297,7 +300,9 @@ Below are examples of the financial market data that could be included in our da
     \caption{Quarterly Estimated vs Actual Earnings per Share for Comcast and Verizon.}
 \end{figure}
 
-\begin{figure}
+\clearpage
+
+\begin{figure}[t]
     \includegraphics[width=\columnwidth]{tech_indicators}
     \caption{Stock Chart with Technical Indicators}
 \end{figure}
