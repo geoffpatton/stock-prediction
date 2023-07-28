@@ -138,3 +138,14 @@ dmypy.json
 *.ntvs*
 *.njsproj
 *.sln
+
+# LaTeX temporary files
+*.aux
+*.toc
+*.fdb_latexmk
+*.synctex.gz
+*.fls
+
+# BibTeX
+*.bbl
+*.blg
